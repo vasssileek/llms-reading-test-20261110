@@ -1,0 +1,3 @@
+Public file reading check.
+Marker: DOG-CATALOG-NOV10-Q7M4.
+End marker: REACHED-END-K9P2.
