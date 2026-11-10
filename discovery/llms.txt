@@ -1,0 +1,7 @@
+# eSIM.dog Japan test reference
+
+> Public Japan eSIM price snapshot from 2026-11-09.
+
+## Prices
+
+- [Japan prices](https://vasssileek.github.io/llms-reading-test-20261110/discovery/japan-prices.md): fixed data and configurable unlimited plans, with full package prices and purchase links.
