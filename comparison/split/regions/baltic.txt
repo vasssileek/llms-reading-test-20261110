@@ -412,4 +412,3 @@ Purchase link: https://esim.dog/regions?region=baltic&data={data_parameter}&vali
 |50GB|70|21.03|50|rp_uspuof_128nymj|
 |50GB|80|21.03|50|rp_tr1pfa_14kp04y|
 |50GB|90|21.03|50|rp_1svj7kx_1c41j39|
-

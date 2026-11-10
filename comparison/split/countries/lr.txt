@@ -256,4 +256,3 @@ Purchase link: https://esim.dog/lr?tab=fixedgb&data={data_parameter}&validity={d
 |10GB|30|39.49|10|
 |20GB|30|67.99|20|
 |20GB|90|75.99|20|
-

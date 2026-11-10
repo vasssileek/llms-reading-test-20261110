@@ -50,4 +50,3 @@ Purchase link: https://esim.dog/tl?tab=fixedgb&data={data_parameter}&validity={d
 |5GB|30|5.23|5|
 |10GB|30|9.09|10|
 |20GB|30|18.49|20|
-

@@ -1046,4 +1046,3 @@ Purchase link: https://esim.dog/regions?region=south-east-asia&data={data_parame
 |10GB|1|10.99|10|rp_c9xf0o_c0iayk|
 |10GB|30|9.49|10|rp_n6u9vu_8y599a|
 |20GB|30|18.99|20|rp_ez7lri_k8ckhu|
-

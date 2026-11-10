@@ -18,4 +18,3 @@ Purchase link: https://esim.dog/regions?region=regional&data={data_parameter}&va
 |---|---:|---:|---:|---|
 |1GB|30|3.04|1|rp_1nq63q3_1j3vqrj|
 |3GB|30|8.99|3|rp_14k1dk5_x7afhl|
-

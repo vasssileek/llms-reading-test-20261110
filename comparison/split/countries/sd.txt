@@ -255,4 +255,3 @@ Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={d
 |---|---:|---:|---:|
 |3GB|30|16.49|3|
 |5GB|30|19.98|5|
-

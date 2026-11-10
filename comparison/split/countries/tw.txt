@@ -390,4 +390,3 @@ Purchase link: https://esim.dog/tw?tab=fixedgb&data={data_parameter}&validity={d
 |---|---:|---:|---:|
 |1GB|365|7.99|1|
 |20GB|90|70.99|20|
-

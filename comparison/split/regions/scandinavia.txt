@@ -808,4 +808,3 @@ Purchase link: https://esim.dog/regions?region=scandinavia&data={data_parameter}
 |50GB|80|21.03|50|rp_iqjthy_1jj1ziy|
 |50GB|90|21.03|50|rp_14xc2dj_c39qqb|
 |50GB|90|21.03|50|rp_1hv1bnl_9nqsul|
-

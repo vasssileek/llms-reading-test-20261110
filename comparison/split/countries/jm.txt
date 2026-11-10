@@ -334,4 +334,3 @@ Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={d
 |Data|Days|USD|Data parameter|
 |---|---:|---:|---:|
 |20GB|90|30.98|20|
-

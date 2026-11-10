@@ -171,4 +171,3 @@ Networks: Madar.
 Purchase link: https://esim.dog/ly?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
 Full package prices (days=USD):
 1=54.61;2=109.21;3=163.81;4=218.41;5=261.64;6=313.97;7=377.67;8=424.31;9=470.95;10=517.59;11=565.37;12=613.14;13=660.92;14=708.69;15=795.71
-

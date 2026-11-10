@@ -73,4 +73,3 @@ Purchase link: https://esim.dog/bi?tab=fixedgb&data={data_parameter}&validity={d
 |50GB|70|279.99|50|
 |50GB|80|279.99|50|
 |50GB|90|279.99|50|
-

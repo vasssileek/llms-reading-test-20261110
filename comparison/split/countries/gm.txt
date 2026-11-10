@@ -245,4 +245,3 @@ Networks: Comium.
 Purchase link: https://esim.dog/gm?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
 Full package prices (days=USD):
 1=65.72;2=131.43;3=197.14;4=262.85;5=314.88;6=377.85;7=454.52;8=510.65;9=566.77;10=622.90;11=680.40;12=737.90;13=795.40;14=852.90;15=957.63
-

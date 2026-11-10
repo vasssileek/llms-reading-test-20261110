@@ -461,4 +461,3 @@ Purchase link: https://esim.dog/regions?region=balkans&data={data_parameter}&val
 |10GB|10|26.49|10|rp_zenatw_hq5kko|
 |10GB|15|26.99|10|rp_ykohqz_1pgfhbz|
 |10GB|30|29.49|10|rp_1tdmoqu_qgzh4q|
-

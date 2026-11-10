@@ -101,4 +101,3 @@ Purchase link: https://esim.dog/mm?tab=fixedgb&data={data_parameter}&validity={d
 |100MB|45|9.99|0.09999999962747097|
 |100MB|60|11.49|0.09999999962747097|
 |100MB|90|13.99|0.09999999962747097|
-
