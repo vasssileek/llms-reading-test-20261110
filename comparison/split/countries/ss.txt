@@ -1,0 +1,156 @@
+# eSIM.dog: South Sudan
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### South Sudan (SS)
+
+#### South Sudan: fixed data, Amber Essential
+Networks: MTN. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ss?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|3.22|0.09999999962747097|
+|100MB|3|3.22|0.09999999962747097|
+|100MB|5|3.22|0.09999999962747097|
+|100MB|7|3.22|0.09999999962747097|
+|500MB|9|20.49|0.5|
+|500MB|10|20.99|0.5|
+|500MB|15|22.49|0.5|
+|500MB|25|23.49|0.5|
+|500MB|60|22.98|0.5|
+|500MB|70|22.98|0.5|
+|500MB|80|22.98|0.5|
+|500MB|90|22.98|0.5|
+|1GB|60|48.99|1|
+|1GB|70|49.49|1|
+|1GB|80|50.49|1|
+|1GB|90|51.89|1|
+|2GB|60|83.99|2|
+|2GB|70|84.99|2|
+|2GB|80|86.99|2|
+|2GB|90|88.49|2|
+|3GB|60|133.49|3|
+|3GB|70|134.99|3|
+|3GB|90|139.99|3|
+
+#### South Sudan: fixed data, Black
+Networks: MTN. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ss?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|90|8.94|0.09999999962747097|
+|500MB|1|31.99|0.5|
+|500MB|2|35.99|0.5|
+|500MB|3|37.49|0.5|
+|500MB|5|38.99|0.5|
+|1GB|1|62.49|1|
+|1GB|2|70.99|1|
+|1GB|3|73.49|1|
+|1GB|5|75.99|1|
+|1GB|6|80.99|1|
+|1GB|7|80.99|1|
+|1GB|9|80.99|1|
+|1GB|10|82.49|1|
+|1GB|15|87.49|1|
+|1GB|25|92.99|1|
+|2GB|1|107.49|2|
+|2GB|2|121.99|2|
+|2GB|3|126.49|2|
+|2GB|5|130.99|2|
+|2GB|9|138.99|2|
+|2GB|10|141.49|2|
+|2GB|15|150.49|2|
+|2GB|25|159.49|2|
+|3GB|1|170.49|3|
+|3GB|2|193.49|3|
+|3GB|3|200.49|3|
+|3GB|5|207.49|3|
+|3GB|9|220.49|3|
+|3GB|10|224.49|3|
+|3GB|14|238.99|3|
+|3GB|15|238.99|3|
+|3GB|25|253.49|3|
+|3GB|30|266.49|3|
+|4GB|1|216.99|4|
+|4GB|2|246.99|4|
+|4GB|3|255.99|4|
+|4GB|5|264.99|4|
+|4GB|9|281.49|4|
+|4GB|10|285.99|4|
+|6GB|1|251.99|6|
+|6GB|3|296.99|6|
+
+#### South Sudan: fixed data, Blue
+Networks: MTN. Internet exit: US.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ss?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|13.49|1|
+|1GB|7|11.99|1|
+|2GB|1|24.99|2|
+|3GB|1|35.99|3|
+|3GB|15|31.99|3|
+|3GB|30|33.99|3|
+|5GB|30|52.99|5|
+|10GB|30|95.99|10|
+|20GB|30|197.49|20|
+
+#### South Sudan: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=12.63;2=25.26;3=37.88;4=69.73;5=69.91;6=72.59;7=87.31;8=98.09;9=108.88;10=119.66;11=130.71;12=141.76;13=152.80;14=163.85;15=183.97
+16=193.57;17=203.17;18=212.77;19=222.37;20=231.97;21=234.73;22=248.27;23=261.82;24=275.36;25=288.90;26=297.71;27=306.52;28=315.33;29=324.14;30=332.95
+31=343.42;32=353.89;33=364.35;34=374.82;35=385.29;36=395.76;37=406.22;38=416.69;39=427.16;40=437.63;41=448.09;42=458.56;43=469.03;44=479.50;45=489.97
+46=500.43;47=510.90;48=521.37;49=531.84;50=542.30;51=552.77;52=563.24;53=573.71;54=584.17;55=594.64;56=605.11;57=615.58;58=626.04;59=636.51;60=646.98
+61=657.76;62=668.55;63=679.33;64=690.11;65=700.89;66=711.68;67=722.46;68=733.24;69=744.02;70=754.81;71=765.59;72=776.37;73=787.15;74=797.94;75=808.72
+76=819.50;77=830.29;78=841.07;79=851.85;80=862.63;81=873.42;82=884.20;83=894.98;84=905.76;85=916.55;86=927.33;87=938.11;88=948.89;89=959.68;90=970.46
+
+#### South Sudan: 2GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&limit=2&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=23.99;2=47.97;3=71.95;4=95.94;5=114.92;6=137.91;7=165.89;8=186.38;9=206.86;10=227.35;11=248.34;12=269.32;13=290.31;14=311.29;15=349.51
+16=367.75;17=385.98;18=404.22;19=422.45;20=440.69;21=445.94;22=471.67;23=497.40;24=523.13;25=548.86;26=565.60;27=582.34;28=599.07;29=615.81;30=632.55
+
+#### South Sudan: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=34.08;2=68.16;3=102.24;4=136.31;5=163.29;6=195.95;7=235.71;8=264.82;9=293.92;10=323.03;11=352.85;12=382.67;13=412.48;14=442.30;15=496.61
+16=522.52;17=548.44;18=574.35;19=600.27;20=626.18;21=633.64;22=670.20;23=706.76;24=743.32;25=779.88;26=803.66;27=827.44;28=851.23;29=875.01;30=898.79
+
+#### South Sudan: 5GB high-speed data per day, then unlimited at 384 Kbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&limit=5&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=44.18;2=88.35;3=132.52;4=176.69;5=211.66;6=254.00;7=305.53;8=343.26;9=380.99;10=418.72;11=457.37;12=496.02;13=534.67;14=573.32;15=643.72
+16=677.31;17=710.90;18=744.49;19=778.08;20=811.67;21=821.33
+
+#### South Sudan: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=82.04;2=164.07;3=246.10;4=328.13;5=393.08;6=471.69;7=567.40;8=637.47;9=707.53;10=777.60
+
+#### South Sudan: Fully unlimited, up to 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ss?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=12.55;2=25.12;3=37.68;4=50.23;5=60.17;6=72.21;7=84.25;8=94.98;9=105.72;10=116.44;11=128.08;12=139.74;13=151.38;14=163.02;15=174.66
+16=184.21;17=193.77;18=203.32;19=212.87;20=222.42;21=233.55;22=244.67;23=255.79;24=266.91;25=278.03;26=286.80;27=295.57;28=304.33;29=313.10;30=321.87
+31=332.59;32=343.33;33=354.05;34=364.78;35=375.51;36=386.24;37=396.97;38=407.70;39=418.42;40=429.16;41=439.89;42=450.61;43=461.34;44=472.07;45=482.80
+46=493.53;47=504.26;48=514.99;49=525.72;50=536.44;51=547.18;52=557.91;53=561.36;54=562.77;55=564.18;56=565.60;57=567.02;58=568.44;59=569.87;60=571.30
+61=580.82;62=590.34;63=599.87;64=609.39;65=618.91;66=628.43;67=637.95;68=647.47;69=657.00;70=666.52;71=676.04;72=685.56;73=695.08;74=704.60;75=714.13
+76=723.65;77=733.17;78=742.69;79=752.21;80=761.73;81=771.26;82=780.78;83=790.30;84=799.82;85=809.34;86=818.86;87=828.39;88=837.91;89=847.43;90=856.95
+91=866.47;92=875.99;93=885.52;94=895.04;95=904.56;96=914.08;97=923.60;98=933.12;99=942.65;100=952.17;101=961.69;102=971.21;103=980.73;104=990.25;105=999.78
+

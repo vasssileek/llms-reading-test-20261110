@@ -1,0 +1,307 @@
+# eSIM.dog: Ivory Coast
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Ivory Coast (CI)
+
+#### Ivory Coast: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.48|1|
+|1GB|7|4.99|1|
+|2GB|15|7.49|2|
+|3GB|30|7.49|3|
+|5GB|7|29.49|5|
+|5GB|15|32.99|5|
+|5GB|30|10.98|5|
+|5GB|60|11.91|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+|10GB|30|24.49|10|
+|10GB|180|66.49|10|
+|20GB|30|42.99|20|
+|20GB|365|67.26|20|
+|60GB|125|197.49|60|
+
+#### Ivory Coast: fixed data, Black
+Networks: Orange Ivory Coast. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|1|0.99|0.5|
+|500MB|7|2.48|0.5|
+|500MB|30|3.22|0.5|
+|1GB|1|2.99|1|
+|1GB|2|2.48|1|
+|1GB|3|2.48|1|
+|1GB|4|2.48|1|
+|1GB|5|2.94|1|
+|1GB|6|2.48|1|
+|1GB|7|2.48|1|
+|1GB|30|4.61|1|
+|1GB|90|4.99|1|
+|2GB|1|4.93|2|
+|2GB|14|5.17|2|
+|2GB|15|5.17|2|
+|2GB|30|5.17|2|
+|3GB|1|5.17|3|
+|3GB|10|5.17|3|
+|3GB|15|7.49|3|
+|3GB|30|7.49|3|
+|3GB|90|15.65|3|
+|4GB|1|8.13|4|
+|4GB|30|8.13|4|
+|4GB|60|11.91|4|
+|5GB|1|8.13|5|
+|5GB|6|8.13|5|
+|5GB|7|8.13|5|
+|5GB|12|8.13|5|
+|5GB|14|8.13|5|
+|5GB|15|8.13|5|
+|5GB|20|15.99|5|
+|5GB|25|13.99|5|
+|5GB|30|10.98|5|
+|5GB|45|11.91|5|
+|5GB|60|11.91|5|
+|5GB|90|23.99|5|
+|7GB|30|14.98|7|
+|9GB|1|14.98|9|
+|9GB|15|14.98|9|
+|10GB|1|14.98|10|
+|10GB|6|14.98|10|
+|10GB|7|14.98|10|
+|10GB|9|14.98|10|
+|10GB|10|18.99|10|
+|10GB|12|19.99|10|
+|10GB|15|21.49|10|
+|10GB|20|21.49|10|
+|10GB|25|23.99|10|
+|10GB|30|22.99|10|
+|10GB|90|37.99|10|
+|12GB|10|17.24|12|
+|15GB|1|17.24|15|
+|15GB|90|44.99|15|
+|20GB|1|29.99|20|
+|20GB|3|33.99|20|
+|20GB|5|34.99|20|
+|20GB|7|36.99|20|
+|20GB|9|41.49|20|
+|20GB|10|44.99|20|
+|20GB|12|39.99|20|
+|20GB|15|46.99|20|
+|20GB|20|42.49|20|
+|20GB|25|47.99|20|
+|20GB|30|47.99|20|
+|20GB|80|51.89|20|
+|20GB|90|51.89|20|
+|30GB|90|55.80|30|
+|50GB|1|66.99|50|
+|50GB|3|78.99|50|
+|50GB|7|86.99|50|
+|50GB|9|87.49|50|
+|50GB|10|88.49|50|
+|50GB|12|93.99|50|
+|50GB|15|93.99|50|
+|50GB|20|99.99|50|
+|50GB|25|99.99|50|
+|50GB|30|104.99|50|
+
+#### Ivory Coast: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|6|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|46.99|5|
+|5GB|15|46.49|5|
+|5GB|20|46.99|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|6|59.99|10|
+|10GB|7|59.99|10|
+|10GB|9|60.49|10|
+|10GB|10|60.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|3|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|15|124.49|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|3|241.99|50|
+|50GB|7|243.99|50|
+|50GB|9|244.49|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Ivory Coast: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|5.49|1|
+|1GB|365|7.25|1|
+|3GB|30|12.99|3|
+|5GB|30|20.49|5|
+|10GB|30|38.49|10|
+|20GB|30|68.49|20|
+|20GB|90|71.99|20|
+
+#### Ivory Coast: fixed data, Blue; Networks: Orange. Internet exit: UK.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|5.49|1|
+|2GB|1|10.49|2|
+|3GB|15|15.49|3|
+
+#### Ivory Coast: fixed data, Amber Essential; Networks: Orange Ivory Coast. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|14|5.17|3|
+|3GB|15|5.17|3|
+|3GB|25|5.17|3|
+|3GB|30|5.17|3|
+|5GB|20|8.13|5|
+|5GB|21|8.13|5|
+|5GB|25|8.13|5|
+|5GB|30|8.13|5|
+|9GB|30|14.98|9|
+|10GB|10|14.98|10|
+|10GB|12|14.98|10|
+|10GB|14|14.98|10|
+|10GB|15|14.98|10|
+|10GB|20|14.98|10|
+|10GB|21|14.98|10|
+|10GB|25|14.98|10|
+|10GB|30|14.98|10|
+|12GB|15|17.24|12|
+|12GB|25|17.24|12|
+|12GB|30|17.24|12|
+|15GB|2|17.24|15|
+|15GB|5|17.24|15|
+|15GB|9|17.24|15|
+|15GB|10|17.24|15|
+|15GB|14|17.24|15|
+|15GB|30|17.24|15|
+|20GB|1|17.24|20|
+|20GB|3|17.24|20|
+|20GB|5|17.24|20|
+|20GB|7|17.24|20|
+|20GB|9|17.24|20|
+|20GB|10|17.24|20|
+|20GB|12|17.24|20|
+|20GB|14|17.24|20|
+|20GB|15|17.24|20|
+|20GB|20|18.19|20|
+|20GB|21|18.19|20|
+|20GB|25|18.19|20|
+|20GB|30|19.89|20|
+|30GB|1|25.57|30|
+|30GB|2|25.57|30|
+|30GB|5|36.75|30|
+|30GB|10|38.34|30|
+|30GB|15|38.34|30|
+|30GB|25|38.34|30|
+|30GB|30|38.34|30|
+|40GB|1|25.57|40|
+|40GB|2|25.57|40|
+|40GB|3|25.57|40|
+|40GB|5|36.75|40|
+|40GB|9|38.34|40|
+|40GB|10|38.34|40|
+|40GB|15|38.34|40|
+|40GB|25|38.34|40|
+|40GB|30|38.34|40|
+|40GB|90|55.80|40|
+|50GB|1|36.75|50|
+|50GB|3|36.75|50|
+|50GB|7|38.34|50|
+|50GB|9|38.34|50|
+|50GB|10|38.34|50|
+|50GB|12|42.41|50|
+|50GB|14|42.41|50|
+|50GB|15|42.41|50|
+|50GB|20|44.61|50|
+|50GB|21|44.61|50|
+|50GB|25|44.61|50|
+|50GB|30|45.99|50|
+|50GB|45|55.80|50|
+|50GB|90|55.80|50|
+
+#### Ivory Coast: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ci?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|1.29|1|
+|2GB|1|1.49|2|
+
+#### Ivory Coast: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Orange.
+Purchase link: https://esim.dog/ci?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=5.22;2=9.95;3=14.69;4=19.59;5=23.46;6=28.16;7=33.87;8=38.05;9=42.23;10=46.41;11=50.69;12=54.98;13=59.27;14=63.55;15=71.36
+16=75.08;17=78.80;18=82.53;19=86.25;20=89.97;21=91.04;22=96.30;23=101.55;24=106.81;25=112.06;26=115.48;27=118.89;28=122.31;29=125.72;30=129.14
+31=133.20;32=137.26;33=141.32;34=145.38;35=149.44;36=153.50;37=157.56;38=161.61;39=165.67;40=169.73;41=173.79;42=177.85;43=181.91;44=185.97;45=190.03
+46=194.09;47=198.15;48=202.21;49=206.27;50=210.33;51=214.39;52=218.45;53=222.50;54=226.56;55=230.62;56=234.68;57=238.74;58=242.80;59=246.86;60=250.92
+61=255.11;62=259.29;63=263.48;64=267.66;65=271.85;66=276.03;67=280.22;68=284.41;69=288.59;70=292.78;71=296.96;72=301.15;73=305.33;74=309.52;75=313.71
+76=317.89;77=322.08;78=326.26;79=330.45;80=334.63;81=338.82;82=343.00;83=347.19;84=351.38;85=355.56;86=359.75;87=363.93;88=368.12;89=372.30;90=376.49
+91=380.67;92=384.86;93=389.04;94=393.22;95=397.41;96=401.59;97=405.77;98=409.96;99=414.14;100=418.32;101=422.51;102=426.69;103=430.87;104=435.06;105=439.24
+106=443.42;107=447.61;108=451.79;109=455.97;110=460.16;111=464.34;112=468.52;113=472.71;114=476.89;115=481.07;116=485.26;117=489.44;118=493.62;119=497.81;120=501.99
+121=506.17;122=510.36;123=514.54;124=518.72;125=522.91;126=527.09;127=531.27;128=535.46;129=539.64;130=543.82;131=548.01;132=552.19;133=556.37;134=560.56;135=564.74
+136=568.92;137=573.11;138=577.29;139=581.47;140=585.66;141=589.84;142=594.02;143=598.21;144=602.39;145=606.57;146=610.76;147=614.94;148=619.12;149=623.31;150=627.49
+151=631.67;152=635.86;153=640.04;154=644.22;155=648.41;156=652.59;157=656.77;158=660.96;159=665.14;160=669.32;161=673.51;162=677.69;163=681.87;164=686.06;165=690.24
+166=694.42;167=698.61;168=702.79;169=706.97;170=711.16;171=715.34;172=719.52;173=723.71;174=727.89;175=732.07;176=736.26;177=740.44;178=744.62;179=748.81;180=752.99
+
+#### Ivory Coast: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Orange.
+Purchase link: https://esim.dog/ci?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=9.81;2=19.61;3=29.41;4=39.22;5=46.98;6=56.38;7=67.80;8=76.17;9=84.55;10=92.92;11=101.50;12=110.08;13=118.66;14=127.24;15=142.86
+16=150.31;17=157.77;18=165.22;19=172.68;20=180.13;21=182.28;22=192.80;23=203.31;24=213.83;25=224.34;26=231.18;27=238.02;28=244.87;29=251.71;30=258.55
+31=266.68;32=274.81;33=282.94;34=291.06;35=299.19;36=307.32;37=315.45;38=323.58;39=331.71;40=339.83;41=347.96;42=356.09;43=364.22;44=372.35;45=380.48
+46=388.60;47=396.73;48=404.86;49=412.99;50=421.12;51=429.25;52=437.37;53=445.50;54=453.63;55=461.76;56=469.89;57=478.02;58=486.14;59=494.27;60=502.40
+61=510.79;62=519.17;63=527.56;64=535.95;65=544.33;66=552.72;67=561.10;68=569.49;69=577.88;70=586.26;71=594.65;72=603.04;73=611.42;74=619.81;75=628.19
+76=636.58;77=644.97;78=653.35;79=661.74;80=670.13;81=678.51;82=686.90;83=695.29;84=703.67;85=712.06;86=720.44;87=728.83;88=737.22;89=745.60;90=753.99
+

@@ -1,0 +1,281 @@
+# eSIM.dog: Central African Rep
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Central African Rep (CF)
+
+#### Central African Rep: fixed data, Black
+Networks: Orange Centrafrique. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|3|1.39|0.09999999962747097|
+|100MB|30|1.74|0.09999999962747097|
+|100MB|90|2.99|0.09999999962747097|
+|500MB|1|0.99|0.5|
+|500MB|5|2.94|0.5|
+|500MB|30|3.22|0.5|
+|1GB|2|2.94|1|
+|1GB|3|2.94|1|
+|1GB|4|2.94|1|
+|1GB|5|3.76|1|
+|1GB|6|3.77|1|
+|1GB|7|3.77|1|
+|1GB|30|5.11|1|
+|1GB|90|7.89|1|
+|2GB|1|5.99|2|
+|2GB|10|5.99|2|
+|2GB|14|6.36|2|
+|2GB|15|6.36|2|
+|2GB|30|6.94|2|
+|3GB|1|6.94|3|
+|3GB|10|6.94|3|
+|3GB|14|7.49|3|
+|3GB|15|7.49|3|
+|3GB|25|8.29|3|
+|3GB|30|11.49|3|
+|3GB|90|22.98|3|
+|4GB|1|9.98|4|
+|4GB|3|9.98|4|
+|4GB|60|12.38|4|
+|5GB|1|9.98|5|
+|5GB|3|9.98|5|
+|5GB|6|12.38|5|
+|5GB|7|12.38|5|
+|5GB|12|12.38|5|
+|5GB|14|12.38|5|
+|5GB|15|12.38|5|
+|5GB|20|12.38|5|
+|5GB|21|12.38|5|
+|5GB|25|12.38|5|
+|5GB|30|14.83|5|
+|5GB|45|14.98|5|
+|5GB|60|14.98|5|
+|5GB|90|36.48|5|
+|6GB|30|17.52|6|
+|7GB|10|17.52|7|
+|9GB|1|17.52|9|
+|9GB|5|17.52|9|
+|10GB|1|17.52|10|
+|10GB|3|22.99|10|
+|10GB|5|23.99|10|
+|10GB|6|25.49|10|
+|10GB|7|25.49|10|
+|10GB|10|27.49|10|
+|10GB|12|27.49|10|
+|10GB|15|29.99|10|
+|10GB|20|28.99|10|
+|10GB|25|30.49|10|
+|10GB|30|31.49|10|
+|12GB|1|17.52|12|
+|15GB|90|51.89|15|
+|20GB|1|46.49|20|
+|20GB|3|49.99|20|
+|20GB|5|50.49|20|
+|20GB|7|50.99|20|
+|20GB|9|51.99|20|
+|20GB|10|51.99|20|
+|20GB|12|54.99|20|
+|20GB|15|54.99|20|
+|20GB|20|57.99|20|
+|20GB|25|57.99|20|
+|20GB|30|60.99|20|
+|20GB|90|55.80|20|
+|50GB|1|92.99|50|
+|50GB|7|128.99|50|
+|50GB|9|128.99|50|
+|50GB|10|128.99|50|
+|50GB|12|128.99|50|
+|50GB|15|128.99|50|
+|50GB|20|136.49|50|
+|50GB|25|136.49|50|
+|50GB|30|143.99|50|
+
+#### Central African Rep: fixed data, Amber Essential
+Networks: Orange Centrafrique. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|1.29|1|
+|7GB|15|17.52|7|
+|7GB|25|17.52|7|
+|7GB|30|17.52|7|
+|9GB|10|17.52|9|
+|9GB|15|17.52|9|
+|9GB|25|17.52|9|
+|9GB|30|17.52|9|
+|10GB|3|17.52|10|
+|10GB|5|17.52|10|
+|10GB|6|17.52|10|
+|10GB|7|17.52|10|
+|10GB|10|17.52|10|
+|10GB|12|17.52|10|
+|10GB|14|17.52|10|
+|10GB|15|17.52|10|
+|10GB|20|17.52|10|
+|10GB|21|17.52|10|
+|10GB|25|17.52|10|
+|10GB|30|17.52|10|
+|12GB|2|17.52|12|
+|12GB|3|17.52|12|
+|12GB|15|17.52|12|
+|12GB|25|17.52|12|
+|12GB|30|17.52|12|
+|15GB|1|17.52|15|
+|15GB|2|17.52|15|
+|15GB|3|17.52|15|
+|15GB|5|17.52|15|
+|15GB|9|17.52|15|
+|15GB|10|17.52|15|
+|15GB|15|17.52|15|
+|15GB|25|17.52|15|
+|15GB|30|17.52|15|
+|20GB|1|17.52|20|
+|20GB|3|19.89|20|
+|20GB|5|19.89|20|
+|20GB|7|20.99|20|
+|20GB|9|20.99|20|
+|20GB|10|29.49|20|
+|20GB|12|29.99|20|
+|20GB|14|29.99|20|
+|20GB|15|29.49|20|
+|20GB|20|30.49|20|
+|20GB|21|30.49|20|
+|20GB|25|29.49|20|
+|20GB|30|30.49|20|
+|20GB|80|51.89|20|
+|20GB|90|51.89|20|
+|30GB|1|40.62|30|
+|30GB|2|40.62|30|
+|30GB|3|40.62|30|
+|30GB|5|40.62|30|
+|30GB|9|40.62|30|
+|30GB|10|40.62|30|
+|30GB|15|40.62|30|
+|30GB|25|40.62|30|
+|30GB|30|40.62|30|
+|30GB|90|55.80|30|
+|40GB|1|40.62|40|
+|40GB|2|40.62|40|
+|40GB|3|40.62|40|
+|40GB|5|40.62|40|
+|40GB|10|40.62|40|
+|40GB|15|40.62|40|
+|40GB|25|42.41|40|
+|40GB|30|44.61|40|
+|40GB|45|55.80|40|
+|50GB|1|40.62|50|
+|50GB|7|59.49|50|
+|50GB|9|64.49|50|
+|50GB|10|60.49|50|
+|50GB|12|64.49|50|
+|50GB|14|64.49|50|
+|50GB|15|64.49|50|
+|50GB|20|68.49|50|
+|50GB|21|68.49|50|
+|50GB|25|68.49|50|
+|50GB|30|71.99|50|
+|50GB|90|87.99|50|
+
+#### Central African Rep: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|4.99|1|
+|2GB|15|6.36|2|
+|3GB|30|6.94|3|
+|5GB|7|29.98|5|
+|5GB|15|32.99|5|
+|5GB|30|12.38|5|
+|5GB|60|12.38|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+|10GB|30|25.49|10|
+|10GB|180|58.99|10|
+|20GB|30|38.99|20|
+|20GB|365|67.26|20|
+|60GB|125|175.81|60|
+
+#### Central African Rep: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|3|45.99|5|
+|5GB|6|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|46.49|5|
+|5GB|15|46.49|5|
+|5GB|20|46.49|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|3|59.49|10|
+|10GB|5|59.49|10|
+|10GB|6|59.99|10|
+|10GB|7|59.99|10|
+|10GB|10|60.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|3|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|15|124.49|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|7|243.99|50|
+|50GB|9|244.49|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Central African Rep: fixed data, Blue; Networks: Orange. Internet exit: US.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|3.77|1|
+|3GB|15|12.99|3|
+
+#### Central African Rep: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|365|7.89|1|
+|3GB|30|12.99|3|
+|5GB|30|20.49|5|
+|10GB|30|38.49|10|
+|20GB|30|67.99|20|
+|20GB|90|80.49|20|
+

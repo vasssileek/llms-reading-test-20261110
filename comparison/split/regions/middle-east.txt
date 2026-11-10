@@ -1,0 +1,715 @@
+# eSIM.dog: Middle East
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Middle East (middle-east)
+
+#### Middle East: Blue; Coverage: BH, IQ, KW, QA, SA, AE.
+
+Networks: STC/Zain/Korek/Asia Cell/Ooredoo/ooredoo/Vodafone/Mobily/Etisalat/Du.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|500MB|1|3.49|0.49|rp_1qyt3y6_egzs4i|
+|1GB|1|4.49|1|rp_1k2wpy3_1h2j6lz|
+|1GB|7|3.99|1|rp_1o3nxwh_174zoq5|
+|3GB|30|7.99|3|rp_1v7cwna_9zh7pe|
+|5GB|1|12.49|5|rp_56zugq_ytpmpi|
+|5GB|30|12.49|5|rp_u1v0id_kh5g7t|
+|10GB|1|25.49|10|rp_1mbmoqr_1mg2ln3|
+|10GB|30|25.49|10|rp_1tukaor_q3z8on|
+
+#### Middle East: Green
+Coverage: Bahrain, Egypt, Jordan, Kuwait, Morocco, Oman, Qatar, Saudi Arabia, Turkey, United Arab Emirates.
+Networks: Batelco/DU/Etisalat/Maroc Telecom (IAM)/Mobily/Ooredoo/Orange/Oredoo/STC/Turk Telekom/Turkcell/Umniah Mobile Company/Vodafone/Zain/ZAIN.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|500MB|1|0.98|0.49|rp_rl5ewk_gpvzmw|
+|1GB|7|3.49|1|rp_p38znt_1elau9p|
+|3GB|7|4.34|3|rp_ot9dyu_dflmxe|
+|5GB|15|7.00|5|rp_1ltmfeu_1tzk5j6|
+|10GB|30|13.08|10|rp_1m3m13t_w45awd|
+|15GB|30|19.63|15|rp_1l9n80w_1qp9sto|
+|20GB|30|25.64|20|rp_1ljmtpv_stuy6v|
+|30GB|30|37.59|30|rp_1mxku6q_1nezg46|
+
+#### Middle East: Pink; Coverage: JO, OM, KW.
+
+Networks: Multiple Networks.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|500MB|1|5.99|0.49|rp_1ymxcg_1b1nuwk|
+|1GB|1|8.99|1|rp_lqommt_1kcvag9|
+|2GB|1|11.49|2|rp_tq4tnl_175sdkd|
+|3GB|1|30.49|3|rp_1dqrclr_n9s2jv|
+|3GB|2|30.49|3|rp_1e0qyaq_1ofh9w6|
+|3GB|3|30.99|3|rp_1eaqjzp_qk2f9d|
+|3GB|4|30.99|3|rp_1cctc4w_1rprmlo|
+|3GB|5|30.99|3|rp_1cmsxtv_tucryv|
+|3GB|6|30.99|3|rp_1cwsjiu_1v01zb6|
+|3GB|7|31.49|3|rp_1d6s57t_x4n4od|
+|3GB|8|31.49|3|rp_1fookgk_1yacc0o|
+|3GB|9|31.49|3|rp_1fyo65j_10exhdv|
+|3GB|10|31.49|3|rp_1wu9hgt_88scp|
+|3GB|12|31.99|3|rp_1waaa2v_1vz2hmb|
+|3GB|15|31.99|3|rp_1vgbgzy_14o8cei|
+|3GB|20|31.99|3|rp_1pmmyxi_cfg5nm|
+|3GB|25|31.99|3|rp_1r0kzed_170knkx|
+|3GB|30|32.49|3|rp_1ranqlb_omniyj|
+|5GB|1|41.49|5|rp_d55xv1_1bjijwx|
+|5GB|2|41.49|5|rp_cb74s4_73izv4|
+|5GB|3|41.99|5|rp_cl6qh3_189877f|
+|5GB|4|41.99|5|rp_br7xe6_gye1zm|
+|5GB|5|41.99|5|rp_c17j35_1i439bx|
+|5GB|6|42.49|5|rp_b78q08_do3pa4|
+|5GB|7|42.49|5|rp_bh8bp7_1etswmf|
+|5GB|8|42.99|5|rp_an9ima_niyrem|
+|5GB|9|42.99|5|rp_ax94b9_1oonyqx|
+|5GB|10|43.49|5|rp_d2a2av_uho68b|
+|5GB|12|43.49|5|rp_dm99ot_xryixt|
+|5GB|15|43.99|5|rp_boc1u0_1yxnqa4|
+|5GB|20|44.49|5|rp_17kqoi4_9jmwdc|
+|5GB|25|44.99|5|rp_16qrvf7_1h9wt4n|
+|5GB|30|45.49|5|rp_9q8iz9_639fmh|
+|8GB|1|59.99|8|rp_1alelm4_d3ty1s|
+|8GB|2|59.99|8|rp_1bfdep1_1hjti3l|
+|8GB|3|60.49|8|rp_1b5dt02_ge4ara|
+|8GB|4|60.49|8|rp_19rfsj7_1ku3ut3|
+|8GB|5|60.99|8|rp_19hg6u8_joengs|
+|8GB|6|60.99|8|rp_1abezx5_1o4e7il|
+|8GB|7|60.99|8|rp_1a1fe86_myp06a|
+|8GB|8|61.49|8|rp_1d3b0uv_1reok83|
+|8GB|9|61.99|8|rp_1ctbf5w_q8zcvs|
+|8GB|10|61.99|8|rp_fh3yac_1cchfe8|
+|8GB|12|62.49|8|rp_g135oa_1fmrs3q|
+|8GB|15|62.99|8|rp_en557f_l1na6f|
+|8GB|20|63.99|8|rp_1b443v3_1xaip97|
+|8GB|25|64.99|8|rp_19q63e8_12pe7bw|
+|8GB|30|65.99|8|rp_19g3c7a_1l3bbya|
+|10GB|1|69.99|10|rp_zxrmfv_16wkyfj|
+|10GB|2|70.49|10|rp_107r84u_9163sq|
+|10GB|3|70.49|10|rp_10hqttt_1a6vb51|
+|10GB|4|70.99|10|rp_10rqfis_1y7f3nc|
+|10GB|5|70.99|10|rp_111q17r_10c090j|
+|10GB|6|71.49|10|rp_11bpmwq_2gledq|
+|10GB|7|71.49|10|rp_11lp8lp_13malq1|
+|10GB|8|71.99|10|rp_xfv774_1rmue8c|
+|10GB|9|71.99|10|rp_xpusw3_trfjlj|
+|10GB|10|72.49|10|rp_me1pip_1tle8lx|
+|10GB|12|73.49|10|rp_lu2i4r_1qb3vwf|
+|10GB|15|74.49|10|rp_n80ilm_lv4bum|
+|10GB|20|75.49|10|rp_o22h6i_9kf4j2|
+|10GB|25|75.99|10|rp_n83o3l_1hap1ad|
+|10GB|30|76.99|10|rp_1gd13fn_lrmhtz|
+
+#### Middle East: Pink; Coverage: SA, BH, QA, AE, KW.
+
+Networks: Multiple Networks.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|500MB|1|3.49|0.49|rp_1yew5yk_mfmh4w|
+|1GB|1|4.49|1|rp_112g062_tao5q6|
+|1GB|1|6.99|1|rp_1wpox3l_rh9gcl|
+|2GB|1|5.99|2|rp_1ue6s0l_ahk0e9|
+|3GB|1|4.34|3|rp_1y39ayj_1s612y7|
+|3GB|3|8.99|3|rp_6ve8zi_165n5w2|
+|3GB|5|9.99|3|rp_7fdgdg_was3rk|
+|3GB|7|10.49|3|rp_7zcnre_zl2gh2|
+|3GB|10|10.99|3|rp_1h2quyg_16j35hg|
+|3GB|15|11.49|3|rp_1igovfb_233lfn|
+|3GB|30|11.99|3|rp_1kesea2_1uxhw3a|
+|3GB|45|10.16|3|rp_fmqheu_1q11foa|
+|5GB|3|14.49|5|rp_1nmewj5_8wdzt9|
+|5GB|5|14.99|5|rp_1o6e3x3_1y2mznv|
+|5GB|7|15.49|5|rp_1oqdbb1_2btae9|
+|5GB|10|16.49|5|rp_pacjxd_1tkdsh9|
+|5GB|15|16.99|5|rp_q4bd0a_lu3vpy|
+|5GB|30|17.99|5|rp_jqqt1v_h62gv|
+|5GB|45|23.49|5|rp_1k3dwf7_8koguf|
+|10GB|3|22.49|10|rp_11i26yj_1ph8hn3|
+|10GB|5|22.99|10|rp_135zt4d_1m6y4xl|
+|10GB|7|24.99|10|rp_12m0lqf_1iwns83|
+|10GB|10|25.49|10|rp_1g4yqyr_f4gfd3|
+|10GB|15|26.49|10|rp_1gyxk1o_16fakkw|
+|10GB|30|27.49|10|rp_m5zd1t_1my8651|
+|10GB|45|34.49|10|rp_n0g58d_1wlbe7d|
+|20GB|3|41.99|20|rp_1xzf109_121teb1|
+|20GB|5|43.49|20|rp_1yje8e7_s6yc6j|
+|20GB|7|45.49|20|rp_29dt1_vh8ow1|
+|20GB|10|47.49|20|rp_u09cmx_1yspcwd|
+|20GB|15|48.99|20|rp_uu85pu_r2fg52|
+|20GB|30|50.49|20|rp_1wuw0qz_8if7hb|
+|20GB|45|58.99|20|rp_1xoxzbv_dt019j|
+|30GB|3|55.99|30|rp_78z693_fgomp7|
+|30GB|5|57.99|30|rp_6ozyv5_pbjotp|
+|30GB|7|60.99|30|rp_650rh7_m19c47|
+|30GB|10|63.99|30|rp_16nw5j_1abeawr|
+|30GB|15|66.99|30|rp_1yttxns_fq9szg|
+|30GB|30|68.99|30|rp_xd5a0l_lwzkax|
+|30GB|45|71.99|30|rp_w6bcx_13ylfjx|
+|50GB|3|77.49|50|rp_8nj5zb_1yd1omj|
+|50GB|5|81.49|50|rp_83jyld_96sorx|
+|50GB|7|85.49|50|rp_7jkr7f_5wic2f|
+|50GB|10|90.99|50|rp_pigvqf_1eahk8r|
+|50GB|15|95.99|50|rp_o4iv9k_jpd2bg|
+|50GB|30|100.99|50|rp_m6fcet_pw2tmx|
+|50GB|45|111.99|50|rp_1oqkfq9_17xoovx|
+
+#### Middle East: Blue; Coverage: IQ, IL, KW, QA, SA.
+
+Networks: Asia Cell/Cellcom/Pelephone/Hot Mobile/Partner/Ooredoo/ooredoo/STC.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|1|1.76|1|rp_18otj6i_1vi7iq6|
+|1GB|7|1.51|1|rp_1nzzves_g39rnc|
+|2GB|1|3.31|2|rp_i2s64l_1i9rlap|
+|3GB|1|6.99|3|rp_wdve1l_1m8hwd1|
+|3GB|15|4.34|3|rp_92ky52_1gahtlm|
+|3GB|30|4.34|3|rp_hua3z3_1jo54rf|
+|5GB|1|6.53|5|rp_w6ydv7_1puu13|
+|5GB|30|7.00|5|rp_1bpkpgj_1b0fqg7|
+|10GB|1|12.04|10|rp_sn7x2u_ikcrru|
+|10GB|30|17.49|10|rp_isb1sx_1yshdjh|
+|20GB|30|35.49|20|rp_1amelmd_1kns0yh|
+
+#### Middle East: Blue; Coverage: AM, AZ, BH, IL, JO, KW, OM, QA, SA, TR, AE.
+
+Networks: Beeline/MTS/Bakcell/Zain/STC/Partner/Hot Mobile/Pelephone/PHI Networks/Umniah/Ooredoo/Omantel/ooredoo/Vodafone/Mobily/Turkcell/Etisalat.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|5.99|1|rp_6ugcqf_k2ufe3|
+|3GB|30|14.49|3|rp_1ru75hg_1kgogxc|
+|5GB|30|20.99|5|rp_2yiriu_i7uwbu|
+
+#### Middle East: Blue; Coverage: BH, EG, IL, JO, KW, MA, OM, QA, SA, TN, TR, AE.
+
+Networks: Zain/STC/Orange/Etisalat/Partner/Hot Mobile/Pelephone/PHI Networks/Umniah/Ooredoo/Orange Morocco/Omantel/ooredoo/Vodafone/Mobily/Turkcell.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|8.49|1|rp_1aibame_gl5r2q|
+|3GB|15|19.99|3|rp_1p15ige_r5wobu|
+|3GB|30|20.49|3|rp_43ry9a_gonia|
+|5GB|30|32.49|5|rp_1xc9mz7_1uz1rlj|
+|10GB|30|62.49|10|rp_94gtyi_1yib77q|
+|20GB|30|119.99|20|rp_eyk2vh_1sg8uh|
+
+#### Middle East: Blue; Coverage: BH, KW, OM, QA, SA, AE.
+
+Networks: STC/Zain/Ooredoo/Vodafone/ooredoo/Mobily/Etisalat/Du.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|5.49|1|rp_1o51ktv_s3p1hz|
+|2GB|1|8.99|2|rp_mosake_1t8uhuq|
+|3GB|30|13.49|3|rp_lxfiv0_jczkaw|
+|5GB|30|20.99|5|rp_afefuw_kvsjbg|
+|10GB|30|37.49|10|rp_6bnlgi_1nvu3o6|
+
+#### Middle East: Black
+Coverage: TR, CY.
+Networks: Turk Telekom Turkey/Epic Cyprus.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|100MB|1|1.99|0.1|rp_vznwox_17oy2a5|
+|100MB|2|1.99|0.1|rp_18r8s3m_1p7ife6|
+|100MB|3|1.99|0.1|rp_hkevmb_10s74sf|
+|100MB|4|1.99|0.1|rp_gzre4s_1iarhwg|
+|100MB|5|1.99|0.1|rp_rjffzp_dxd7vd|
+|100MB|6|1.99|0.1|rp_zv6oau_1ixau22|
+|100MB|7|1.99|0.1|rp_1cmrjpj_1er56z|
+|100MB|8|1.21|0.1|rp_ys87q8_1iovv9o|
+|100MB|9|1.21|0.1|rp_19bw9l5_ebhl8l|
+|100MB|10|1.21|0.1|rp_1vzns57_1b0pig7|
+|100MB|12|1.22|0.1|rp_1awbofd_1hxgfxx|
+|100MB|14|1.22|0.1|rp_1rjhj1r_bn9iur|
+|100MB|15|1.22|0.1|rp_1erwnn2_1t5t7pu|
+|100MB|20|1.22|0.1|rp_e8oxja_1mtugca|
+|100MB|21|1.22|0.1|rp_r09sxz_5barh7|
+|100MB|25|1.22|0.1|rp_1uz16tv_z2vlvz|
+|100MB|30|1.22|0.1|rp_1dpk035_1rk9ep9|
+|100MB|45|1.22|0.1|rp_1faw50x_1ykykqd|
+|100MB|60|1.22|0.1|rp_ziuksy_nwaa1a|
+|100MB|70|1.22|0.1|rp_1ync2yl_1fv0pxd|
+|100MB|80|1.22|0.1|rp_1trqgx4_1jk2lz0|
+|100MB|90|1.22|0.1|rp_1tdp1w3_1vd7jv3|
+|500MB|1|1.99|0.5|rp_i364np_1n80n3t|
+|500MB|2|1.99|0.5|rp_1pxihra_vzrrwq|
+|500MB|3|1.32|0.5|rp_3nzb6v_1dic50r|
+|500MB|4|1.33|0.5|rp_bzqji0_1p4ta5w|
+|500MB|5|1.33|0.5|rp_mjelcx_krf04t|
+|500MB|6|1.34|0.5|rp_1ytidya_zh1sni|
+|500MB|7|1.34|0.5|rp_845kab_88sxgf|
+|500MB|8|1.59|0.5|rp_kvqfp0_1sm3awo|
+|500MB|9|1.59|0.5|rp_1uxzmcd_o8p0vl|
+|500MB|10|1.59|0.5|rp_i0cdjb_1jng52z|
+|500MB|12|1.59|0.5|rp_1vy4bsl_1w627rd|
+|500MB|14|1.59|0.5|rp_1lz3rf7_h6ui3z|
+|500MB|15|1.59|0.5|rp_e4tlxe_18f3db2|
+|500MB|20|1.98|0.5|rp_hyoiwi_cl2izy|
+|500MB|21|1.98|0.5|rp_qafr7n_1hl056n|
+|500MB|25|1.98|0.5|rp_lu7aif_ntfarv|
+|500MB|30|1.98|0.5|rp_1h36125_11qveap|
+|500MB|45|3.55|0.5|rp_l228ul_3113vd|
+|500MB|60|3.55|0.5|rp_1vpkq06_oab7ru|
+|500MB|70|3.55|0.5|rp_vsy66p_1dg432l|
+|500MB|80|3.55|0.5|rp_1x5chw4_1s6t8ls|
+|500MB|90|3.55|0.5|rp_xl3igv_l4fmir|
+|1GB|1|1.99|1|rp_fyu7rr_9g0uzn|
+|1GB|2|1.99|1|rp_juf6zg_1qc17p4|
+|1GB|3|1.99|1|rp_1twm611_lymxo1|
+|1GB|4|1.99|1|rp_c3bg5u_1x8s56u|
+|1GB|5|1.99|1|rp_kf2ogz_160j9zr|
+|1GB|6|1.99|1|rp_oalg2w_nvfkq4|
+|1GB|7|1.99|1|rp_1ycumq9_1fq7s2t|
+|1GB|8|1.59|1|rp_gjhp9a_o3ujii|
+|1GB|9|1.59|1|rp_1stnpgf_15mewmj|
+|1GB|10|1.59|1|rp_gjfkb1_17dwwsp|
+|1GB|12|1.59|1|rp_246j8f_10h5zaz|
+|1GB|14|1.59|1|rp_kzlteh_7q8uf1|
+|1GB|15|1.59|1|rp_afxrjk_19apjus|
+|1GB|20|1.98|1|rp_1gvtle4_1ok58w|
+|1GB|21|1.98|1|rp_1rfhn91_wc9x6x|
+|1GB|25|1.98|1|rp_1vvnwch_1q3urlp|
+|1GB|30|1.98|1|rp_hbklyv_o1ffyb|
+|1GB|45|3.55|1|rp_1cdnlcz_16rdarb|
+|1GB|60|3.55|1|rp_1dg08ww_1b5uod8|
+|1GB|70|3.55|1|rp_dvr9hn_15cj9wv|
+|1GB|80|3.55|1|rp_w5ujve_fi2cfi|
+|1GB|90|3.55|1|rp_1dsdbmt_14nv7q9|
+|2GB|1|1.59|2|rp_1lzai1w_mbl2s0|
+|2GB|2|1.59|2|rp_1i3rqfz_1a2jx8b|
+|2GB|3|1.67|2|rp_5tlq8u_pr1ziy|
+|2GB|4|1.68|2|rp_1y2ymx_hbmscd|
+|2GB|5|1.68|2|rp_1qfiyr4_1iw3hs4|
+|2GB|6|1.71|2|rp_1mjxzjf_7lya9b|
+|2GB|7|1.71|2|rp_epnu1m_yu75ge|
+|2GB|8|1.71|2|rp_1j6q70l_nludoh|
+|2GB|9|1.71|2|rp_94j7z0_1rz8npk|
+|2GB|10|1.72|2|rp_1a0y01w_1bvwfaw|
+|2GB|12|1.76|2|rp_tdud1a_1fbdc1u|
+|2GB|14|1.76|2|rp_1eh6gr4_9fasbw|
+|2GB|15|1.76|2|rp_pi9dtl_16vy4v9|
+|2GB|20|2.14|2|rp_1qvbq5h_o60a29|
+|2GB|21|2.14|2|rp_1gbnoak_1sjek3c|
+|2GB|25|2.14|2|rp_1krtxe0_q2sx4c|
+|2GB|30|2.32|2|rp_198sye2_dtq6im|
+|2GB|45|6.85|2|rp_16ngity_149qcg2|
+|2GB|60|6.85|2|rp_nwx8vt_1hhpb6l|
+|2GB|70|6.85|2|rp_nynb4e_v4u0h6|
+|2GB|80|6.85|2|rp_uej0hj_md3a1f|
+|2GB|90|6.85|2|rp_1tyrzws_1w8egps|
+|3GB|1|1.83|3|rp_8zzz99_1f98uu1|
+|3GB|2|2.01|3|rp_hbr7ke_l82f1m|
+|3GB|3|2.01|3|rp_1tlv05r_12qms5n|
+|3GB|4|2.06|3|rp_2wi6hs_1ed3xas|
+|3GB|5|2.06|3|rp_dg68cp_9zpn9p|
+|3GB|6|2.11|3|rp_1pqc8ju_ria0dq|
+|3GB|7|2.11|3|rp_1y23guz_32yprz|
+|3GB|8|2.14|3|rp_1k57mh8_1knbimw|
+|3GB|9|2.14|3|rp_1uovoc5_j2ut75|
+|3GB|10|2.14|3|rp_6otevz_urpeu3|
+|3GB|12|2.14|3|rp_l408ct_14hdwx5|
+|3GB|14|2.14|3|rp_b4znzf_1u55efj|
+|3GB|15|2.14|3|rp_12btkgq_mca7ni|
+|3GB|20|2.14|3|rp_15tax1m_12b1xse|
+|3GB|21|2.14|3|rp_1e525cr_b2t2lb|
+|3GB|25|2.14|3|rp_19otonj_1gcca5n|
+|3GB|30|2.32|3|rp_nx8k0l_1u9sdoh|
+|3GB|45|7.23|3|rp_repwlh_ycvnuh|
+|3GB|60|8.49|3|rp_kvgmke_27i24a|
+|3GB|70|8.49|3|rp_1jzy4q1_6xx0h9|
+|3GB|80|8.49|3|rp_rd2e64_13b2icw|
+|3GB|90|8.49|3|rp_1qhjwbr_1auf1b7|
+|4GB|1|2.54|4|rp_12gbv62_1jhloji|
+|4GB|2|2.54|4|rp_1p7c4jt_14ryw0t|
+|4GB|3|2.54|4|rp_1eno2ow_a4942s|
+|4GB|4|2.74|4|rp_16bwudr_1xiw0wr|
+|4GB|5|2.74|4|rp_1t2uw5q_1g0bnsq|
+|4GB|6|2.90|4|rp_1kr3nul_87gh0p|
+|4GB|7|2.90|4|rp_1a7flzo_19rx6gg|
+|4GB|8|2.99|4|rp_xfuqkz_1xx0e9z|
+|4GB|9|2.99|4|rp_1omon2a_q457hy|
+|4GB|10|2.99|4|rp_1xierr2_5mgqru|
+|4GB|12|3.26|4|rp_f4ecsk_1yf6beo|
+|4GB|14|3.26|4|rp_7dalyy_93qrim|
+|4GB|15|3.26|4|rp_fp1ua3_1gwlyan|
+|4GB|20|3.32|4|rp_y1jp77_bfs587|
+|4GB|21|3.39|4|rp_1p8be2q_12o10fa|
+|4GB|25|3.39|4|rp_1gcbhvq_tkvuhu|
+|4GB|30|3.39|4|rp_yfl488_1lb3bwk|
+|4GB|45|8.49|4|rp_1ugowfs_fdyf64|
+|4GB|60|8.49|4|rp_1jbpcgv_y6o3hn|
+|4GB|70|8.49|4|rp_1jpsz3o_13zzhy0|
+|4GB|80|8.49|4|rp_idene9_1poi0at|
+|4GB|90|8.49|4|rp_1hxnmti_13bmple|
+|5GB|1|2.54|5|rp_16mhf9n_158yivj|
+|5GB|2|2.54|5|rp_1ai2ehc_n3utlw|
+|5GB|3|2.54|5|rp_lj5bjt_1hrkljx|
+|5GB|4|2.74|5|rp_peqari_1szxdbu|
+|5GB|5|2.74|5|rp_126b667_bhdogr|
+|5GB|6|2.90|5|rp_161txs4_1mrivzk|
+|5GB|7|2.90|5|rp_1glhzn1_l726jt|
+|5GB|8|2.99|5|rp_kyhu2a_133qx12|
+|5GB|9|2.99|5|rp_ta92df_bvi1tz|
+|5GB|10|2.99|5|rp_1n3xiqh_g76v1|
+|5GB|12|3.26|5|rp_18oqp9n_1prmqr3|
+|5GB|14|3.26|5|rp_1inr9n1_103v98p|
+|5GB|15|3.26|5|rp_18437s4_5g5hao|
+|5GB|20|3.32|5|rp_of7hug_qz0wp0|
+|5GB|21|3.39|5|rp_yyvjpd_1itt41p|
+|5GB|25|3.39|5|rp_uipalx_p289mx|
+|5GB|30|3.39|5|rp_1nw2keb_1g4trzr|
+|5GB|45|8.49|5|rp_1d56n27_148rbcr|
+|5GB|60|8.49|5|rp_19pfcpw_9nx2qg|
+|5GB|70|8.49|5|rp_9ssswf_3uloa3|
+|5GB|80|8.49|5|rp_8r2g1i_8zkadu|
+|5GB|90|8.49|5|rp_17vjy75_vcfl39|
+|6GB|1|4.18|6|rp_iturc_n4rrmk|
+|6GB|2|4.18|6|rp_1vof54j_1avqm2v|
+|6GB|3|4.18|6|rp_1ncnwte_32vfau|
+|6GB|4|4.40|6|rp_6mbnit_l7z4kh|
+|6GB|5|4.40|6|rp_1v3rnn0_1pldelk|
+|6GB|6|4.40|6|rp_1r86ofb_eb872r|
+|6GB|7|4.40|6|rp_1eglt0m_1t0ubci|
+|6GB|8|4.40|6|rp_1nxbeax_hqp3tp|
+|6GB|9|4.40|6|rp_1ddncg0_1m43dus|
+|6GB|10|4.40|6|rp_rsnqnk_j03p8s|
+|6GB|12|4.40|6|rp_1f3wnx6_1sdg9pi|
+|6GB|14|4.40|6|rp_nchhk4_1inrrmg|
+|6GB|15|4.40|6|rp_xw5jf1_h3b26p|
+|6GB|20|4.77|6|rp_18n1gr5_1opggsl|
+|6GB|21|4.77|6|rp_1xlwc2w_u1qouk|
+|6GB|25|4.77|6|rp_1t5q2zg_a5ufs|
+|6GB|30|4.77|6|rp_9ijyli_12cl636|
+|6GB|45|8.49|6|rp_qyuow2_1jofr12|
+|6GB|60|8.49|6|rp_1tx740t_f85xo9|
+|6GB|70|8.49|6|rp_usplv6_l1hc4m|
+|6GB|80|8.49|6|rp_p4yy5v_agqlpz|
+|6GB|90|8.49|6|rp_1p1lhzc_1kc1sec|
+|7GB|1|4.18|7|rp_4mssv5_15vdxn9|
+|7GB|2|4.18|7|rp_1gwwlgi_1ndyara|
+|7GB|3|4.18|7|rp_1p8ntrn_w5pfk7|
+|7GB|4|4.45|7|rp_1oo0ca4_1gh7d9k|
+|7GB|5|4.45|7|rp_6kc5x_c3t38h|
+|7GB|6|4.64|7|rp_180wp9i_1jwoa0i|
+|7GB|7|4.64|7|rp_1kshko7_1ymb2j7|
+|7GB|8|4.77|7|rp_16xw134_17e27c4|
+|7GB|9|4.77|7|rp_1hhk2y1_30nxb1|
+|7GB|10|4.77|7|rp_17q3rbv_1og40db|
+|7GB|12|4.77|7|rp_1m5aksp_1xm12l|
+|7GB|14|4.77|7|rp_139vamn_uoj5yj|
+|7GB|15|4.77|7|rp_1q0vk0e_d5ysui|
+|7GB|20|4.77|7|rp_1pckbhi_ekstoy|
+|7GB|21|4.77|7|rp_3314x3_w3d6sz|
+|7GB|25|4.77|7|rp_7j9lmb_1vgt6ef|
+|7GB|30|4.77|7|rp_pfxro1_16jj9l1|
+|7GB|45|8.49|7|rp_r19wlt_cz90od|
+|7GB|60|8.49|7|rp_blo4du_2vk4x2|
+|7GB|70|8.49|7|rp_1aq5mjh_1w3csft|
+|7GB|80|8.49|7|rp_15uk0i0_wk9g04|
+|7GB|90|8.49|7|rp_5xxgoj_1lq2bav|
+|8GB|1|4.18|8|rp_1y06nge_1qdekju|
+|8GB|2|4.18|8|rp_q5whyl_ikjdrt|
+|8GB|3|4.18|8|rp_fm8g3o_1k5037k|
+|8GB|4|4.45|8|rp_g6vxl7_12mfq3j|
+|8GB|5|4.45|8|rp_7v4pa2_1tuolam|
+|8GB|6|4.64|8|rp_1u4nvuh_1f51srx|
+|8GB|7|4.64|8|rp_k2ep74_khc0tw|
+|8GB|8|4.80|8|rp_1xfj5yv_1bpkw0z|
+|8GB|9|4.80|8|rp_l5fddi_re2ybm|
+|8GB|10|4.80|8|rp_t7aiey_djgyzy|
+|8GB|12|4.99|8|rp_15empxs_10eavx0|
+|8GB|14|4.99|8|rp_kbam7y_799dnu|
+|8GB|15|4.99|8|rp_x2vhmn_ortqrv|
+|8GB|20|5.45|8|rp_1srjhu7_1klul2z|
+|8GB|21|5.45|8|rp_ghfp8u_15w7ska|
+|8GB|25|5.45|8|rp_1ow0q8a_19dhtb2|
+|8GB|30|5.45|8|rp_tn1zok_1qf5zjc|
+|8GB|45|8.49|8|rp_s1puqs_1p0byow|
+|8GB|60|8.49|8|rp_17treyr_v21287|
+|8GB|70|8.49|8|rp_8cwcew_8p5ris|
+|8GB|80|8.49|8|rp_1d3eg19_15fbjd5|
+|8GB|90|8.49|8|rp_dmjdhe_1b8mxti|
+|9GB|1|4.18|9|rp_7ymsv_31t6i3|
+|9GB|2|4.18|9|rp_43jm0k_1jxtj7k|
+|9GB|3|4.18|9|rp_1e5ql25_crhol5|
+|9GB|4|4.45|9|rp_1vdjx62_1tni1am|
+|9GB|5|4.45|9|rp_4o73i3_12f963j|
+|9GB|6|4.64|9|rp_182azwg_eoabn8|
+|9GB|7|4.64|9|rp_1ilz1rd_19c03l9|
+|9GB|8|4.80|9|rp_1959gh2_r6webm|
+|9GB|9|4.80|9|rp_1lwubvr_15wj6ub|
+|9GB|10|4.80|9|rp_1g9cib9_bukswx|
+|9GB|12|4.99|9|rp_2bkk1z_4xtvf7|
+|9GB|14|4.99|9|rp_1kpkz0h_1b80sid|
+|9GB|15|4.99|9|rp_1a5wx5k_drdfz0|
+|9GB|20|5.45|9|rp_zf0ztg_156c3c8|
+|9GB|21|5.45|9|rp_19yp1od_sxtb5|
+|9GB|25|5.45|9|rp_1eevart_ukinpx|
+|9GB|30|5.45|9|rp_1yvw2db_zd0ovv|
+|9GB|45|8.49|9|rp_1ufdwyz_1fa0z3j|
+|9GB|60|8.49|9|rp_eh6pc8_1gvks44|
+|9GB|70|8.49|9|rp_1dlo7hv_9t7613|
+|9GB|80|8.49|9|rp_1j9ev76_kdxwfq|
+|9GB|90|8.49|9|rp_jcsbdp_ekmhzd|
+|10GB|1|4.18|10|rp_qo780v_14t5apv|
+|10GB|2|4.18|10|rp_ujs78k_mo1lg8|
+|10GB|3|4.18|10|rp_153g93h_1eitssx|
+|10GB|4|4.45|10|rp_1mb7dlm_wdq3ja|
+|10GB|5|4.45|10|rp_v4foq3_55h8c7|
+|10GB|6|4.64|10|rp_yzygc0_1gfmfv0|
+|10GB|7|4.64|10|rp_19jmi6x_c285tx|
+|10GB|8|4.80|10|rp_102z4ie_1m9wju2|
+|10GB|9|4.80|10|rp_1cujzx3_4rcuyz|
+|10GB|10|4.80|10|rp_zgsi91_hcj7op|
+|10GB|12|4.99|10|rp_l1los7_7mupln|
+|10GB|14|4.99|10|rp_13x0yy9_1dx1mot|
+|10GB|15|4.99|10|rp_tdcx3c_j9buqs|
+|10GB|20|5.45|10|rp_imgzr8_17vcxio|
+|10GB|21|5.45|10|rp_t651m5_p12w9|
+|10GB|25|5.45|10|rp_1x4wfi1_x9jhwd|
+|10GB|30|5.45|10|rp_1hqyhwv_1fepggz|
+|10GB|45|8.49|10|rp_1dagcij_1vbpqon|
+|10GB|60|8.49|10|rp_1wdd6uw_1wx9jp8|
+|10GB|70|8.49|10|rp_wgqn1f_9pafm7|
+|10GB|80|8.49|10|rp_124haqq_16vccy6|
+|10GB|90|8.49|10|rp_27uqx9_1t87nnl|
+|12GB|1|7.01|12|rp_gn7pyd_aru4e1|
+|12GB|2|7.01|12|rp_oyyy9i_1ikpb62|
+|12GB|3|7.01|12|rp_27yovr_125maz|
+|12GB|4|7.01|12|rp_ajpx6w_comrg4|
+|12GB|5|7.01|12|rp_l3dz1t_17ccje5|
+|12GB|6|7.01|12|rp_1xdjz8y_1rnuh3i|
+|12GB|7|7.01|12|rp_6o75kz_10fllwf|
+|12GB|8|7.01|12|rp_jfs0zo_lrrxdk|
+|12GB|9|7.01|12|rp_tzg2ul_1gfhpbl|
+|12GB|10|7.01|12|rp_1q3fl1z_rfksfv|
+|12GB|12|7.01|12|rp_1503hc5_ycbpxl|
+|12GB|14|7.01|12|rp_1ujo1r7_1o037fz|
+|12GB|15|7.01|12|rp_1m7wtg2_g780ny|
+|12GB|20|7.01|12|rp_q6t18i_1dsg35a|
+|12GB|21|7.01|12|rp_1y15ec3_pd4sjj|
+|12GB|25|7.01|12|rp_u2e0g7_1p0sux7|
+|12GB|30|7.01|12|rp_1pno3sd_3x4wgx|
+|12GB|45|15.58|12|rp_1t55gd9_19u9t7d|
+|12GB|60|15.58|12|rp_590yd2_1v3jx3u|
+|12GB|70|15.58|12|rp_14digip_l88qfh|
+|12GB|80|15.58|12|rp_167bnfo_zyxvyo|
+|12GB|90|15.58|12|rp_6ap3m7_1mbt6o3|
+|15GB|1|7.37|15|rp_1f66jw2_7457a6|
+|15GB|2|7.37|15|rp_2w0jox_1omow59|
+|15GB|3|7.37|15|rp_1rdgjt4_wrwosk|
+|15GB|4|7.73|15|rp_1j1pbhz_ichz23|
+|15GB|5|7.73|15|rp_6rliwm_3mv6je|
+|15GB|6|8.00|15|rp_1xgyckl_uv41qh|
+|15GB|7|8.00|15|rp_1mxaapo_7e9sg|
+|15GB|8|8.60|15|rp_1t234b_iqmcfb|
+|15GB|9|8.60|15|rp_1siewsa_1crss7q|
+|15GB|10|8.60|15|rp_1jxfqie_degze2|
+|15GB|12|9.12|15|rp_1120gcc_crxn8g|
+|15GB|14|9.12|15|rp_tawpiq_jookq6|
+|15GB|15|9.12|15|rp_11mnxtv_1uahc3j|
+|15GB|20|9.12|15|rp_2se1kb_4e9m3b|
+|15GB|21|9.12|15|rp_tz5qfu_vmihae|
+|15GB|25|9.12|15|rp_l35u8u_mjdbcy|
+|15GB|30|9.12|15|rp_12p0lds_1t33kis|
+|15GB|45|15.58|15|rp_z7j8sw_8cfw18|
+|15GB|60|15.58|15|rp_15qqb87_1bkjhaj|
+|15GB|70|15.58|15|rp_6m8t2k_zrejeg|
+|15GB|80|15.58|15|rp_z96r89_1lfx1r9|
+|15GB|90|15.58|15|rp_4p92m_1dwkisy|
+|20GB|1|7.37|20|rp_7ashau_9kfesi|
+|20GB|2|7.37|20|rp_1y05ayt_10so9zl|
+|20GB|3|7.37|20|rp_nxw4bg_8xw2mw|
+|20GB|4|7.73|20|rp_oijlsz_1qgfrhz|
+|20GB|5|7.73|20|rp_g6sdhu_inkkpy|
+|20GB|6|8.00|20|rp_3f7i35_1xd6ozp|
+|20GB|7|8.00|20|rp_se4l0o_12pgx1o|
+|20GB|8|8.60|20|rp_1wx4msf_1q2be4r|
+|20GB|9|8.60|20|rp_kn0u72_18jr10q|
+|20GB|10|8.60|20|rp_gngf4y_22hno6|
+|20GB|12|9.29|20|rp_susmns_oxbkl8|
+|20GB|14|9.29|20|rp_7rgixy_1ute4b6|
+|20GB|15|9.29|20|rp_kj1ecn_daufg3|
+|20GB|20|10.00|20|rp_1gk2yyf_1eqqexv|
+|20GB|21|10.00|20|rp_49z6d2_uf8h8i|
+|20GB|25|10.00|20|rp_1cok7ci_13idn5y|
+|20GB|30|10.00|20|rp_h37wek_177dvzk|
+|20GB|45|15.58|20|rp_fhvrgs_1djcnd4|
+|20GB|60|15.58|20|rp_1d49mh7_91be33|
+|20GB|70|15.58|20|rp_dnejxc_1w9ai64|
+|20GB|80|15.58|20|rp_dzrmn9_1sk8m4h|
+|20GB|90|15.58|20|rp_1vef4gq_167dbf2|
+|30GB|1|9.91|30|rp_1d8vwm9_1e8ar6t|
+|30GB|2|9.91|30|rp_qhxuua_1vqv4au|
+|30GB|3|9.91|30|rp_ytp35f_14im93r|
+|30GB|4|10.46|30|rp_y91lnw_1j891mg|
+|30GB|5|10.46|30|rp_18spnit_euurld|
+|30GB|6|11.11|30|rp_hlvr1i_1mnpyde|
+|30GB|7|11.11|30|rp_udgmg7_7y3u3n|
+|30GB|8|11.73|30|rp_gixagw_1fqz0vo|
+|30GB|9|11.73|30|rp_r2lcbt_bdkqul|
+|30GB|10|11.73|30|rp_1y8zd5n_qgovjj|
+|30GB|12|12.30|30|rp_dn4c95_106ddml|
+|30GB|14|12.30|30|rp_1tst427_1sxaiij|
+|30GB|15|12.30|30|rp_hin3v2_1e7npzu|
+|30GB|20|13.37|30|rp_gue2xy_1fmhqua|
+|30GB|21|13.37|30|rp_tlyycn_1x523yb|
+|30GB|25|13.37|30|rp_y257g3_xhe1kn|
+|30GB|30|13.37|30|rp_1fyvl3l_5r6k5x|
+|30GB|45|18.98|30|rp_1hk7q1d_1gtvif1|
+|30GB|60|18.98|30|rp_124jq7m_13x922e|
+|30GB|70|21.95|30|rp_27x6e5_y3xnm1|
+|30GB|80|21.95|30|rp_1wdfmbs_1drvro|
+|30GB|90|21.95|30|rp_wgt2ib_nqn6h3|
+|40GB|1|15.11|40|rp_15ygfyw_1t5mgh8|
+|40GB|2|15.11|40|rp_122vgr7_hvh8yf|
+|40GB|3|15.11|40|rp_1t9pd8i_193q45i|
+|40GB|4|15.75|40|rp_1c1w14l_1r8ttf5|
+|40GB|5|15.75|40|rp_11i7z9o_wl41h4|
+|40GB|6|16.65|40|rp_1x584uf_1kc2vxf|
+|40GB|7|16.65|40|rp_1kdn9fq_100ky82|
+|40GB|8|17.49|40|rp_1tucuq1_1nrjsod|
+|40GB|9|17.49|40|rp_1jaosv4_t3u0qc|
+|40GB|10|17.49|40|rp_1nxsikw_yoxxgc|
+|40GB|12|20.04|40|rp_1bqiinu_en1l4m|
+|40GB|14|20.04|40|rp_1jhm9hg_24fig8|
+|40GB|15|20.04|40|rp_1u1abcd_ws5ae9|
+|40GB|20|20.47|40|rp_5r26pd_8647md|
+|40GB|21|20.47|40|rp_1u8i6tk_1fcg28s|
+|40GB|25|20.47|40|rp_1ps9q4c_irxn8o|
+|40GB|30|20.47|40|rp_15bb64m_1i1feaq|
+|40GB|45|22.18|40|rp_nlgjmq_353huu|
+|40GB|60|26.98|40|rp_qou9kt_10ivb2h|
+|40GB|70|26.98|40|rp_1qlgtea_16c6piu|
+|40GB|80|26.98|40|rp_lf78ib_q5ktxj|
+|40GB|90|26.98|40|rp_lt8njc_3spj84|
+|50GB|1|15.11|50|rp_dq9id7_40uqp3|
+|50GB|2|15.11|50|rp_1h4derk_1fazy7w|
+|50GB|3|15.11|50|rp_1ro1gmh_axlo6t|
+|50GB|4|15.75|50|rp_1vjmfu6_m5yfyq|
+|50GB|5|15.75|50|rp_9a399r_13oit2r|
+|50GB|6|16.65|50|rp_d5m0vo_ljf3t4|
+|50GB|7|16.65|50|rp_1n7v7j1_1g74vr5|
+|50GB|8|17.49|50|rp_1r3dz4y_1rfhnj2|
+|50GB|9|17.49|50|rp_e15gz_1078sbz|
+|50GB|10|17.49|50|rp_ngde2x_chwzxh|
+|50GB|12|20.04|50|rp_914d0b_2s8huf|
+|50GB|14|20.04|50|rp_j04xdp_1hrg7ht|
+|50GB|15|20.04|50|rp_8ggvis_n3qfjs|
+|50GB|20|20.47|50|rp_1o54zk8_130qprg|
+|50GB|21|20.47|50|rp_1yot1f5_1ga0bp|
+|50GB|25|20.47|50|rp_1u8kkpx_113y2pd|
+|50GB|30|20.47|50|rp_o8ifqr_1hmt88v|
+|50GB|45|22.18|50|rp_dhmien_1lwc9lv|
+|50GB|60|26.98|50|rp_a1t0gk_b5wizk|
+|50GB|70|26.98|50|rp_19io30f_10bpeab|
+|50GB|80|26.98|50|rp_8m18km_193g4q2|
+|50GB|90|26.98|50|rp_17qiqq9_1vgbffh|
+
+#### Middle East: Yellow
+Coverage: AE, BH, EG, IQ, IL, JO, KW, MA, OM, PS, QA, SA, TN.
+Networks: Etisalat/Batelco/Zain/Orange/Vodafone/Korek/Cellcom/STC/Omantel/Ooredoo Palestine/ZAIN.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|5.49|1|rp_w8dl6b_9wia4n|
+|2GB|15|7.99|2|rp_j7nual_13b1u69|
+|3GB|30|10.99|3|rp_xgtndj_1n41phf|
+|5GB|30|14.99|5|rp_1pcku6d_u5kwmx|
+|10GB|30|25.99|10|rp_iyhv9t_1xz9kn9|
+
+#### Middle East: Purple, unlimited at up to 0.384 Mbps; Coverage: AE, BH, IQ, KW, QA, SA.
+
+Networks: STC/Zain/Korek/Asia Cell/Ooredoo/ooredoo/Vodafone/Mobily/Etisalat/Du.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_1jk6gi2_1keyqou. Full package prices (days=USD):
+1=15.99;2=26.99;3=36.99;4=53.99;5=58.49;6=73.99;7=80.99;8=99.99;9=107.99;10=118.49;11=124.99;12=132.49;13=140.99;14=151.99;15=168.49
+16=186.99;17=191.99;18=206.99;19=229.49;20=230.49;21=231.07;22=237.99;23=243.99;24=268.49;25=275.99;26=276.68;27=279.49;28=298.49;29=305.99;30=306.76
+31=307.53;32=308.30;33=309.08;34=309.86;35=310.64;36=316.96;37=325.76;38=334.56;39=343.37;40=352.17;41=360.98;42=369.78;43=378.59;44=387.39;45=396.20
+46=405.00;47=413.80;48=422.61;49=431.41;50=440.22;51=449.02;52=457.83;53=466.63;54=475.43;55=484.24;56=493.04;57=501.85;58=510.65;59=519.46;60=528.26
+61=609.00;62=619.00;63=629.00;64=639.00;65=649.00;66=659.00;67=669.00;68=678.00;69=688.00;70=698.00;71=708.00;72=718.00;73=728.00;74=738.00;75=748.00
+76=758.00;77=768.00;78=778.00;79=788.00;80=798.00;81=808.00;82=818.00;83=828.00;84=838.00;85=848.00;86=858.00;87=868.00;88=878.00;89=888.00;90=898.00
+91=908.00;92=918.00;93=928.00;94=938.00;95=948.00;96=958.00;97=968.00;98=978.00;99=988.00;100=998.00
+
+#### Middle East: Purple, unlimited at up to 0.512 Mbps
+Coverage: AE, BH, IQ, KW, QA, SA.
+Networks: STC/Zain/Korek/Asia Cell/Ooredoo/ooredoo/Vodafone/Mobily/Etisalat/Du.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_zxdmtv_1mvk95r. Full package prices (days=USD):
+1=6.31;2=11.15;3=15.99;4=20.49;5=24.99;6=29.99;7=34.99;8=39.99;9=44.99;10=49.57;11=49.70;12=49.83;13=49.96;14=50.09;15=50.22
+16=56.17;17=62.13;18=68.08;19=74.04;20=79.99;21=80.81;22=81.63;23=82.45;24=83.27;25=84.09;26=84.90;27=85.72;28=86.54;29=87.36;30=88.18
+31=90.78;32=93.39;33=95.99;34=98.60;35=101.20;36=103.81;37=106.41;38=109.02;39=111.62;40=114.23;41=116.83;42=119.44;43=122.04;44=124.65;45=126.83
+46=127.15;47=127.47;48=127.79;49=128.11;50=128.44;51=128.77;52=129.10;53=129.43;54=129.76;55=130.09;56=130.42;57=130.75;58=131.08;59=131.41;60=131.74
+61=132.07;62=132.41;63=132.75;64=133.09;65=133.43;66=133.77;67=134.11;68=134.45;69=134.79;70=135.13;71=135.47;72=135.81;73=136.15;74=136.50;75=136.85
+76=137.20;77=137.55;78=137.90;79=138.25;80=138.60;81=138.95;82=139.30;83=139.65;84=140.00;85=142.00;86=143.00;87=145.00;88=147.00;89=148.00;90=150.00
+91=152.00;92=153.00;93=155.00;94=157.00;95=158.00;96=160.00;97=162.00;98=163.00;99=165.00;100=167.00;101=168.00;102=170.00;103=172.00;104=173.00;105=175.00
+106=177.00;107=178.00;108=180.00;109=182.00;110=183.00;111=185.00;112=187.00;113=188.00;114=190.00;115=192.00;116=193.00;117=195.00;118=197.00;119=198.00;120=200.00
+121=202.00;122=203.00;123=205.00;124=207.00;125=208.00;126=210.00;127=212.00;128=213.00;129=215.00;130=217.00;131=218.00;132=220.00;133=222.00;134=223.00;135=225.00
+136=226.00;137=228.00;138=230.00;139=231.00;140=233.00;141=235.00;142=236.00;143=238.00;144=240.00;145=241.00;146=243.00;147=245.00;148=246.00;149=248.00;150=250.00
+151=251.00;152=253.00;153=255.00;154=256.00;155=258.00;156=260.00;157=261.00;158=263.00;159=265.00;160=266.00;161=268.00;162=270.00;163=271.00;164=273.00;165=275.00
+166=276.00;167=278.00;168=280.00;169=281.00;170=283.00;171=285.00;172=286.00;173=288.00;174=290.00;175=291.00;176=293.00;177=295.00;178=296.00;179=298.00;180=300.00
+
+#### Middle East: Purple, unlimited at up to 1 Mbps; Coverage: AE, BH, KW, OM, QA, SA.
+
+Networks: STC/Zain/Ooredoo/Vodafone/ooredoo/Mobily/Etisalat/Du.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_1k3whne_13zcoby. Full package prices (days=USD):
+1=7.35;2=14.70;3=21.99;4=29.40;5=34.99;6=42.49;7=49.99;8=57.17;9=64.36;10=90.99;11=94.99;12=99.49;13=104.49;14=113.49;15=126.99
+16=142.99;17=145.49;18=157.49;19=177.49;20=177.99;21=178.44;22=180.49;23=183.99;24=205.49;25=210.49;26=211.02;27=211.55;28=224.99;29=229.99;30=230.57
+31=231.15;32=231.73;33=232.31;34=236.24;35=241.64;36=247.04;37=252.44;38=257.84;39=263.24;40=268.64;41=274.04;42=279.44;43=284.84;44=290.24;45=295.64
+46=301.03;47=306.43;48=311.83;49=317.23;50=322.63;51=328.03;52=333.43;53=338.83;54=344.23;55=349.63;56=355.03;57=360.43;58=365.83;59=371.23;60=376.63
+61=434.00;62=441.00;63=448.00;64=455.00;65=463.00;66=470.00;67=477.00;68=484.00;69=491.00;70=498.00;71=505.00;72=512.00;73=519.00;74=527.00;75=534.00
+76=541.00;77=548.00;78=555.00;79=562.00;80=569.00;81=576.00;82=583.00;83=591.00;84=598.00;85=605.00;86=612.00;87=619.00;88=626.00;89=633.00;90=640.00
+91=647.00;92=654.00;93=662.00;94=669.00;95=676.00;96=683.00;97=690.00;98=697.00;99=704.00;100=711.00;101=718.00;102=726.00;103=733.00;104=740.00;105=747.00
+106=754.00;107=761.00;108=768.00;109=775.00;110=782.00;111=790.00;112=797.00;113=804.00;114=811.00;115=818.00;116=825.00;117=832.00;118=839.00;119=846.00;120=854.00
+121=861.00;122=868.00;123=875.00;124=882.00;125=889.00;126=896.00;127=903.00;128=910.00;129=917.00;130=925.00;131=932.00;132=939.00;133=946.00;134=953.00;135=960.00
+136=967.00;137=974.00;138=981.00;139=989.00;140=996.00
+
+#### Middle East: Purple, unlimited at up to 0.384 Mbps; Coverage: IL, IQ, KW, QA, SA.
+
+Networks: Asia Cell/Cellcom/Pelephone/Hot Mobile/Partner/Ooredoo/ooredoo/STC.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_akzeez_ghqgn3. Full package prices (days=USD):
+1=6.35;2=14.15;3=21.99;4=28.49;5=34.99;6=39.99;7=44.99;8=52.91;9=59.52;10=64.99;11=71.99;12=78.99;13=85.99;14=107.49;15=120.99
+16=136.49;17=138.49;18=149.99;19=169.49;20=169.99;21=170.42;22=171.49;23=174.49;24=195.99;25=200.49;26=201.00;27=201.51;28=213.99;29=218.49;30=219.04
+31=219.59;32=223.91;33=228.54;34=233.17;35=237.81;36=242.44;37=247.07;38=251.71;39=256.34;40=260.97;41=265.61;42=270.24;43=274.87;44=279.51;45=284.14
+46=288.77;47=293.41;48=298.04;49=302.67;50=307.31;51=311.94;52=316.57;53=321.21;54=325.84;55=330.47;56=335.11;57=339.74;58=344.37;59=349.01;60=353.64
+61=408.00;62=414.00;63=421.00;64=428.00;65=434.00;66=441.00;67=448.00;68=454.00;69=461.00;70=468.00;71=474.00;72=481.00;73=488.00;74=494.00;75=501.00
+76=508.00;77=514.00;78=521.00;79=528.00;80=534.00;81=541.00;82=548.00;83=554.00;84=561.00;85=568.00;86=575.00;87=581.00;88=588.00;89=595.00;90=601.00
+91=608.00;92=615.00;93=621.00;94=628.00;95=635.00;96=641.00;97=648.00;98=655.00;99=661.00;100=668.00;101=675.00;102=681.00;103=688.00;104=695.00;105=701.00
+106=708.00;107=715.00;108=721.00;109=728.00;110=735.00;111=741.00;112=748.00;113=755.00;114=761.00;115=768.00;116=775.00;117=781.00;118=788.00;119=795.00;120=801.00
+121=808.00;122=815.00;123=821.00;124=828.00;125=835.00;126=841.00;127=848.00;128=855.00;129=862.00;130=868.00;131=875.00;132=882.00;133=888.00;134=895.00;135=902.00
+136=908.00;137=915.00;138=922.00;139=928.00;140=935.00;141=942.00;142=948.00;143=955.00;144=962.00;145=968.00;146=975.00;147=982.00;148=988.00;149=995.00
+
+#### Middle East: Purple, unlimited at up to 1 Mbps; Coverage: IL, IQ, KW, QA, SA.
+
+Networks: Asia Cell/Cellcom/Pelephone/Hot Mobile/Partner/Ooredoo/ooredoo/STC.
+Purchase link: https://esim.dog/regions?region=middle-east&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_1eyieum_kg2mdu. Full package prices (days=USD):
+1=6.31;2=11.15;3=15.99;4=20.49;5=24.99;6=29.99;7=34.99;8=39.99;9=44.99;10=49.57;11=49.70;12=49.83;13=49.96;14=50.09;15=50.22
+16=56.17;17=62.13;18=68.08;19=74.04;20=79.99;21=80.81;22=81.63;23=82.45;24=83.27;25=84.09;26=84.90;27=85.72;28=86.54;29=87.36;30=88.18
+31=90.78;32=93.39;33=95.99;34=98.60;35=101.20;36=103.81;37=106.41;38=109.02;39=111.62;40=114.23;41=116.83;42=119.44;43=122.04;44=124.65;45=127.25
+46=129.85;47=132.46;48=135.06;49=137.67;50=140.27;51=142.88;52=145.17;53=145.54;54=145.91;55=146.28;56=146.65;57=147.02;58=147.39;59=147.76;60=148.13
+61=148.51;62=148.89;63=149.27;64=149.65;65=150.03;66=150.41;67=150.79;68=151.17;69=151.55;70=151.93;71=152.31;72=152.70;73=153.09;74=153.48;75=153.87
+76=154.26;77=154.65;78=155.04;79=155.43;80=155.82;81=156.21;82=157.00;83=159.00;84=161.00;85=163.00;86=165.00;87=167.00;88=169.00;89=171.00;90=172.00
+91=174.00;92=176.00;93=178.00;94=180.00;95=182.00;96=184.00;97=186.00;98=188.00;99=190.00;100=192.00;101=194.00;102=195.00;103=197.00;104=199.00;105=201.00
+106=203.00;107=205.00;108=207.00;109=209.00;110=211.00;111=213.00;112=215.00;113=216.00;114=218.00;115=220.00;116=222.00;117=224.00;118=226.00;119=228.00;120=230.00
+121=232.00;122=234.00;123=236.00;124=237.00;125=239.00;126=241.00;127=243.00;128=245.00;129=247.00;130=249.00;131=251.00;132=253.00;133=255.00;134=257.00;135=258.00
+136=260.00;137=262.00;138=264.00;139=266.00;140=268.00;141=270.00;142=272.00;143=274.00;144=276.00;145=278.00;146=280.00;147=281.00;148=283.00;149=285.00;150=287.00
+151=289.00;152=291.00;153=293.00;154=295.00;155=297.00;156=299.00;157=301.00;158=302.00;159=304.00;160=306.00;161=308.00;162=310.00;163=312.00;164=314.00;165=316.00
+166=318.00;167=320.00;168=322.00;169=323.00;170=325.00;171=327.00;172=329.00;173=331.00;174=333.00;175=335.00;176=337.00;177=339.00;178=341.00;179=343.00;180=344.00
+

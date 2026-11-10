@@ -1,0 +1,100 @@
+# eSIM.dog: Aruba
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Aruba (AW)
+
+#### Aruba: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/aw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|3.77|1|
+|2GB|15|6.36|2|
+|3GB|30|7.90|3|
+|5GB|30|11.19|5|
+|5GB|60|12.38|5|
+|10GB|30|19.98|10|
+|10GB|180|66.49|10|
+|20GB|30|34.45|20|
+|20GB|365|77.49|20|
+
+#### Aruba: fixed data, Blue
+Networks: SETAR. Internet exit: Europe.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/aw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|8.99|1|
+|3GB|15|21.99|3|
+|3GB|30|23.49|3|
+|5GB|30|36.49|5|
+|10GB|30|66.49|10|
+|20GB|30|127.49|20|
+
+#### Aruba: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=8.91;2=17.82;3=26.72;4=49.12;5=49.25;6=51.49;7=59.75;8=78.24;9=96.74;10=115.23;11=123.94;12=132.65;13=141.36;14=150.07;15=158.34
+16=167.12;17=175.89;18=184.67;19=193.44;20=202.22;21=211.35;22=211.89;23=212.43;24=212.97;25=213.51;26=229.16;27=244.81;28=260.47;29=276.12;30=291.77
+31=301.80;32=311.82;33=321.85;34=331.88;35=341.91;36=351.93;37=361.96;38=371.99;39=382.02;40=392.04;41=402.07;42=412.10;43=422.13;44=432.15;45=442.18
+46=452.21;47=462.23;48=472.26;49=482.29;50=492.32;51=502.34;52=512.37;53=522.40;54=532.43;55=542.45;56=552.48;57=562.51;58=572.54;59=582.56;60=592.59
+61=603.30;62=614.00;63=624.71;64=635.42;65=646.13;66=656.83;67=667.54;68=678.25;69=688.95;70=699.66;71=710.37;72=721.07;73=731.78;74=742.49;75=753.20
+76=763.90;77=774.61;78=785.32;79=796.02;80=806.73;81=817.44;82=828.14;83=838.85;84=849.56;85=860.27;86=870.97;87=881.68;88=892.39;89=903.09;90=913.80
+
+#### Aruba: 2GB high-speed data per day, then unlimited at 1 Mbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&limit=2&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=16.89;2=33.77;3=50.65;4=67.53;5=81.96;6=97.61;7=116.77;8=131.19;9=145.61;10=160.03;11=174.80;12=189.58;13=204.35;14=219.12;15=246.02
+16=258.86;17=271.70;18=284.53;19=297.37;20=310.21;21=313.90;22=332.02;23=350.13;24=368.25;25=386.36;26=398.14;27=409.92;28=421.71;29=433.49;30=445.27
+31=459.28;32=473.28;33=487.29;34=501.30;35=515.31;36=529.31;37=543.32;38=557.33;39=571.34;40=585.34;41=599.35;42=613.36;43=627.37;44=641.37;45=655.38
+46=669.39;47=683.39;48=697.40;49=711.41;50=725.42;51=739.42;52=753.43;53=767.44;54=781.45;55=795.45;56=809.46;57=823.47;58=837.48;59=851.48;60=865.49
+
+#### Aruba: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=25.33;2=50.65;3=75.97;4=101.30;5=122.93;6=146.40;7=175.16;8=196.79;9=218.42;10=240.05;11=262.21;12=284.37;13=306.52;14=328.68;15=369.04
+16=388.30;17=407.55;18=426.81;19=446.06;20=465.32;21=470.86;22=498.03;23=525.20;24=552.37;25=579.54;26=597.21;27=614.88;28=632.56;29=650.23;30=667.90
+
+#### Aruba: 5GB high-speed data per day, then unlimited at 512 Kbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&limit=5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=32.83;2=65.65;3=98.48;4=131.30;5=159.34;6=189.77;7=227.04;8=255.08;9=283.11;10=311.15;11=339.87;12=368.59;13=397.31;14=426.03;15=478.34
+16=503.30;17=528.26;18=553.22;19=578.18;20=603.14;21=610.32;22=645.54;23=680.76;24=715.97;25=751.19;26=774.10;27=797.01;28=819.91;29=842.82;30=865.73
+
+#### Aruba: 10GB high-speed data per day, then unlimited at 512 Kbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&limit=10&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=51.99;2=103.16;3=154.73;4=206.31;5=250.36;6=298.18;7=356.73;8=400.78;9=444.84;10=488.89;11=534.02;12=579.15;13=624.28;14=669.41;15=751.62
+16=790.84;17=830.06;18=869.27;19=908.49;20=947.71;21=958.99
+
+#### Aruba: Fully unlimited, up to 1 Mbps
+Networks: SETAR.
+Purchase link: https://esim.dog/aw?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=8.85;2=17.72;3=26.57;4=35.44;5=43.01;6=51.22;7=59.44;8=67.01;9=74.57;10=82.14;11=90.35;12=96.54;13=100.82;14=105.09;15=109.37
+16=115.35;17=122.52;18=129.81;19=137.10;20=139.27;21=145.50;22=151.76;23=158.73;24=165.69;25=172.65;26=179.62;27=186.58;28=193.54;29=200.51;30=201.52
+31=208.84;32=216.16;33=223.49;34=230.81;35=238.13;36=245.45;37=252.77;38=260.09;39=267.42;40=274.74;41=282.06;42=289.38;43=296.70;44=304.02;45=311.35
+46=318.67;47=325.99;48=333.31;49=340.63;50=347.95;51=355.28;52=362.60;53=369.92;54=377.24;55=384.56;56=391.88;57=399.21;58=406.53;59=413.85;60=421.17
+61=443.56;62=465.96;63=476.94;64=484.52;65=492.09;66=499.68;67=507.26;68=514.83;69=522.41;70=530.00;71=537.57;72=545.15;73=552.73;74=560.30;75=567.89
+76=575.47;77=583.04;78=590.62;79=598.20;80=605.78;81=613.36;82=620.94;83=628.51;84=636.09;85=643.68;86=651.25;87=658.83;88=666.41;89=673.99;90=681.57
+91=689.13;92=696.69;93=704.25;94=711.82;95=719.38;96=726.94;97=734.50;98=742.06;99=749.63;100=757.19;101=764.75;102=770.53;103=772.46;104=774.40;105=776.34
+106=778.29;107=780.24;108=782.20;109=784.16;110=786.13;111=788.10;112=790.08;113=792.06;114=794.05;115=796.04;116=798.04;117=800.04;118=802.05;119=804.06;120=806.08
+121=812.80;122=819.51;123=826.23;124=832.95;125=839.67;126=846.38;127=853.10;128=859.82;129=866.54;130=873.25;131=879.97;132=886.69;133=893.41;134=900.12;135=906.84
+136=913.56;137=920.27;138=926.99;139=933.71;140=940.43;141=947.14;142=953.86;143=960.58;144=967.30;145=974.01;146=980.73;147=987.45;148=994.17
+

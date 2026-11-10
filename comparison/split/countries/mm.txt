@@ -1,0 +1,104 @@
+# eSIM.dog: Myanmar
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Myanmar (MM)
+
+#### Myanmar: fixed data, Amber Essential
+Networks: Telenor Myanmar. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/mm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|3.90|0.09999999962747097|
+|100MB|3|3.90|0.09999999962747097|
+|100MB|5|3.90|0.09999999962747097|
+|100MB|30|6.48|0.09999999962747097|
+|500MB|1|13.99|0.5|
+|500MB|2|15.99|0.5|
+|500MB|3|16.49|0.5|
+|500MB|5|16.99|0.5|
+|500MB|7|18.49|0.5|
+|500MB|9|18.49|0.5|
+|500MB|10|18.49|0.5|
+|500MB|15|19.49|0.5|
+|500MB|25|20.99|0.5|
+|500MB|30|21.99|0.5|
+|500MB|45|21.99|0.5|
+|500MB|60|22.99|0.5|
+|500MB|70|19.98|0.5|
+|500MB|80|19.98|0.5|
+|500MB|90|19.98|0.5|
+|1GB|1|27.49|1|
+|1GB|2|31.49|1|
+|1GB|3|32.49|1|
+|1GB|5|33.49|1|
+|1GB|9|35.99|1|
+|1GB|10|36.49|1|
+|1GB|15|38.49|1|
+|1GB|20|40.99|1|
+|1GB|25|40.99|1|
+|1GB|30|42.99|1|
+|1GB|45|42.99|1|
+|1GB|60|42.99|1|
+|1GB|70|43.49|1|
+|1GB|80|44.49|1|
+|1GB|90|45.49|1|
+|2GB|1|47.49|2|
+|2GB|2|53.99|2|
+|2GB|3|55.99|2|
+|2GB|5|57.99|2|
+|2GB|9|61.49|2|
+|2GB|10|62.49|2|
+|2GB|15|66.49|2|
+|2GB|25|70.49|2|
+|2GB|30|73.99|2|
+|2GB|45|73.99|2|
+|2GB|60|73.99|2|
+|2GB|70|74.99|2|
+|2GB|80|76.49|2|
+|2GB|90|77.99|2|
+|3GB|1|74.99|3|
+|3GB|2|85.49|3|
+|3GB|3|88.49|3|
+|3GB|5|91.49|3|
+|3GB|9|96.99|3|
+|3GB|10|98.99|3|
+|3GB|15|105.49|3|
+|3GB|25|111.49|3|
+|3GB|45|117.49|3|
+|3GB|60|117.49|3|
+|3GB|70|118.99|3|
+|3GB|80|120.99|3|
+|3GB|90|123.49|3|
+|4GB|1|95.49|4|
+|4GB|2|108.49|4|
+|4GB|3|112.99|4|
+|4GB|5|116.49|4|
+|4GB|10|125.99|4|
+|4GB|15|133.99|4|
+|4GB|45|149.99|4|
+|4GB|60|149.99|4|
+|6GB|1|110.99|6|
+|6GB|2|125.99|6|
+|6GB|3|130.99|6|
+|6GB|5|135.49|6|
+|6GB|10|146.49|6|
+
+#### Myanmar: fixed data, Black
+Networks: Telenor Myanmar. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|25|6.48|0.09999999962747097|
+|100MB|45|9.99|0.09999999962747097|
+|100MB|60|11.49|0.09999999962747097|
+|100MB|90|13.99|0.09999999962747097|
+

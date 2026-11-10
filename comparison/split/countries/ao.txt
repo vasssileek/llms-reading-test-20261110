@@ -1,0 +1,117 @@
+# eSIM.dog: Angola
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Angola (AO)
+
+#### Angola: fixed data, Black; Networks: Unitel. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ao?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|4.98|0.09999999962747097|
+|100MB|2|4.98|0.09999999962747097|
+|100MB|15|6.98|0.09999999962747097|
+|100MB|90|7.94|0.09999999962747097|
+|500MB|15|40.99|0.5|
+|1GB|15|80.49|1|
+
+#### Angola: fixed data, Amber Essential
+Networks: Unitel. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ao?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|7|4.98|0.09999999962747097|
+|500MB|60|22.98|0.5|
+|500MB|80|22.98|0.5|
+|500MB|90|22.98|0.5|
+|1GB|60|44.99|1|
+|1GB|70|45.49|1|
+|1GB|90|47.49|1|
+|2GB|60|77.49|2|
+|2GB|70|78.49|2|
+|2GB|90|81.49|2|
+|3GB|60|122.99|3|
+|3GB|90|128.99|3|
+
+#### Angola: fixed data, Yellow
+Networks: Africell. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ao?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|15|9.98|2|
+|3GB|30|13.21|3|
+|5GB|30|21.23|5|
+|10GB|30|37.28|10|
+|20GB|30|61.00|20|
+
+#### Angola: fixed data, Blue
+Networks: UNITEL. Internet exit: US.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ao?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|30|29.99|3|
+|5GB|30|46.99|5|
+|10GB|30|85.49|10|
+
+#### Angola: fixed data, Black; Networks: Unitel Angola. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ao?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|30|245.49|3|
+
+#### Angola: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: UNITEL.
+Purchase link: https://esim.dog/ao?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=6.24;2=12.28;3=18.32;4=24.43;5=29.27;6=35.12;7=42.24;8=47.46;9=52.67;10=57.89;11=63.23;12=68.58;13=73.92;14=79.26;15=88.99
+16=93.63;17=98.28;18=102.92;19=107.57;20=112.21;21=113.56;22=120.11;23=126.66;24=133.21;25=139.76;26=144.02;27=148.28;28=152.54;29=156.80;30=161.06
+31=166.12;32=171.19;33=176.25;34=181.31;35=186.38;36=191.44;37=196.51;38=201.57;39=206.63;40=211.70;41=216.76;42=221.82;43=226.89;44=231.95;45=237.02
+46=242.08;47=247.14;48=252.21;49=257.27;50=262.33;51=267.40;52=272.46;53=277.52;54=282.59;55=287.65;56=292.72;57=297.78;58=302.84;59=307.91;60=312.97
+61=318.19;62=323.40;63=328.62;64=333.83;65=339.05;66=344.27;67=349.48;68=354.70;69=359.91;70=365.13;71=370.35;72=375.56;73=380.78;74=385.99;75=391.21
+76=396.43;77=401.64;78=406.86;79=412.07;80=417.29;81=422.51;82=427.72;83=432.94;84=438.15;85=443.37;86=448.59;87=453.80;88=459.02;89=464.23;90=469.45
+91=474.67;92=479.88;93=485.10;94=490.31;95=495.53;96=500.74;97=505.96;98=511.18;99=516.39;100=521.61;101=526.82;102=532.04;103=537.25;104=542.47;105=547.68
+106=552.90;107=558.12;108=563.33;109=568.55;110=573.76;111=578.98;112=584.19;113=589.41;114=594.63;115=599.84;116=605.06;117=610.27;118=615.49;119=620.70;120=625.92
+121=631.14;122=636.35;123=641.57;124=646.78;125=652.00;126=657.22;127=662.43;128=667.65;129=672.86;130=678.08;131=683.30;132=688.51;133=693.73;134=698.94;135=704.16
+136=709.38;137=714.59;138=719.81;139=725.02;140=730.24;141=735.46;142=740.67;143=745.89;144=751.10;145=756.32;146=761.54;147=766.75;148=771.97;149=777.18;150=782.40
+151=787.62;152=792.83;153=798.05;154=803.26;155=808.48;156=813.70;157=818.91;158=824.13;159=829.34;160=834.56;161=839.78;162=844.99;163=850.21;164=855.42;165=860.64
+166=865.86;167=871.07;168=876.29;169=881.50;170=886.72;171=891.94;172=897.15;173=902.37;174=907.58;175=912.80;176=918.02;177=923.23;178=928.45;179=933.66;180=938.88
+
+#### Angola: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: UNITEL.
+Purchase link: https://esim.dog/ao?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=10.12;2=20.24;3=30.35;4=40.47;5=48.48;6=58.18;7=69.98;8=78.62;9=87.26;10=95.90;11=104.75;12=113.61;13=122.46;14=131.31;15=147.42
+16=155.11;17=162.81;18=170.50;19=178.20;20=185.89;21=188.11;22=198.97;23=209.82;24=220.68;25=231.53;26=238.59;27=245.65;28=252.70;29=259.76;30=266.82
+31=275.21;32=283.60;33=291.99;34=300.37;35=308.76;36=317.15;37=325.54;38=333.93;39=342.32;40=350.70;41=359.09;42=367.48;43=375.87;44=384.26;45=392.65
+46=401.03;47=409.42;48=417.81;49=426.20;50=434.59;51=442.98;52=451.36;53=459.75;54=468.14;55=476.53;56=484.92;57=493.31;58=501.69;59=510.08;60=518.47
+61=527.11;62=535.75;63=544.39;64=553.03;65=561.68;66=570.32;67=578.96;68=587.60;69=596.24;70=604.88;71=613.52;72=622.16;73=630.80;74=639.44;75=648.09
+76=656.73;77=665.37;78=674.01;79=682.65;80=691.29;81=699.93;82=708.57;83=717.21;84=725.85;85=734.50;86=743.14;87=751.78;88=760.42;89=769.06;90=777.70
+
+#### Angola: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: UNITEL.
+Purchase link: https://esim.dog/ao?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=19.06;2=38.11;3=57.17;4=76.22;5=91.31;6=109.57;7=131.80;8=148.08;9=164.35;10=180.63;11=197.30;12=213.98;13=230.65;14=247.32;15=277.68
+16=292.17;17=306.66;18=321.15;19=335.64;20=350.13;21=354.30;22=374.75;23=395.19;24=415.64;25=436.08;26=449.38;27=462.68;28=475.97;29=489.27;30=502.57
+31=518.37;32=534.17;33=549.97;34=565.77;35=581.57;36=597.37;37=613.17;38=628.96;39=644.76;40=660.56;41=676.36;42=692.16;43=707.96;44=723.76;45=739.56
+46=755.36;47=771.16;48=786.96;49=802.76;50=818.56;51=834.36;52=850.16;53=865.95;54=881.75;55=897.55;56=913.35;57=929.15;58=944.95;59=960.75;60=976.55
+
+#### Angola: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: UNITEL.
+Purchase link: https://esim.dog/ao?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=72.84;2=145.68;3=218.51;4=291.34;5=349.00;6=418.80;7=503.77;8=565.98;9=628.20;10=690.41;11=754.14;12=817.88;13=881.61;14=945.34
+

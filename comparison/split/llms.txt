@@ -1,0 +1,7 @@
+# eSIM.dog
+
+Product information and current catalogue snapshot.
+
+## Catalogue
+
+- [Product reference and destination price files](https://vasssileek.github.io/llms-reading-test-20261110/comparison/split/llms-full.txt)

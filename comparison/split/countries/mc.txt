@@ -1,0 +1,284 @@
+# eSIM.dog: Monaco
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Monaco (MC)
+
+#### Monaco: fixed data, Black
+Networks: Monaco Telecom. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|3.99|0.09999999962747097|
+|100MB|2|4.49|0.09999999962747097|
+|100MB|3|4.49|0.09999999962747097|
+|100MB|5|4.99|0.09999999962747097|
+|100MB|10|4.99|0.09999999962747097|
+|100MB|15|4.99|0.09999999962747097|
+|100MB|30|5.49|0.09999999962747097|
+|100MB|90|4.99|0.09999999962747097|
+|500MB|1|15.99|0.5|
+|500MB|2|17.99|0.5|
+|500MB|3|18.99|0.5|
+|500MB|5|19.49|0.5|
+|500MB|9|20.49|0.5|
+|500MB|10|20.99|0.5|
+|500MB|15|22.49|0.5|
+|500MB|25|23.49|0.5|
+|500MB|30|24.99|0.5|
+|1GB|1|31.49|1|
+|1GB|2|35.49|1|
+|1GB|3|36.99|1|
+|1GB|4|37.99|1|
+|1GB|5|37.99|1|
+|1GB|6|40.49|1|
+|1GB|7|40.49|1|
+|1GB|9|40.49|1|
+|1GB|10|40.99|1|
+|1GB|15|43.99|1|
+|1GB|25|46.49|1|
+|1GB|30|48.99|1|
+|1GB|60|48.99|1|
+|2GB|1|53.49|2|
+|2GB|2|60.99|2|
+|2GB|3|62.99|2|
+|2GB|5|65.49|2|
+|2GB|9|69.49|2|
+|2GB|10|70.49|2|
+|2GB|14|74.99|2|
+|2GB|15|74.99|2|
+|2GB|25|79.49|2|
+|2GB|30|83.49|2|
+|2GB|60|83.49|2|
+|3GB|1|84.99|3|
+|3GB|2|96.49|3|
+|3GB|3|99.99|3|
+|3GB|5|103.49|3|
+|3GB|9|109.99|3|
+|3GB|10|111.99|3|
+|3GB|14|118.99|3|
+|3GB|15|118.99|3|
+|3GB|25|125.99|3|
+|3GB|30|132.99|3|
+|3GB|60|132.99|3|
+|4GB|1|107.99|4|
+|4GB|2|122.99|4|
+|4GB|3|127.49|4|
+|4GB|5|131.99|4|
+|4GB|9|139.99|4|
+|4GB|10|142.49|4|
+|4GB|15|151.49|4|
+|4GB|25|160.99|4|
+|4GB|30|169.49|4|
+|4GB|60|169.49|4|
+|4GB|70|171.49|4|
+|4GB|80|174.49|4|
+|4GB|90|177.99|4|
+|5GB|1|125.49|5|
+|5GB|3|147.99|5|
+|5GB|9|162.49|5|
+|5GB|12|175.99|5|
+|5GB|14|175.99|5|
+|5GB|20|186.49|5|
+|5GB|21|186.49|5|
+|5GB|25|186.49|5|
+|5GB|30|196.49|5|
+|5GB|60|196.49|5|
+|6GB|1|125.49|6|
+|6GB|2|142.49|6|
+|6GB|3|147.99|6|
+|6GB|5|152.99|6|
+|6GB|9|162.49|6|
+|6GB|10|165.49|6|
+|6GB|15|175.99|6|
+|6GB|25|186.49|6|
+|6GB|60|196.49|6|
+|6GB|70|198.99|6|
+|6GB|80|202.49|6|
+|6GB|90|206.49|6|
+|7GB|1|191.99|7|
+|7GB|2|217.99|7|
+|7GB|3|225.99|7|
+|7GB|5|233.99|7|
+|7GB|9|248.99|7|
+|7GB|10|252.99|7|
+|7GB|15|269.49|7|
+|7GB|25|285.49|7|
+|9GB|1|204.99|9|
+|9GB|2|232.99|9|
+|9GB|3|241.49|9|
+|9GB|5|250.49|9|
+|9GB|9|265.99|9|
+|9GB|10|270.49|9|
+|9GB|15|287.99|9|
+|10GB|1|233.49|10|
+|10GB|3|274.99|10|
+|10GB|5|284.99|10|
+|12GB|1|255.49|12|
+|12GB|2|290.49|12|
+
+#### Monaco: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.28|1|
+|5GB|60|12.38|5|
+|10GB|180|66.49|10|
+|20GB|365|77.49|20|
+|60GB|125|197.49|60|
+
+#### Monaco: fixed data, Amber Essential
+Networks: Monaco Telecom. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|60|10.94|0.5|
+|500MB|80|10.94|0.5|
+|500MB|90|10.94|0.5|
+|1GB|70|24.99|1|
+|1GB|80|25.49|1|
+|1GB|90|25.99|1|
+|2GB|70|42.49|2|
+|2GB|80|43.49|2|
+|2GB|90|43.99|2|
+|3GB|70|67.49|3|
+|3GB|80|68.49|3|
+|3GB|90|69.99|3|
+
+#### Monaco: fixed data, Blue
+Networks: Monaco Telecom. Internet exit: SG.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|16.99|1|
+|1GB|7|17.99|1|
+|2GB|1|31.99|2|
+|3GB|1|53.99|3|
+|3GB|15|47.99|3|
+|3GB|30|50.99|3|
+|5GB|1|69.99|5|
+|5GB|30|79.99|5|
+|10GB|1|129.49|10|
+|10GB|30|145.49|10|
+|20GB|30|281.99|20|
+
+#### Monaco: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|3|45.99|5|
+|5GB|9|45.99|5|
+|5GB|12|46.49|5|
+|5GB|20|46.49|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|3|59.49|10|
+|10GB|5|59.49|10|
+|10GB|10|60.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|12|123.99|20|
+|20GB|15|124.49|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|9|244.49|50|
+|50GB|12|245.99|50|
+|50GB|20|247.99|50|
+|50GB|30|250.49|50|
+
+#### Monaco: fixed data, Yellow; Networks: Monaco Telecom. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|1.89|1|
+|2GB|15|2.39|2|
+|3GB|30|2.59|3|
+|5GB|30|3.65|5|
+|10GB|30|5.09|10|
+|20GB|30|8.49|20|
+
+#### Monaco: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=15.86;2=37.77;3=57.19;4=76.61;5=93.05;6=110.59;7=130.26;8=146.49;9=162.72;10=178.95;11=196.95;12=214.96;13=232.96;14=250.96;15=268.96
+16=283.86;17=298.77;18=313.67;19=328.58;20=343.48;21=359.97;22=377.16;23=394.36;24=411.55;25=428.74;26=442.59;27=456.44;28=470.28;29=484.13;30=497.98
+31=514.52;32=531.05;33=547.59;34=564.12;35=580.66;36=597.20;37=613.73;38=630.27;39=646.80;40=663.34;41=679.88;42=696.41;43=712.95;44=729.48;45=746.02
+46=762.56;47=779.09;48=795.63;49=812.16;50=828.70;51=845.24;52=861.77;53=878.31;54=894.84;55=911.38;56=927.92;57=944.45;58=960.99;59=977.52;60=994.06
+
+#### Monaco: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=16.26;2=43.19;3=65.15;4=87.10;5=105.19;6=125.52;7=147.26;8=165.77;9=184.29;10=202.80;11=223.15;12=243.50;13=263.85;14=284.20;15=304.55
+16=321.52;17=338.49;18=355.47;19=372.44;20=389.41;21=407.44;22=426.88;23=446.31;24=465.75;25=485.18;26=500.70;27=516.22;28=531.73;29=547.25;30=562.77
+
+#### Monaco: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=30.60;2=61.20;3=91.99;4=122.49;5=146.99;6=175.99;7=211.79;8=237.85;9=263.91;10=289.97;11=316.76;12=343.55;13=370.34;14=397.13;15=443.34
+16=467.24;17=491.15;18=515.05;19=538.96;20=562.86;21=568.92;22=601.75;23=634.58;24=667.40;25=700.23;26=721.58;27=742.94;28=764.29;29=785.65;30=807.00
+
+#### Monaco: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=51.99;2=103.49;3=154.99;4=206.99;5=247.49;6=296.99;7=357.20;8=401.25;9=445.31;10=489.36;11=534.55;12=579.74;13=624.92;14=670.11;15=748.10
+16=788.44;17=828.77;18=869.11;19=909.44;20=949.78;21=959.99
+
+#### Monaco: 5GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=5&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=66.99;2=133.99;3=200.99;4=267.99;5=320.99;6=384.99;7=462.91;8=520.06;9=577.21;10=634.36;11=692.92;12=751.49;13=810.05;14=868.61;15=969.68
+
+#### Monaco: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=124.49;2=248.99;3=372.99;4=497.49;5=595.99;6=714.99;7=859.82
+
+#### Monaco: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=19.12;2=43.42;3=65.49;4=87.55;5=105.73;6=126.16;7=148.01;8=166.62;9=185.22;10=203.83;11=224.28;12=244.74;13=265.19;14=285.64;15=306.09
+16=323.15;17=340.20;18=357.26;19=374.31;20=391.37;21=409.49;22=429.02;23=448.56;24=468.09;25=487.62;26=503.22;27=518.81;28=534.41;29=550.00;30=565.60
+
+#### Monaco: Fully unlimited, up to 1 Mbps
+Networks: Monaco Telecom.
+Purchase link: https://esim.dog/mc?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=15.46;2=32.34;3=49.23;4=66.11;5=80.90;6=95.66;7=113.26;8=128.02;9=144.19;10=155.10;11=170.75;12=186.40;13=202.05;14=217.71;15=233.36
+16=249.01;17=264.66;18=280.31;19=295.97;20=297.55;21=312.50;22=327.45;23=342.40;24=357.34;25=372.29;26=387.24;27=402.19;28=417.14;29=432.09;30=433.18
+31=445.63;32=460.05;33=474.47;34=488.89;35=503.31;36=517.73;37=532.15;38=546.57;39=561.00;40=575.42;41=589.84;42=604.26;43=618.68;44=633.10;45=647.52
+46=661.94;47=676.36;48=690.78;49=705.21;50=719.63;51=734.05;52=748.47;53=762.89;54=777.31;55=791.73;56=806.15;57=820.57;58=834.99;59=849.42;60=863.84
+61=879.68;62=894.11;63=908.53;64=922.95;65=937.37;66=951.79;67=966.21;68=980.63;69=995.05
+

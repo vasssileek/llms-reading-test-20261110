@@ -1,0 +1,69 @@
+# eSIM.dog: Yemen
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Yemen (YE)
+
+#### Yemen: fixed data, Blue
+Networks: MTN. Internet exit: PL.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ye?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|11.89|1|
+|3GB|15|39.99|3|
+|3GB|30|42.49|3|
+|5GB|30|66.49|5|
+|10GB|30|120.99|10|
+|20GB|30|247.99|20|
+
+#### Yemen: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=15.85;2=31.69;3=62.88;4=84.71;5=101.48;6=121.77;7=142.06;8=160.15;9=178.24;10=196.33;11=215.96;12=235.60;13=255.23;14=274.86;15=294.50
+16=310.60;17=326.71;18=342.81;19=358.92;20=375.02;21=393.77;22=410.54;23=427.32;24=444.09;25=460.86;26=472.70;27=484.53;28=496.37;29=508.20;30=520.04
+
+#### Yemen: 2GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&limit=2&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=30.12;2=60.23;3=90.34;4=120.45;5=144.29;6=173.14;7=208.27;8=233.99;9=259.71;10=285.43;11=311.78;12=338.13;13=364.47;14=390.82;15=438.82
+16=461.72;17=484.61;18=507.51;19=530.40;20=553.30;21=559.88;22=592.19;23=624.50;24=656.80;25=689.11;26=710.13;27=731.14;28=752.16;29=773.17;30=794.19
+
+#### Yemen: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=42.79;2=85.58;3=128.37;4=171.16;5=205.03;6=246.04;7=295.97;8=332.52;9=369.06;10=405.61;11=443.05;12=480.49;13=517.93;14=555.37;15=623.56
+16=656.10;17=688.64;18=721.17;19=753.71;20=786.25;21=795.61;22=841.52;23=887.43;24=933.33;25=979.24
+
+#### Yemen: 5GB high-speed data per day, then unlimited at 512 Kbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&limit=5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=55.47;2=110.94;3=166.40;4=221.87;5=265.78;6=318.94;7=383.65;8=431.03;9=478.40;10=525.78;11=574.31;12=622.85;13=671.38;14=719.91;15=808.31
+
+#### Yemen: 10GB high-speed data per day, then unlimited at 512 Kbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&limit=10&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=103.00;2=206.00;3=309.00;4=412.00;5=493.55;6=592.25;7=712.42;8=800.40;9=888.38;10=976.36
+
+#### Yemen: Fully unlimited, up to 1 Mbps
+Networks: MTN.
+Purchase link: https://esim.dog/ye?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=15.76;2=31.52;3=45.99;4=63.05;5=75.54;6=90.64;7=105.75;8=119.22;9=132.68;10=146.15;11=160.77;12=175.39;13=190.00;14=204.61;15=219.23
+16=231.22;17=243.21;18=255.19;19=267.18;20=279.17;21=293.13;22=307.09;23=321.05;24=328.07;25=333.15;26=338.23;27=343.30;28=348.38;29=357.83;30=358.73
+31=370.48;32=382.43;33=394.38;34=406.33;35=418.28;36=430.24;37=442.19;38=454.14;39=466.09;40=478.04;41=489.99;42=501.94;43=513.89;44=525.84;45=537.79
+46=549.75;47=561.70;48=573.65;49=585.60;50=597.55;51=609.50;52=621.45;53=633.40;54=645.35;55=657.30;56=669.26;57=681.21;58=693.16;59=705.11;60=717.06
+61=729.01;62=740.96;63=752.91;64=764.86;65=776.82;66=788.77;67=800.72;68=812.67;69=824.62;70=836.57;71=848.52;72=860.47;73=872.42;74=884.37;75=896.33
+76=908.28;77=920.23;78=932.18;79=944.13;80=956.08;81=968.03;82=979.98;83=991.93
+

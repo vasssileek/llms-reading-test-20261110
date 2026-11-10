@@ -1,0 +1,343 @@
+# eSIM.dog: Venezuela
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Venezuela (VE)
+
+#### Venezuela: fixed data, Black; Networks: Digitel. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|5|2.26|0.5|
+|500MB|7|2.35|0.5|
+|500MB|30|3.22|0.5|
+|500MB|90|4.99|0.5|
+|1GB|6|5.99|1|
+|1GB|10|4.24|1|
+|1GB|15|4.76|1|
+|1GB|30|5.11|1|
+|1GB|90|6.69|1|
+|2GB|2|8.49|2|
+|2GB|3|8.99|2|
+|2GB|5|9.49|2|
+|2GB|9|9.99|2|
+|2GB|10|9.99|2|
+|2GB|14|10.49|2|
+|2GB|25|10.99|2|
+|2GB|30|11.99|2|
+|3GB|2|13.49|3|
+|3GB|3|13.99|3|
+|3GB|5|14.49|3|
+|3GB|9|15.49|3|
+|3GB|10|15.49|3|
+|3GB|14|16.49|3|
+|3GB|25|17.49|3|
+|3GB|90|16.77|3|
+|4GB|2|16.99|4|
+|4GB|3|17.49|4|
+|4GB|5|18.49|4|
+|4GB|9|19.49|4|
+|4GB|10|19.49|4|
+|4GB|15|20.99|4|
+|4GB|25|21.99|4|
+|4GB|60|19.15|4|
+|5GB|3|20.49|5|
+|5GB|5|20.99|5|
+|5GB|14|23.99|5|
+|5GB|21|25.49|5|
+|6GB|1|13.78|6|
+|6GB|2|19.49|6|
+|6GB|3|20.49|6|
+|6GB|5|20.99|6|
+|6GB|9|22.49|6|
+|6GB|10|22.99|6|
+|6GB|15|23.99|6|
+|6GB|25|25.49|6|
+|7GB|1|26.49|7|
+|7GB|2|29.99|7|
+|7GB|3|30.99|7|
+|7GB|5|31.99|7|
+|7GB|7|33.99|7|
+|7GB|9|33.99|7|
+|7GB|10|34.49|7|
+|7GB|15|36.99|7|
+|7GB|25|38.99|7|
+|9GB|1|27.99|9|
+|9GB|2|31.99|9|
+|9GB|3|32.99|9|
+|9GB|5|34.49|9|
+|9GB|7|36.49|9|
+|9GB|9|36.49|9|
+|9GB|10|36.99|9|
+|9GB|15|39.49|9|
+|9GB|25|41.49|9|
+|10GB|2|36.49|10|
+|10GB|3|37.49|10|
+|10GB|5|38.99|10|
+|10GB|6|41.49|10|
+|10GB|9|41.49|10|
+|10GB|10|41.99|10|
+|10GB|14|44.49|10|
+|10GB|25|47.49|10|
+|12GB|1|34.99|12|
+|12GB|2|39.49|12|
+|12GB|5|42.49|12|
+|12GB|9|44.99|12|
+|12GB|10|45.99|12|
+|12GB|15|48.99|12|
+|12GB|25|51.99|12|
+|12GB|30|54.49|12|
+|15GB|1|43.49|15|
+|15GB|2|49.49|15|
+|15GB|3|51.49|15|
+|15GB|5|52.99|15|
+|15GB|10|57.49|15|
+|15GB|15|60.99|15|
+|15GB|25|64.49|15|
+|20GB|1|63.99|20|
+|20GB|2|72.49|20|
+|20GB|3|74.99|20|
+|20GB|5|77.99|20|
+|20GB|9|82.49|20|
+|20GB|10|83.99|20|
+|20GB|15|89.49|20|
+|20GB|25|94.99|20|
+
+#### Venezuela: fixed data, Green
+Networks: Digitel. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|4.49|0.4900000002235174|
+|1GB|7|6.49|1|
+|5GB|15|25.99|5|
+|10GB|30|45.99|10|
+|15GB|30|62.49|15|
+|20GB|30|81.49|20|
+|30GB|30|120.49|30|
+
+#### Venezuela: fixed data, Blue
+Networks: Digitel. Internet exit: UK.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|9.99|1|
+|1GB|7|8.99|1|
+|2GB|1|18.49|2|
+|3GB|1|26.49|3|
+|3GB|15|23.49|3|
+|3GB|30|24.99|3|
+|5GB|30|38.99|5|
+|10GB|1|62.99|10|
+|10GB|30|70.49|10|
+|20GB|30|144.99|20|
+
+#### Venezuela: fixed data, Black; Networks: Digitel Venezuela. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|4.99|1|
+|1GB|7|5.99|1|
+|2GB|1|7.49|2|
+|2GB|15|10.49|2|
+|3GB|1|11.99|3|
+|3GB|15|16.49|3|
+|3GB|30|18.49|3|
+|5GB|7|22.49|5|
+|5GB|15|23.99|5|
+|5GB|30|26.99|5|
+|10GB|1|31.99|10|
+|10GB|7|41.49|10|
+|10GB|15|44.49|10|
+|10GB|30|49.99|10|
+|15GB|30|67.99|15|
+|20GB|30|99.99|20|
+|30GB|30|129.49|30|
+|50GB|7|194.49|50|
+|50GB|15|210.49|50|
+|50GB|30|234.99|50|
+
+#### Venezuela: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|2.18|1|
+|2GB|1|4.14|2|
+|3GB|1|4.97|3|
+|30GB|30|64.99|30|
+
+#### Venezuela: fixed data, Amber Essential; Networks: Digitel. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|2|2.26|1|
+|1GB|3|2.26|1|
+|1GB|5|2.26|1|
+|4GB|1|7.53|4|
+|4GB|90|19.15|4|
+|5GB|90|19.15|5|
+|6GB|60|19.15|6|
+|6GB|90|19.15|6|
+|7GB|80|19.15|7|
+|7GB|90|19.15|7|
+|9GB|70|19.15|9|
+|9GB|80|19.15|9|
+|9GB|90|19.15|9|
+|10GB|80|22.23|10|
+|10GB|90|22.23|10|
+|12GB|90|35.93|12|
+|15GB|60|35.93|15|
+|15GB|80|35.93|15|
+|15GB|90|35.93|15|
+|20GB|60|51.04|20|
+|20GB|70|51.04|20|
+|20GB|80|51.04|20|
+|20GB|90|51.04|20|
+|30GB|1|42.64|30|
+|30GB|2|42.64|30|
+|30GB|3|42.64|30|
+|30GB|5|44.99|30|
+|30GB|9|45.99|30|
+|30GB|10|46.84|30|
+|30GB|15|57.99|30|
+|30GB|25|55.23|30|
+|30GB|60|55.80|30|
+|30GB|70|59.43|30|
+|30GB|80|59.43|30|
+|30GB|90|59.43|30|
+|40GB|1|55.80|40|
+|40GB|2|55.80|40|
+|40GB|3|55.80|40|
+|40GB|5|56.69|40|
+|40GB|9|61.49|40|
+|40GB|10|61.49|40|
+|40GB|15|75.49|40|
+|40GB|25|80.49|40|
+|40GB|30|84.49|40|
+|40GB|60|80.40|40|
+|40GB|70|80.40|40|
+|40GB|80|80.40|40|
+|40GB|90|80.40|40|
+|50GB|1|74.99|50|
+|50GB|2|85.49|50|
+|50GB|3|88.49|50|
+|50GB|5|91.49|50|
+|50GB|6|97.49|50|
+|50GB|9|97.49|50|
+|50GB|10|98.99|50|
+|50GB|14|105.49|50|
+|50GB|25|111.99|50|
+|50GB|60|118.99|50|
+|50GB|70|118.99|50|
+|50GB|80|121.49|50|
+|50GB|90|123.49|50|
+
+#### Venezuela: fixed data, Yellow; Networks: Telefonica Moviles Venezuela. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|2.35|1|
+|2GB|15|4.24|2|
+|3GB|30|5.18|3|
+|5GB|30|7.78|5|
+|10GB|30|12.97|10|
+|20GB|30|20.76|20|
+
+#### Venezuela: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|5GB|7|14.49|5|
+|5GB|15|16.99|5|
+|10GB|7|28.49|10|
+|10GB|15|30.49|10|
+|50GB|7|91.99|50|
+|50GB|15|99.49|50|
+|50GB|30|106.99|50|
+
+#### Venezuela: fixed data, Amber Essential; Networks: Digitel Venezuela. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ve?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|50GB|7|97.49|50|
+|50GB|15|105.49|50|
+
+#### Venezuela: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=9.26;2=18.51;3=37.09;4=48.54;5=57.18;6=71.09;7=82.93;8=83.88;9=84.83;10=85.78;11=102.75;12=119.72;13=136.69;14=153.66;15=164.71
+16=173.72;17=182.72;18=191.73;19=200.73;20=209.74;21=210.27;22=210.80;23=211.33;24=211.86;25=212.39;26=230.61;27=248.84;28=267.06;29=285.29;30=303.51
+31=314.15;32=324.79;33=335.43;34=346.06;35=356.70;36=367.34;37=377.98;38=388.62;39=399.26;40=409.89;41=420.53;42=431.17;43=441.81;44=452.45;45=463.09
+46=473.72;47=484.36;48=495.00;49=505.64;50=516.28;51=526.92;52=537.55;53=548.19;54=558.83;55=569.47;56=580.11;57=590.75;58=601.38;59=612.02;60=622.66
+61=633.59;62=644.51;63=655.44;64=666.37;65=677.29;66=688.22;67=699.15;68=710.07;69=721.00;70=731.93;71=742.85;72=753.78;73=764.71;74=775.63;75=786.56
+76=797.49;77=808.41;78=819.34;79=830.27;80=841.19;81=852.12;82=863.05;83=873.97;84=884.90;85=895.83;86=906.75;87=917.68;88=928.61;89=939.53;90=950.46
+
+#### Venezuela: 2GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&limit=2&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=17.58;2=35.15;3=52.99;4=70.30;5=84.49;6=101.49;7=121.58;8=136.58;9=151.58;10=166.58;11=181.96;12=197.34;13=212.72;14=228.10;15=256.10
+16=269.46;17=282.83;18=296.19;19=309.56;20=322.92;21=326.77;22=345.63;23=364.48;24=383.34;25=402.19;26=414.45;27=426.72;28=438.98;29=451.25;30=463.51
+31=478.09;32=492.68;33=507.26;34=521.84;35=536.42;36=551.01;37=565.59;38=580.17;39=594.75;40=609.34;41=623.92;42=638.50;43=653.08;44=667.67;45=682.25
+46=696.83;47=711.42;48=726.00;49=740.58;50=755.16;51=769.75;52=784.33;53=798.91;54=813.49;55=828.08;56=842.66;57=857.24;58=871.82;59=886.41;60=900.99
+
+#### Venezuela: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=24.97;2=49.99;3=74.99;4=99.99;5=119.99;6=143.99;7=173.01;8=194.18;9=215.34;10=236.51;11=258.40;12=280.28;13=302.17;14=324.05;15=363.84
+16=382.83;17=401.81;18=420.80;19=439.78;20=458.77;21=464.22;22=491.01;23=517.80;24=544.58;25=571.37;26=588.79;27=606.22;28=623.64;29=641.07;30=658.49
+
+#### Venezuela: 5GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&limit=5&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=32.37;2=64.99;3=97.49;4=129.49;5=155.49;6=186.49;7=223.86;8=251.53;9=279.19;10=306.86;11=335.18;12=363.50;13=391.82;14=420.14;15=471.73
+16=496.34;17=520.96;18=545.57;19=570.19;20=594.80;21=601.88;22=636.61;23=671.34;24=706.07;25=740.80;26=763.39;27=785.98;28=808.58;29=831.17;30=853.76
+
+#### Venezuela: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=60.49;2=120.49;3=180.49;4=240.49;5=288.49;6=345.99;7=415.82;8=467.15;9=518.49;10=569.82;11=622.42;12=675.03;13=727.63;14=780.23;15=876.03
+
+#### Venezuela: Fully unlimited, up to 1 Mbps
+Networks: Digitel.
+Purchase link: https://esim.dog/ve?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=9.20;2=18.40;3=27.61;4=34.99;5=39.99;6=52.93;7=61.75;8=69.61;9=74.18;10=74.99;11=82.71;12=90.44;13=98.16;14=105.89;15=113.61
+16=119.82;17=127.33;18=134.91;19=142.48;20=144.67;21=151.14;22=157.71;23=164.95;24=172.18;25=179.41;26=186.65;27=193.88;28=201.11;29=208.35;30=209.35
+31=218.26;32=227.17;33=236.08;34=244.98;35=253.89;36=262.80;37=271.71;38=280.62;39=289.53;40=298.44;41=307.35;42=316.25;43=325.16;44=334.07;45=342.98
+46=350.11;47=357.25;48=364.38;49=371.52;50=378.65;51=385.78;52=392.92;53=400.05;54=407.19;55=414.32;56=421.45;57=428.59;58=435.72;59=442.86;60=449.99
+61=459.16;62=468.32;63=477.49;64=486.66;65=495.82;66=504.99;67=514.16;68=523.32;69=532.49;70=541.66;71=550.82;72=559.99;73=569.16;74=578.32;75=587.49
+76=596.66;77=605.75;78=613.61;79=621.47;80=629.33;81=637.19;82=645.05;83=652.91;84=660.77;85=668.63;86=676.49;87=684.35;88=692.21;89=700.07;90=707.94
+91=715.80;92=723.66;93=731.52;94=739.38;95=743.72;96=747.47;97=751.21;98=754.96;99=758.71;100=762.45;101=766.20;102=769.95;103=773.69;104=777.44;105=781.19
+106=784.93;107=788.68;108=792.42;109=796.17;110=799.92;111=803.66;112=807.41;113=811.16;114=814.90;115=818.65;116=822.39;117=826.14;118=829.89;119=833.63;120=837.38
+121=844.36;122=851.34;123=858.32;124=865.30;125=872.27;126=879.25;127=886.23;128=893.21;129=900.19;130=907.16;131=914.14;132=921.12;133=928.10;134=935.08;135=942.06
+136=949.03;137=956.01;138=962.99;139=969.97;140=976.95;141=983.93;142=990.90;143=997.88
+

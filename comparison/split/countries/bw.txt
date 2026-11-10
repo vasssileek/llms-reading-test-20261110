@@ -1,0 +1,370 @@
+# eSIM.dog: Botswana
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Botswana (BW)
+
+#### Botswana: fixed data, Black; Networks: BeMOBILE. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|5|2.94|0.5|
+|500MB|7|3.13|0.5|
+|500MB|30|3.22|0.5|
+|1GB|2|2.94|1|
+|1GB|4|2.94|1|
+|1GB|6|3.13|1|
+|1GB|14|3.90|1|
+|1GB|30|3.92|1|
+|1GB|90|3.93|1|
+|2GB|14|4.85|2|
+|2GB|30|6.66|2|
+|2GB|90|6.85|2|
+|3GB|3|6.59|3|
+|3GB|5|6.60|3|
+|3GB|7|6.61|3|
+|3GB|10|6.62|3|
+|3GB|14|6.63|3|
+|3GB|20|6.64|3|
+|3GB|25|6.65|3|
+|3GB|90|10.16|3|
+|4GB|1|8.54|4|
+|4GB|3|8.54|4|
+|4GB|5|8.55|4|
+|4GB|7|8.57|4|
+|4GB|10|8.58|4|
+|4GB|15|8.59|4|
+|4GB|20|8.60|4|
+|4GB|25|8.61|4|
+|4GB|60|10.16|4|
+|4GB|90|10.17|4|
+|7GB|20|16.72|7|
+|7GB|25|16.73|7|
+|7GB|30|16.74|7|
+|9GB|1|16.66|9|
+|9GB|3|16.66|9|
+|9GB|5|16.67|9|
+|9GB|7|16.69|9|
+|9GB|10|16.70|9|
+|9GB|15|16.71|9|
+|9GB|90|18.80|9|
+|12GB|1|17.24|12|
+|12GB|3|17.24|12|
+|12GB|90|31.77|12|
+|15GB|90|31.78|15|
+|30GB|1|40.62|30|
+|30GB|2|40.62|30|
+
+#### Botswana: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|3.13|1|
+|2GB|15|6.62|2|
+|3GB|30|6.66|3|
+|5GB|7|29.49|5|
+|5GB|15|32.99|5|
+|5GB|30|13.99|5|
+|5GB|60|12.38|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+|10GB|30|27.49|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|77.49|20|
+|60GB|125|197.49|60|
+
+#### Botswana: fixed data, Blue; Networks: beMobile/Orange. Internet exit: UK.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|5.49|1|
+|2GB|1|10.99|2|
+|3GB|1|17.49|3|
+|3GB|15|14.49|3|
+|10GB|1|30.99|10|
+
+#### Botswana: fixed data, Black; Networks: BeMOBILE Botswana. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|2.94|1|
+|1GB|3|2.94|1|
+|1GB|5|3.12|1|
+|1GB|7|3.52|1|
+|2GB|1|3.31|2|
+|2GB|15|4.85|2|
+|3GB|1|6.59|3|
+|3GB|15|6.63|3|
+|3GB|30|10.49|3|
+|5GB|1|8.54|5|
+|5GB|6|8.57|5|
+|5GB|7|8.57|5|
+|5GB|12|17.99|5|
+|5GB|15|12.49|5|
+|5GB|20|12.99|5|
+|5GB|25|10.16|5|
+|5GB|30|13.49|5|
+|5GB|60|12.38|5|
+|10GB|1|16.66|10|
+|10GB|3|16.66|10|
+|10GB|6|20.99|10|
+|10GB|7|20.99|10|
+|10GB|12|22.49|10|
+|10GB|15|22.99|10|
+|10GB|20|23.99|10|
+|10GB|25|27.99|10|
+|10GB|30|28.49|10|
+|20GB|1|34.49|20|
+|20GB|3|45.99|20|
+|20GB|5|46.49|20|
+|20GB|7|41.49|20|
+|20GB|9|47.49|20|
+|20GB|10|48.99|20|
+|20GB|12|44.49|20|
+|20GB|15|48.99|20|
+|20GB|20|47.49|20|
+|20GB|25|51.49|20|
+|20GB|30|49.99|20|
+|20GB|90|54.49|20|
+|50GB|1|82.99|50|
+|50GB|5|92.49|50|
+|50GB|7|96.99|50|
+|50GB|9|96.99|50|
+|50GB|10|98.49|50|
+|50GB|12|104.99|50|
+|50GB|15|104.99|50|
+|50GB|20|111.49|50|
+|50GB|25|111.49|50|
+|50GB|30|116.99|50|
+
+#### Botswana: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|6|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|47.99|5|
+|5GB|15|46.49|5|
+|5GB|20|46.49|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|3|59.49|10|
+|10GB|6|59.99|10|
+|10GB|7|59.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|3|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|15|124.49|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|5|242.99|50|
+|50GB|7|243.99|50|
+|50GB|9|244.49|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Botswana: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|5.49|1|
+|1GB|365|6.48|1|
+|3GB|30|13.49|3|
+|5GB|30|20.49|5|
+|10GB|30|40.49|10|
+|20GB|30|67.99|20|
+|20GB|90|70.99|20|
+
+#### Botswana: fixed data, Amber Essential; Networks: BeMOBILE Botswana. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|5GB|12|8.59|5|
+|5GB|15|8.59|5|
+|5GB|20|8.60|5|
+|5GB|25|8.61|5|
+|5GB|30|8.62|5|
+|5GB|60|10.16|5|
+|10GB|6|16.69|10|
+|10GB|7|16.69|10|
+|10GB|12|16.71|10|
+|10GB|15|16.71|10|
+|10GB|20|16.72|10|
+|10GB|25|16.73|10|
+|10GB|30|16.74|10|
+|20GB|1|17.24|20|
+|20GB|3|17.24|20|
+|20GB|5|17.24|20|
+|20GB|7|17.24|20|
+|20GB|9|17.24|20|
+|20GB|10|17.24|20|
+|20GB|12|19.89|20|
+|20GB|15|19.89|20|
+|20GB|20|19.89|20|
+|20GB|25|19.89|20|
+|20GB|30|20.99|20|
+|20GB|90|33.01|20|
+|50GB|1|40.62|50|
+|50GB|5|40.62|50|
+|50GB|7|42.41|50|
+|50GB|9|42.41|50|
+|50GB|10|42.41|50|
+|50GB|12|45.99|50|
+|50GB|15|45.99|50|
+|50GB|20|49.98|50|
+|50GB|25|49.98|50|
+|50GB|30|58.49|50|
+
+#### Botswana: fixed data, Amber Essential; Networks: BeMOBILE. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bw?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|5GB|14|8.59|5|
+|5GB|21|8.61|5|
+|5GB|45|10.16|5|
+|9GB|25|16.73|9|
+|9GB|30|16.74|9|
+|10GB|14|16.71|10|
+|10GB|21|16.73|10|
+|12GB|5|17.24|12|
+|12GB|10|17.24|12|
+|12GB|15|17.24|12|
+|12GB|25|17.24|12|
+|12GB|30|17.24|12|
+|15GB|1|17.24|15|
+|15GB|2|17.24|15|
+|15GB|3|17.24|15|
+|15GB|5|17.24|15|
+|15GB|9|17.24|15|
+|15GB|15|17.24|15|
+|15GB|30|17.24|15|
+|20GB|14|19.89|20|
+|20GB|21|19.89|20|
+|20GB|60|33.00|20|
+|20GB|80|33.01|20|
+|30GB|3|40.62|30|
+|30GB|5|40.62|30|
+|30GB|9|40.62|30|
+|30GB|10|40.62|30|
+|30GB|15|40.62|30|
+|30GB|25|40.62|30|
+|30GB|60|45.98|30|
+|30GB|90|45.98|30|
+|40GB|1|40.62|40|
+|40GB|2|40.62|40|
+|40GB|3|40.62|40|
+|40GB|5|40.62|40|
+|40GB|9|40.62|40|
+|40GB|10|40.62|40|
+|40GB|15|40.62|40|
+|40GB|25|40.62|40|
+|40GB|30|40.62|40|
+|40GB|70|54.58|40|
+|40GB|80|54.58|40|
+|40GB|90|54.58|40|
+|50GB|14|45.99|50|
+|50GB|21|49.98|50|
+|50GB|70|55.80|50|
+|50GB|80|55.80|50|
+|50GB|90|55.80|50|
+
+#### Botswana: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.32;2=28.47;3=43.30;4=58.12;5=70.44;6=84.76;7=99.08;8=112.15;9=125.21;10=138.28;11=152.23;12=166.17;13=180.12;14=194.06;15=208.00
+16=219.93;17=231.86;18=243.80;19=255.73;20=267.66;21=281.10;22=294.54;23=307.99;24=321.43;25=334.87;26=346.33;27=357.78;28=369.24;29=380.69;30=392.15
+31=405.17;32=418.18;33=431.20;34=444.22;35=457.24;36=470.25;37=483.27;38=496.29;39=509.31;40=522.32;41=535.34;42=548.36;43=561.38;44=574.39;45=587.41
+46=600.43;47=613.44;48=626.46;49=639.48;50=652.50;51=665.51;52=678.53;53=691.55;54=704.57;55=717.58;56=730.60;57=743.62;58=756.64;59=769.65;60=782.67
+
+#### Botswana: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.56;2=29.35;3=44.50;4=59.64;5=72.78;6=87.52;7=102.27;8=116.01;9=129.74;10=143.48;11=157.92;12=172.37;13=186.81;14=201.25;15=215.69
+16=228.52;17=241.35;18=254.19;19=267.02;20=279.85;21=293.89;22=307.93;23=321.97;24=336.01;25=350.05;26=362.50;27=374.95;28=387.40;29=399.85;30=412.30
+31=426.00;32=439.70;33=453.40;34=467.10;35=480.80;36=494.50;37=508.20;38=521.90;39=535.60;40=549.30;41=563.00;42=576.70;43=590.40;44=604.10;45=617.80
+46=631.50;47=645.20;48=658.90;49=672.60;50=686.30;51=700.00;52=713.70;53=727.40;54=741.10;55=754.80;56=768.50;57=782.20;58=795.90;59=809.60;60=823.30
+
+#### Botswana: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=14.04;2=31.11;3=46.90;4=62.68;5=77.47;6=93.05;7=108.64;8=123.72;9=138.81;10=153.89;11=169.33;12=184.77;13=200.20;14=215.64;15=231.07
+16=245.70;17=260.33;18=274.97;19=289.60;20=304.23;21=319.46;22=334.70;23=349.93;24=365.17;25=380.40;26=394.84;27=409.28;28=423.72;29=438.16;30=452.60
+31=467.67;32=482.73;33=497.80;34=512.86;35=527.92;36=542.99;37=558.06;38=573.12;39=588.18;40=603.25;41=618.32;42=633.38;43=648.44;44=663.51;45=678.58
+46=693.64;47=708.71;48=723.77;49=738.84;50=753.90;51=768.96;52=784.03;53=799.10;54=814.16;55=829.22;56=844.29;57=859.36;58=874.42;59=889.48;60=904.55
+
+#### Botswana: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=16.43;2=32.86;3=49.29;4=65.72;5=82.15;6=98.58;7=115.01;8=131.44;9=147.87;10=164.30;11=180.73;12=197.16;13=213.59;14=230.02;15=246.45
+16=262.88;17=279.31;18=295.74;19=312.17;20=328.60;21=345.03;22=361.46;23=377.89;24=394.32;25=410.75;26=427.18;27=443.61;28=460.04;29=476.47;30=492.90
+31=509.33;32=525.76;33=542.19;34=558.62;35=575.05;36=591.48;37=607.91;38=624.34;39=640.77;40=657.20;41=673.63;42=690.06;43=706.49;44=722.92;45=739.35
+46=755.78;47=772.21;48=788.64;49=805.07;50=821.50;51=837.93;52=854.36;53=870.79;54=887.22;55=903.65;56=920.08;57=936.51;58=952.94;59=969.37;60=985.80
+
+#### Botswana: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=29.44;2=58.87;3=88.31;4=117.74;5=147.17;6=176.61;7=206.05;8=235.48;9=264.92;10=294.35;11=323.79;12=353.22;13=382.66;14=412.09;15=441.53
+16=470.96;17=500.40;18=529.83;19=559.27;20=588.70;21=618.14;22=647.58;23=677.01;24=706.45;25=735.88;26=765.31;27=794.75;28=824.18;29=853.62;30=883.05
+
+#### Botswana: Fully unlimited, up to 1 Mbps
+Networks: Orange/BeMobile.
+Purchase link: https://esim.dog/bw?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.08;2=27.59;3=42.10;4=56.60;5=68.09;6=81.99;7=95.89;8=109.80;9=123.70;10=133.07;11=146.52;12=159.96;13=173.41;14=186.86;15=200.31
+16=213.76;17=227.21;18=240.66;19=254.11;20=255.47;21=268.31;22=281.16;23=294.00;24=306.84;25=319.69;26=332.53;27=345.38;28=358.22;29=371.07;30=372.00
+31=382.70;32=395.09;33=407.48;34=419.88;35=432.27;36=444.66;37=457.05;38=469.44;39=481.83;40=494.22;41=506.61;42=519.00;43=531.40;44=543.79;45=556.18
+46=568.57;47=580.96;48=593.35;49=605.74;50=618.13;51=630.52;52=642.92;53=655.31;54=667.70;55=680.09;56=692.48;57=704.87;58=717.26;59=729.65;60=742.04
+61=754.44;62=766.83;63=779.22;64=791.61;65=804.00;66=816.39;67=828.78;68=841.17;69=853.56;70=865.96;71=878.35;72=890.74;73=903.13;74=915.52;75=927.91
+76=940.30;77=952.69;78=965.08;79=977.48;80=989.87
+

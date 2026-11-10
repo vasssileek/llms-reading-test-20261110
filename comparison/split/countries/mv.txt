@@ -1,0 +1,347 @@
+# eSIM.dog: Maldives
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Maldives (MV)
+
+#### Maldives: fixed data, Black; Networks: Dhiraagu. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|7|4.63|0.5|
+|1GB|2|4.63|1|
+|1GB|6|4.63|1|
+|1GB|30|6.69|1|
+|1GB|90|8.48|1|
+|2GB|1|6.84|2|
+|2GB|10|9.99|2|
+|2GB|14|10.24|2|
+|2GB|30|12.33|2|
+|3GB|2|11.14|3|
+|3GB|90|16.73|3|
+|4GB|10|16.72|4|
+|4GB|30|20.98|4|
+|5GB|1|21.49|5|
+|5GB|2|19.99|5|
+|5GB|90|23.99|5|
+|6GB|1|29.00|6|
+|6GB|15|29.00|6|
+|6GB|30|30.12|6|
+|7GB|10|30.12|7|
+|7GB|90|37.99|7|
+|9GB|3|41.49|9|
+|9GB|60|37.99|9|
+|10GB|1|40.99|10|
+|12GB|10|39.99|12|
+|12GB|90|50.21|12|
+|15GB|1|50.49|15|
+|30GB|1|82.49|30|
+|30GB|2|94.99|30|
+|30GB|4|108.49|30|
+|30GB|6|108.49|30|
+|30GB|9|108.49|30|
+|30GB|14|117.49|30|
+|30GB|25|130.49|30|
+
+#### Maldives: fixed data, Green
+Networks: Dhiraagu. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|2.98|0.4900000002235174|
+|1GB|7|8.49|1|
+|3GB|7|16.99|3|
+|5GB|15|24.99|5|
+|10GB|30|37.99|10|
+|20GB|30|50.21|20|
+|30GB|30|58.22|30|
+
+#### Maldives: fixed data, Blue
+Networks: Dhiraagu. Internet exit: PL.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|6.99|1|
+|1GB|7|9.99|1|
+|2GB|15|10.24|2|
+|3GB|1|22.99|3|
+|3GB|15|21.49|3|
+|3GB|30|22.99|3|
+|5GB|30|35.99|5|
+|10GB|30|61.49|10|
+|20GB|30|117.49|20|
+
+#### Maldives: fixed data, Black; Networks: Dhiraagu Maldives. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|4.54|1|
+|1GB|3|4.63|1|
+|1GB|7|4.63|1|
+|2GB|15|10.24|2|
+|3GB|1|8.79|3|
+|3GB|3|16.49|3|
+|3GB|5|20.49|3|
+|3GB|7|16.49|3|
+|3GB|10|13.77|3|
+|3GB|15|13.77|3|
+|3GB|20|14.26|3|
+|3GB|30|15.85|3|
+|5GB|3|27.99|5|
+|5GB|5|27.99|5|
+|5GB|7|27.99|5|
+|5GB|10|22.99|5|
+|5GB|15|20.98|5|
+|5GB|20|26.99|5|
+|5GB|30|27.49|5|
+|10GB|3|41.49|10|
+|10GB|5|41.99|10|
+|10GB|7|41.99|10|
+|10GB|10|42.49|10|
+|10GB|15|52.99|10|
+|10GB|20|53.49|10|
+|10GB|30|49.99|10|
+|20GB|1|67.49|20|
+|20GB|3|80.99|20|
+|20GB|5|83.49|20|
+|20GB|7|83.49|20|
+|20GB|10|87.99|20|
+|20GB|15|90.99|20|
+|20GB|20|95.99|20|
+|20GB|30|100.49|20|
+|30GB|3|104.99|30|
+|30GB|5|108.49|30|
+|30GB|7|108.49|30|
+|30GB|10|110.49|30|
+|30GB|15|117.49|30|
+|30GB|20|124.49|30|
+|30GB|30|130.49|30|
+|50GB|3|190.49|50|
+|50GB|5|196.99|50|
+|50GB|7|196.99|50|
+|50GB|10|200.49|50|
+|50GB|15|212.99|50|
+|50GB|20|225.99|50|
+|50GB|30|236.49|50|
+
+#### Maldives: fixed data, Pink; Networks: Dhiraagu. Internet exit: HK.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|11.99|1|
+|1GB|7|10.49|1|
+|3GB|3|20.99|3|
+|3GB|5|24.99|3|
+|3GB|7|21.49|3|
+|3GB|10|21.49|3|
+|3GB|15|21.49|3|
+|3GB|20|24.99|3|
+|3GB|30|23.49|3|
+|5GB|3|29.99|5|
+|5GB|5|30.99|5|
+|5GB|7|31.99|5|
+|5GB|10|28.98|5|
+|5GB|15|30.98|5|
+|5GB|20|31.49|5|
+|5GB|30|33.49|5|
+|10GB|3|44.99|10|
+|10GB|5|45.99|10|
+|10GB|7|47.99|10|
+|10GB|10|48.99|10|
+|10GB|15|57.49|10|
+|10GB|20|56.99|10|
+|10GB|30|55.49|10|
+|20GB|3|81.49|20|
+|20GB|5|84.99|20|
+|20GB|7|87.99|20|
+|20GB|10|92.99|20|
+|20GB|15|94.49|20|
+|20GB|20|97.49|20|
+|20GB|30|103.49|20|
+|30GB|3|119.49|30|
+|30GB|5|123.49|30|
+|30GB|7|124.49|30|
+|30GB|10|124.99|30|
+|30GB|15|129.99|30|
+|30GB|20|134.49|30|
+|30GB|30|143.99|30|
+|50GB|3|207.49|50|
+|50GB|5|208.49|50|
+|50GB|7|209.49|50|
+|50GB|10|210.99|50|
+|50GB|15|213.49|50|
+|50GB|20|220.99|50|
+|50GB|30|221.49|50|
+
+#### Maldives: fixed data, Yellow
+Networks: Dhiraagu. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|10.49|1|
+|2GB|15|13.99|2|
+|3GB|30|15.85|3|
+|5GB|30|22.81|5|
+|10GB|30|48.99|10|
+|20GB|30|81.99|20|
+
+#### Maldives: fixed data, Amber Essential; Networks: Dhiraagu Maldives. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|3|11.14|3|
+|3GB|5|11.14|3|
+|3GB|7|11.14|3|
+|3GB|10|11.14|3|
+|3GB|30|14.26|3|
+|5GB|3|16.72|5|
+|5GB|5|16.72|5|
+|5GB|7|16.72|5|
+|5GB|10|16.72|5|
+|5GB|15|16.72|5|
+|5GB|20|16.72|5|
+|5GB|30|20.98|5|
+|10GB|3|30.12|10|
+|10GB|5|30.12|10|
+|10GB|7|30.12|10|
+|10GB|10|30.12|10|
+|10GB|15|30.12|10|
+|10GB|20|30.12|10|
+|10GB|30|30.12|10|
+|20GB|1|39.99|20|
+|20GB|3|39.99|20|
+|20GB|5|39.99|20|
+|20GB|7|39.99|20|
+|20GB|10|39.99|20|
+|20GB|15|39.99|20|
+|20GB|20|44.99|20|
+|20GB|30|44.99|20|
+|50GB|3|89.48|50|
+|50GB|5|89.48|50|
+|50GB|7|89.48|50|
+|50GB|10|89.48|50|
+|50GB|15|103.33|50|
+|50GB|20|103.33|50|
+|50GB|30|103.33|50|
+
+#### Maldives: fixed data, Amber Essential; Networks: Dhiraagu. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|4|11.14|3|
+|3GB|6|11.14|3|
+|3GB|9|11.14|3|
+|3GB|14|11.14|3|
+|3GB|25|14.26|3|
+|5GB|4|16.72|5|
+|5GB|6|16.72|5|
+|5GB|9|16.72|5|
+|5GB|14|16.72|5|
+|5GB|25|20.98|5|
+|9GB|7|30.12|9|
+|9GB|90|37.99|9|
+|10GB|2|30.12|10|
+|10GB|4|30.12|10|
+|10GB|6|30.12|10|
+|10GB|9|30.12|10|
+|10GB|14|30.12|10|
+|10GB|25|30.12|10|
+|10GB|70|37.99|10|
+|10GB|90|37.99|10|
+|12GB|15|39.99|12|
+|12GB|20|39.99|12|
+|15GB|2|39.99|15|
+|15GB|3|39.99|15|
+|15GB|9|39.99|15|
+|15GB|10|39.99|15|
+|15GB|15|39.99|15|
+|15GB|20|39.99|15|
+|15GB|80|50.21|15|
+|15GB|90|50.21|15|
+|20GB|2|39.99|20|
+|20GB|4|39.99|20|
+|20GB|6|39.99|20|
+|20GB|9|39.99|20|
+|20GB|14|39.99|20|
+|20GB|25|44.99|20|
+|20GB|70|50.21|20|
+|20GB|90|50.21|20|
+|30GB|80|111.61|30|
+|30GB|90|111.61|30|
+|40GB|1|58.22|40|
+|40GB|2|58.22|40|
+|40GB|3|59.99|40|
+|40GB|10|74.34|40|
+|40GB|20|74.34|40|
+|40GB|30|74.34|40|
+|40GB|45|111.61|40|
+|40GB|60|111.61|40|
+|50GB|1|74.34|50|
+|50GB|2|89.48|50|
+|50GB|4|98.49|50|
+|50GB|6|98.49|50|
+|50GB|9|89.48|50|
+|50GB|14|106.49|50|
+|50GB|25|118.49|50|
+|50GB|45|111.61|50|
+|50GB|90|111.61|50|
+
+#### Maldives: fixed data, Pink; Networks: Ooredoo. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|20GB|1|61.49|20|
+
+#### Maldives: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Dhiraagu.
+Purchase link: https://esim.dog/mv?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=20.51;2=42.42;3=64.33;4=86.25;5=103.60;6=124.60;7=150.17;8=168.89;9=187.61;10=206.33;11=225.51;12=244.69;13=263.86;14=283.04;15=318.25
+16=335.20;17=352.16;18=369.11;19=386.07;20=403.02;21=407.53;22=430.53;23=453.54;24=476.54;25=499.54;26=515.34;27=531.15;28=546.95;29=562.76;30=578.56
+
+#### Maldives: 3GB high-speed data per day, then unlimited at 256 Kbps
+Networks: Dhiraagu.
+Purchase link: https://esim.dog/mv?tab=unlimited&limit=3&fup=256kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=20.63;2=42.65;3=64.67;4=86.70;5=104.13;6=125.24;7=150.94;8=169.75;9=188.57;10=207.38;11=226.65;12=245.93;13=265.20;14=284.47;15=319.86
+16=336.90;17=353.94;18=370.97;19=388.01;20=405.05;21=409.58;22=432.70;23=455.82;24=478.93;25=502.05;26=517.93;27=533.82;28=549.70;29=565.59;30=581.47
+
+#### Maldives: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Dhiraagu.
+Purchase link: https://esim.dog/mv?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=24.70;2=49.40;3=74.09;4=98.79;5=118.49;6=142.01;7=171.03;8=192.02;9=213.01;10=234.00;11=255.64;12=277.27;13=298.91;14=320.54;15=359.78
+16=378.59;17=397.40;18=416.21;19=435.02;20=453.83;21=459.49;22=485.95;23=512.41;24=538.87;25=565.33;26=582.53;27=599.73;28=616.93;29=634.13;30=651.33
+
+#### Maldives: Fully unlimited, up to 1 Mbps
+Networks: Dhiraagu.
+Purchase link: https://esim.dog/mv?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=20.39;2=42.19;3=64.00;4=85.81;5=103.07;6=123.97;7=144.87;8=165.77;9=186.67;10=200.75;11=220.97;12=241.19;13=261.41;14=281.62;15=301.84
+16=323.49;17=343.70;18=363.92;19=384.14;20=386.18;21=405.49;22=424.80;23=444.11;24=463.42;25=482.73;26=502.04;27=521.35;28=540.65;29=559.96;30=561.36
+31=577.46;32=596.08;33=614.71;34=633.34;35=651.96;36=670.59;37=689.22;38=707.85;39=726.47;40=745.10;41=763.73;42=782.36;43=800.98;44=819.61;45=838.24
+46=856.87;47=875.49;48=894.12;49=912.75;50=931.38;51=950.00;52=968.63;53=987.26
+

@@ -1,0 +1,434 @@
+# eSIM.dog: Uganda
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Uganda (UG)
+
+#### Uganda: fixed data, Black; Networks: Airtel/Warid. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|1.99|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|7|2.49|0.5|
+|500MB|30|3.22|0.5|
+|1GB|2|2.49|1|
+|1GB|4|2.49|1|
+|1GB|6|2.49|1|
+|1GB|30|3.39|1|
+|1GB|90|4.89|1|
+|2GB|14|5.62|2|
+|2GB|30|5.62|2|
+|3GB|2|5.62|3|
+|3GB|90|11.17|3|
+|4GB|1|9.36|4|
+|4GB|15|9.36|4|
+|4GB|60|12.38|4|
+|5GB|45|12.38|5|
+|5GB|90|15.65|5|
+|6GB|30|13.37|6|
+|6GB|90|19.98|6|
+|7GB|1|12.24|7|
+|7GB|10|16.72|7|
+|7GB|70|19.98|7|
+|9GB|1|16.72|9|
+|9GB|5|16.72|9|
+|12GB|10|22.89|12|
+|12GB|90|30.98|12|
+|15GB|1|21.49|15|
+
+#### Uganda: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.49|1|
+|1GB|7|5.99|1|
+|2GB|15|5.62|2|
+|3GB|30|7.25|3|
+|5GB|7|29.49|5|
+|5GB|15|32.99|5|
+|5GB|30|11.19|5|
+|5GB|60|12.38|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+|10GB|30|19.89|10|
+|10GB|180|66.49|10|
+|20GB|30|40.49|20|
+|20GB|365|77.49|20|
+|60GB|125|197.49|60|
+
+#### Uganda: fixed data, Blue; Networks: Airtel. Internet exit: SG.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|3.49|0.4900000002235174|
+|1GB|1|4.99|1|
+|2GB|1|7.99|2|
+|3GB|1|14.49|3|
+|10GB|1|25.99|10|
+
+#### Uganda: fixed data, Green; Networks: Airtel/Warid. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|2.99|0.4900000002235174|
+|1GB|7|5.49|1|
+|5GB|15|15.99|5|
+|10GB|30|26.99|10|
+|15GB|30|30.98|15|
+|20GB|30|47.99|20|
+|30GB|30|69.99|30|
+
+#### Uganda: fixed data, Black; Networks: Airtel/Warid Uganda. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|3.49|1|
+|1GB|3|2.49|1|
+|1GB|5|3.99|1|
+|1GB|7|2.49|1|
+|2GB|1|5.13|2|
+|2GB|15|5.62|2|
+|3GB|1|7.49|3|
+|3GB|15|7.25|3|
+|3GB|30|10.99|3|
+|5GB|1|9.36|5|
+|5GB|3|9.36|5|
+|5GB|5|9.36|5|
+|5GB|6|13.99|5|
+|5GB|7|13.99|5|
+|5GB|10|13.49|5|
+|5GB|12|17.99|5|
+|5GB|15|15.49|5|
+|5GB|20|17.99|5|
+|5GB|25|16.99|5|
+|5GB|30|15.99|5|
+|5GB|60|12.38|5|
+|10GB|1|16.72|10|
+|10GB|3|21.99|10|
+|10GB|5|22.49|10|
+|10GB|6|32.49|10|
+|10GB|7|23.99|10|
+|10GB|10|24.49|10|
+|10GB|12|25.99|10|
+|10GB|15|29.99|10|
+|10GB|20|27.49|10|
+|10GB|25|30.49|10|
+|10GB|30|28.99|10|
+|15GB|30|39.49|15|
+|20GB|1|36.99|20|
+|20GB|3|52.49|20|
+|20GB|5|53.49|20|
+|20GB|7|54.99|20|
+|20GB|10|51.99|20|
+|20GB|12|51.99|20|
+|20GB|15|57.49|20|
+|20GB|20|58.49|20|
+|20GB|25|58.99|20|
+|20GB|30|57.99|20|
+|20GB|90|67.99|20|
+|30GB|3|56.49|30|
+|30GB|5|59.49|30|
+|30GB|7|61.99|30|
+|30GB|10|62.99|30|
+|30GB|15|66.99|30|
+|30GB|20|71.49|30|
+|30GB|30|74.99|30|
+|50GB|1|95.49|50|
+|50GB|2|101.99|50|
+|50GB|6|112.49|50|
+|50GB|9|112.49|50|
+|50GB|12|121.99|50|
+|50GB|15|123.99|50|
+|50GB|20|129.49|50|
+|50GB|30|135.99|50|
+
+#### Uganda: fixed data, Pink; Networks: See product page. Internet exit: PL.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|5.49|1|
+|2GB|1|6.49|2|
+|3GB|1|5.62|3|
+|5GB|3|19.49|5|
+|5GB|5|19.49|5|
+|5GB|7|19.99|5|
+|5GB|10|20.49|5|
+|5GB|15|21.99|5|
+|5GB|20|24.99|5|
+|5GB|30|23.99|5|
+|10GB|1|12.24|10|
+|10GB|3|29.49|10|
+|10GB|5|29.99|10|
+|10GB|7|30.49|10|
+|10GB|10|31.49|10|
+|10GB|15|35.99|10|
+|10GB|20|34.49|10|
+|10GB|30|36.99|10|
+|20GB|3|68.99|20|
+|20GB|5|68.99|20|
+|20GB|7|68.49|20|
+|20GB|10|65.49|20|
+|20GB|15|69.99|20|
+|20GB|20|68.99|20|
+|20GB|30|69.99|20|
+|30GB|3|92.49|30|
+|30GB|5|93.99|30|
+|30GB|7|94.99|30|
+|30GB|10|96.99|30|
+|30GB|15|99.49|30|
+|30GB|20|102.49|30|
+|30GB|30|107.99|30|
+
+#### Uganda: fixed data, Amber Essential; Networks: Airtel/Warid Uganda. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|1.29|1|
+|2GB|1|1.49|2|
+|3GB|15|5.62|3|
+|3GB|30|5.62|3|
+|5GB|6|9.36|5|
+|5GB|7|9.36|5|
+|5GB|10|9.36|5|
+|5GB|12|9.36|5|
+|5GB|15|9.36|5|
+|5GB|20|9.36|5|
+|5GB|25|9.36|5|
+|5GB|30|9.36|5|
+|10GB|3|16.72|10|
+|10GB|5|16.72|10|
+|10GB|6|16.72|10|
+|10GB|7|16.72|10|
+|10GB|10|16.72|10|
+|10GB|12|16.72|10|
+|10GB|15|16.72|10|
+|10GB|20|16.72|10|
+|10GB|25|16.72|10|
+|10GB|30|16.72|10|
+|20GB|1|21.49|20|
+|20GB|3|22.89|20|
+|20GB|5|22.89|20|
+|20GB|7|22.89|20|
+|20GB|10|22.89|20|
+|20GB|12|22.89|20|
+|20GB|15|22.89|20|
+|20GB|20|22.89|20|
+|20GB|25|22.89|20|
+|20GB|30|30.98|20|
+|20GB|90|30.98|20|
+|30GB|3|45.99|30|
+|30GB|5|45.99|30|
+|30GB|7|45.99|30|
+|30GB|10|45.99|30|
+|30GB|15|45.99|30|
+|30GB|20|45.99|30|
+|30GB|30|45.99|30|
+|50GB|1|45.99|50|
+|50GB|2|45.99|50|
+|50GB|6|55.80|50|
+|50GB|9|55.80|50|
+|50GB|12|55.80|50|
+|50GB|15|55.80|50|
+|50GB|20|55.80|50|
+|50GB|30|59.98|50|
+
+#### Uganda: fixed data, Pink; Networks: See product page. Internet exit: AT.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|6|45.99|5|
+|5GB|12|46.49|5|
+|5GB|25|46.99|5|
+|10GB|6|63.99|10|
+|10GB|12|61.49|10|
+|10GB|25|62.99|10|
+|20GB|1|120.99|20|
+|20GB|12|123.99|20|
+|20GB|25|125.99|20|
+|50GB|1|241.99|50|
+|50GB|2|241.99|50|
+|50GB|6|243.99|50|
+|50GB|9|244.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|30|250.49|50|
+
+#### Uganda: fixed data, Blue; Networks: See product page. Internet exit: SG.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|5.99|1|
+|3GB|15|11.49|3|
+|3GB|30|11.99|3|
+|5GB|30|18.49|5|
+|10GB|30|33.99|10|
+
+#### Uganda: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|365|5.89|1|
+|20GB|30|67.99|20|
+|20GB|90|76.99|20|
+
+#### Uganda: fixed data, Amber Essential; Networks: Airtel/Warid. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|14|5.62|3|
+|3GB|25|5.62|3|
+|4GB|30|9.36|4|
+|5GB|14|9.36|5|
+|5GB|21|9.36|5|
+|7GB|25|16.72|7|
+|7GB|30|16.72|7|
+|9GB|9|16.72|9|
+|9GB|15|16.72|9|
+|9GB|25|16.72|9|
+|9GB|30|16.72|9|
+|10GB|14|16.72|10|
+|10GB|21|16.72|10|
+|10GB|90|19.98|10|
+|15GB|15|22.89|15|
+|15GB|25|22.89|15|
+|15GB|90|30.98|15|
+|20GB|14|22.89|20|
+|20GB|21|22.89|20|
+|20GB|70|30.98|20|
+|20GB|80|30.98|20|
+|30GB|1|21.49|30|
+|30GB|2|45.99|30|
+|30GB|4|45.99|30|
+|30GB|6|45.99|30|
+|30GB|9|45.99|30|
+|30GB|14|45.99|30|
+|30GB|25|45.99|30|
+|30GB|70|55.80|30|
+|30GB|80|55.80|30|
+|30GB|90|55.80|30|
+|40GB|1|45.99|40|
+|40GB|2|45.99|40|
+|40GB|5|45.99|40|
+|40GB|6|45.99|40|
+|40GB|9|45.99|40|
+|40GB|10|45.99|40|
+|40GB|25|45.99|40|
+|40GB|45|55.80|40|
+|40GB|70|55.80|40|
+|40GB|80|55.80|40|
+|40GB|90|55.80|40|
+|50GB|14|55.80|50|
+|50GB|21|55.80|50|
+|50GB|60|65.98|50|
+|50GB|80|65.98|50|
+|50GB|90|65.98|50|
+
+#### Uganda: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|15GB|30|22.89|15|
+
+#### Uganda: fixed data, Green; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ug?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|20GB|90|43.60|20|
+|40GB|180|65.98|40|
+|80GB|365|130.83|80|
+
+#### Uganda: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=10.84;2=23.03;3=37.58;4=50.11;5=60.02;6=72.02;7=84.02;8=94.72;9=105.41;10=116.11;11=127.72;12=139.33;13=150.94;14=162.55;15=174.78
+16=184.30;17=193.83;18=203.35;19=212.88;20=222.40;21=223.30;22=236.78;23=250.26;24=263.74;25=277.22;26=286.23;27=295.24;28=304.24;29=313.25;30=322.26
+31=332.91;32=343.57;33=354.22;34=364.87;35=375.52;36=386.18;37=396.83;38=407.48;39=418.13;40=428.79;41=439.44;42=450.09;43=460.74;44=471.40;45=482.05
+46=492.70;47=503.36;48=514.01;49=524.66;50=535.31;51=545.97;52=556.62;53=567.27;54=577.92;55=588.58;56=599.23;57=609.88;58=620.53;59=631.19;60=641.84
+61=652.54;62=663.23;63=673.93;64=684.63;65=695.33;66=706.02;67=716.72;68=727.42;69=738.11;70=748.81;71=759.51;72=770.20;73=780.90;74=791.60;75=802.30
+76=812.99;77=823.69;78=834.39;79=845.08;80=855.78;81=866.48;82=877.17;83=887.87;84=898.57;85=909.27;86=919.96;87=930.66;88=941.36;89=952.05;90=962.75
+
+#### Uganda: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=11.08;2=23.42;3=39.07;4=52.10;5=62.41;6=74.88;7=87.36;8=98.48;9=109.61;10=120.73;11=132.80;12=144.88;13=156.95;14=169.02;15=181.09
+16=190.99;17=200.89;18=210.80;19=220.70;20=230.60;21=231.18;22=245.45;23=259.72;24=273.98;25=288.25;26=297.59;27=306.93;28=316.28;29=325.62;30=334.96
+31=346.04;32=357.12;33=368.20;34=379.28;35=390.36;36=401.44;37=412.52;38=423.60;39=434.68;40=445.76;41=456.84;42=467.92;43=479.00;44=490.08;45=501.17
+46=512.25;47=523.33;48=534.41;49=545.49;50=556.57;51=567.65;52=578.73;53=589.81;54=600.89;55=611.97;56=623.05;57=634.13;58=645.21;59=656.29;60=667.37
+
+#### Uganda: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=11.56;2=24.20;3=42.06;4=56.08;5=67.18;6=80.61;7=94.04;8=106.02;9=117.99;10=129.97;11=142.97;12=155.96;13=168.96;14=181.95;15=194.95
+16=205.61;17=216.27;18=226.92;19=237.58;20=248.24;21=248.87;22=264.23;23=279.59;24=294.94;25=310.30;26=320.31;27=330.32;28=340.33;29=350.34;30=360.35
+31=372.29;32=384.22;33=396.16;34=408.09;35=420.03;36=431.97;37=443.90;38=455.84;39=467.77;40=479.71;41=491.65;42=503.58;43=515.52;44=527.45;45=539.39
+46=551.33;47=563.26;48=575.20;49=587.13;50=599.07;51=611.01;52=622.94;53=634.88;54=646.81;55=658.75;56=670.69;57=682.62;58=694.56;59=706.49;60=718.43
+
+#### Uganda: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.62;2=27.24;3=45.05;4=60.07;5=71.96;6=86.34;7=100.73;8=113.56;9=126.38;10=139.21;11=153.13;12=167.05;13=180.96;14=194.88;15=208.80
+16=220.22;17=231.64;18=243.05;19=254.47;20=265.89;21=266.56;22=283.01;23=299.46;24=315.91;25=332.36;26=343.04;27=353.71;28=364.39;29=375.06;30=385.74
+31=398.53;32=411.32;33=424.12;34=436.91;35=449.70;36=462.49;37=475.28;38=488.08;39=500.87;40=513.66;41=526.45;42=539.24;43=552.04;44=564.83;45=577.62
+46=590.41;47=603.20;48=616.00;49=628.79;50=641.58;51=654.37;52=667.16;53=679.96;54=692.75;55=705.54;56=718.33;57=731.12;58=743.92;59=756.71;60=769.50
+
+#### Uganda: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=24.99;2=49.99;3=74.99;4=99.99;5=119.49;6=143.49;7=172.45;8=193.62;9=214.78;10=235.95;11=257.83;12=279.72;13=301.61;14=323.49;15=363.03
+16=381.93;17=400.83;18=419.73;19=438.63;20=457.53;21=463.49;22=490.07;23=516.65;24=543.22;25=569.80;26=587.20;27=604.60;28=622.00;29=639.40;30=656.80
+
+#### Uganda: Fully unlimited, up to 1 Mbps
+Networks: Airtel.
+Purchase link: https://esim.dog/ug?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=10.60;2=22.63;3=36.08;4=48.11;5=57.63;6=69.15;7=80.67;8=92.20;9=103.72;10=111.49;11=121.21;12=132.36;13=144.93;14=156.08;15=167.23
+16=176.95;17=189.53;18=200.68;19=211.82;20=212.95;21=222.17;22=234.25;23=244.89;24=255.54;25=266.19;26=276.84;27=287.48;28=298.13;29=308.78;30=309.56
+31=318.42;32=328.70;33=338.97;34=349.24;35=359.51;36=369.78;37=380.05;38=390.32;39=400.60;40=410.87;41=421.14;42=431.41;43=441.68;44=451.95;45=462.23
+46=472.50;47=482.77;48=493.04;49=503.31;50=513.58;51=523.86;52=534.13;53=544.40;54=554.67;55=564.94;56=575.21;57=585.48;58=595.76;59=606.03;60=616.30
+61=626.57;62=636.84;63=647.11;64=657.39;65=667.66;66=677.93;67=688.20;68=698.47;69=708.74;70=719.02;71=729.29;72=739.56;73=749.83;74=760.10;75=770.37
+76=780.64;77=790.92;78=801.19;79=811.46;80=821.73;81=832.00;82=842.27;83=852.55;84=862.82;85=873.09;86=883.36;87=893.63;88=903.90;89=914.18;90=924.45
+91=934.72;92=944.99;93=955.26;94=965.53;95=975.80;96=986.08;97=996.35
+

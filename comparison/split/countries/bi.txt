@@ -1,0 +1,76 @@
+# eSIM.dog: Burundi
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Burundi (BI)
+
+#### Burundi: fixed data, Black
+Networks: Viettel Burundi. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bi?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|6.99|0.5|
+|500MB|30|6.99|0.5|
+|1GB|1|10.94|1|
+|1GB|30|10.94|1|
+|1GB|90|14.44|1|
+|2GB|1|16.99|2|
+|2GB|10|16.99|2|
+|2GB|90|28.89|2|
+|3GB|90|43.34|3|
+|4GB|25|40.94|4|
+|4GB|90|57.79|4|
+|5GB|10|40.94|5|
+|5GB|90|72.24|5|
+|6GB|1|43.99|6|
+|6GB|15|43.99|6|
+|6GB|90|86.69|6|
+|10GB|90|98.99|10|
+|12GB|60|98.99|12|
+|30GB|5|187.99|30|
+
+#### Burundi: fixed data, Amber Essential
+Networks: Viettel Burundi. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bi?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|25|16.99|2|
+|2GB|30|16.99|2|
+|3GB|1|16.99|3|
+|3GB|5|16.99|3|
+|3GB|15|16.99|3|
+|3GB|30|16.99|3|
+|4GB|30|40.94|4|
+|5GB|1|16.99|5|
+|6GB|30|43.99|6|
+|7GB|5|43.99|7|
+|7GB|25|43.99|7|
+|9GB|2|43.99|9|
+|9GB|15|43.99|9|
+|9GB|30|43.99|9|
+|10GB|1|43.99|10|
+|10GB|5|43.99|10|
+|10GB|25|43.99|10|
+|12GB|10|43.99|12|
+|15GB|1|43.99|15|
+|15GB|5|87.99|15|
+|15GB|90|98.99|15|
+|20GB|70|98.99|20|
+|30GB|1|87.99|30|
+|30GB|90|187.99|30|
+|40GB|15|187.99|40|
+|40GB|90|187.99|40|
+|50GB|1|187.99|50|
+|50GB|9|187.99|50|
+|50GB|70|279.99|50|
+|50GB|80|279.99|50|
+|50GB|90|279.99|50|
+

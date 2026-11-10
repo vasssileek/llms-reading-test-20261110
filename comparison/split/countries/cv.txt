@@ -1,0 +1,247 @@
+# eSIM.dog: Cape Verde
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Cape Verde (CV)
+
+#### Cape Verde: fixed data, Black
+Networks: T+ Telecom Cape Verde. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|5|2.94|0.5|
+|500MB|7|3.77|0.5|
+|500MB|90|4.99|0.5|
+|1GB|1|2.94|1|
+|1GB|2|2.94|1|
+|1GB|3|2.94|1|
+|1GB|4|2.94|1|
+|1GB|5|4.49|1|
+|1GB|6|3.77|1|
+|1GB|7|4.48|1|
+|1GB|30|5.98|1|
+|1GB|90|9.98|1|
+|2GB|1|6.36|2|
+|2GB|14|6.36|2|
+|2GB|15|7.48|2|
+|2GB|30|7.90|2|
+|2GB|90|21.39|2|
+|3GB|1|7.90|3|
+|3GB|2|7.90|3|
+|3GB|3|7.90|3|
+|3GB|5|7.90|3|
+|3GB|6|9.48|3|
+|3GB|7|9.48|3|
+|3GB|14|9.48|3|
+|3GB|15|9.48|3|
+|3GB|20|9.48|3|
+|3GB|25|12.49|3|
+|3GB|30|9.98|3|
+|3GB|60|12.38|3|
+|3GB|90|22.98|3|
+|4GB|10|12.38|4|
+|4GB|30|14.83|4|
+|4GB|60|14.98|4|
+|5GB|1|12.38|5|
+|5GB|3|12.38|5|
+|5GB|6|17.99|5|
+|5GB|7|14.83|5|
+|5GB|10|14.83|5|
+|5GB|14|19.49|5|
+|5GB|15|19.49|5|
+|5GB|25|19.99|5|
+|5GB|30|19.99|5|
+|5GB|45|38.99|5|
+|5GB|60|27.99|5|
+|5GB|90|23.99|5|
+|6GB|1|20.07|6|
+|6GB|15|20.07|6|
+|6GB|30|21.23|6|
+|7GB|10|21.23|7|
+|7GB|30|22.89|7|
+|8GB|5|21.23|8|
+|8GB|10|22.89|8|
+|8GB|20|29.49|8|
+|8GB|30|30.49|8|
+|9GB|1|21.23|9|
+|9GB|3|21.23|9|
+|9GB|10|29.49|9|
+|9GB|30|33.49|9|
+|10GB|1|22.89|10|
+|10GB|3|27.99|10|
+|10GB|5|31.99|10|
+|10GB|6|33.49|10|
+|10GB|7|33.49|10|
+|10GB|10|33.49|10|
+|10GB|14|36.49|10|
+|10GB|15|36.49|10|
+|10GB|20|36.49|10|
+|10GB|25|37.99|10|
+|10GB|30|37.99|10|
+|10GB|90|37.99|10|
+|15GB|30|51.99|15|
+|15GB|90|61.99|15|
+|20GB|5|63.49|20|
+|20GB|10|66.49|20|
+|20GB|20|71.99|20|
+|20GB|25|74.99|20|
+|20GB|30|74.99|20|
+|30GB|30|87.99|30|
+|40GB|90|118.99|40|
+
+#### Cape Verde: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|3.77|1|
+|2GB|15|6.36|2|
+|3GB|30|7.90|3|
+|5GB|30|12.38|5|
+|5GB|60|12.38|5|
+|10GB|30|21.23|10|
+|10GB|180|58.99|10|
+|20GB|30|34.45|20|
+|20GB|365|67.26|20|
+
+#### Cape Verde: fixed data, Blue
+Networks: CVMOVEL. Internet exit: UK.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|5.99|0.4900000002235174|
+|1GB|1|9.49|1|
+|1GB|7|9.99|1|
+|2GB|1|17.99|2|
+|3GB|1|34.99|3|
+|3GB|15|26.49|3|
+|3GB|30|27.99|3|
+|5GB|30|43.99|5|
+|10GB|1|50.99|10|
+|10GB|30|80.49|10|
+|20GB|30|163.49|20|
+
+#### Cape Verde: fixed data, Green
+Networks: Alou Cape Verde/T+ Telecom Cape Verde. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|5.49|0.4900000002235174|
+|1GB|7|7.49|1|
+|3GB|7|20.49|3|
+|5GB|15|31.99|5|
+|10GB|30|57.49|10|
+|15GB|30|76.99|15|
+|20GB|30|100.99|20|
+|30GB|30|149.49|30|
+
+#### Cape Verde: fixed data, Yellow; Networks: CV MOVEL. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|6.98|1|
+|3GB|3|12.99|3|
+|3GB|7|14.49|3|
+|5GB|7|18.99|5|
+|5GB|15|20.99|5|
+|10GB|7|32.99|10|
+|10GB|15|36.49|10|
+
+#### Cape Verde: fixed data, Amber Essential; Networks: T+ Telecom Cape Verde. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|12GB|1|22.89|12|
+|12GB|10|22.89|12|
+|12GB|20|22.89|12|
+|12GB|30|22.89|12|
+|15GB|1|22.89|15|
+|15GB|3|22.89|15|
+|15GB|5|22.89|15|
+|15GB|10|22.89|15|
+|15GB|20|22.89|15|
+|20GB|1|22.89|20|
+|20GB|3|22.89|20|
+|20GB|60|61.99|20|
+|20GB|80|61.99|20|
+|20GB|90|61.99|20|
+|30GB|1|45.99|30|
+|40GB|1|45.99|40|
+|40GB|3|45.99|40|
+|50GB|1|61.49|50|
+|50GB|3|61.49|50|
+|50GB|30|87.99|50|
+|50GB|45|118.99|50|
+|50GB|90|118.99|50|
+
+#### Cape Verde: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/cv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|15GB|30|22.89|15|
+|30GB|30|45.99|30|
+
+#### Cape Verde: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=28.31;2=57.86;3=87.50;4=117.14;5=140.60;6=169.01;7=203.57;8=228.88;9=254.20;10=279.51;11=307.18;12=334.85;13=362.51;14=390.18;15=428.89
+16=451.83;17=474.77;18=497.70;19=520.64;20=543.58;21=559.55;22=587.86;23=616.16;24=644.46;25=672.77;26=694.48;27=716.18;28=737.89;29=759.59;30=781.30
+
+#### Cape Verde: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=28.55;2=58.16;3=87.95;4=117.74;5=141.32;6=169.87;7=204.60;8=230.04;9=255.48;10=280.92;11=310.45;12=339.97;13=369.50;14=399.02;15=431.05
+16=454.10;17=477.15;18=500.21;19=523.26;20=546.31;21=572.18;22=599.48;23=626.79;24=654.10;25=681.40;26=703.54;27=725.68;28=747.83;29=769.97;30=792.11
+
+#### Cape Verde: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=29.03;2=58.52;3=88.40;4=118.34;5=142.04;6=170.73;7=205.64;8=231.21;9=256.77;10=282.34;11=315.93;12=349.52;13=383.10;14=416.69;15=446.53
+16=471.01;17=495.49;18=519.97;19=544.45;20=568.93;21=597.43;22=625.93;23=654.43;24=682.94;25=711.44;26=734.45;27=757.47;28=780.48;29=803.50;30=826.51
+
+#### Cape Verde: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=33.40;2=66.80;3=100.19;4=133.59;5=160.49;6=192.04;7=231.30;8=259.68;9=288.05;10=316.43;11=345.91;12=375.40;13=404.88;14=434.36;15=486.24
+16=511.75;17=537.26;18=562.76;19=588.27;20=613.78;21=622.68;22=657.50;23=692.33;24=727.15;25=761.97;26=785.86;27=809.75;28=833.64;29=857.53;30=881.42
+
+#### Cape Verde: 10GB high-speed data per day, then unlimited at 384 Kbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&limit=10&fup=384kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=48.69;2=97.38;3=146.49;4=194.99;5=233.49;6=279.99;7=337.01;8=378.48;9=419.95;10=461.42;11=504.06;12=546.69;13=589.33;14=631.96;15=709.56
+16=746.58;17=783.61;18=820.63;19=857.66;20=894.68;21=905.33
+
+#### Cape Verde: Fully unlimited, up to 1 Mbps
+Networks: CVMOVEL.
+Purchase link: https://esim.dog/cv?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=28.07;2=57.56;3=87.05;4=116.54;5=139.89;6=168.15;7=196.41;8=224.67;9=252.93;10=271.98;11=299.32;12=326.66;13=354.00;14=381.34;15=408.68
+16=436.02;17=463.36;18=490.70;19=518.04;20=520.81;21=546.92;22=573.03;23=599.14;24=625.25;25=651.36;26=677.47;27=703.59;28=729.70;29=755.81;30=757.70
+31=780.89;32=806.08;33=831.27;34=856.46;35=881.65;36=906.84;37=932.03;38=957.22;39=982.41
+

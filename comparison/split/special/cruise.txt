@@ -1,0 +1,49 @@
+# eSIM.dog: Cruise
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### cruise (cruise)
+
+|Data|Days|USD|Link|
+|---|---:|---:|---|
+|100MB|5|14.49|https://esim.dog/special?category=cruise&data=0.1&validity=5|
+|100MB|7|15.49|https://esim.dog/special?category=cruise&data=0.1&validity=7|
+|100MB|10|16.49|https://esim.dog/special?category=cruise&data=0.1&validity=10|
+|100MB|14|16.49|https://esim.dog/special?category=cruise&data=0.1&validity=14|
+|100MB|30|16.99|https://esim.dog/special?category=cruise&data=0.1&validity=30|
+|100MB|180|17.49|https://esim.dog/special?category=cruise&data=0.1&validity=180|
+|100MB|365|17.99|https://esim.dog/special?category=cruise&data=0.1&validity=365|
+|500MB|5|65.99|https://esim.dog/special?category=cruise&data=0.5&validity=5|
+|500MB|7|69.99|https://esim.dog/special?category=cruise&data=0.5&validity=7|
+|500MB|10|74.49|https://esim.dog/special?category=cruise&data=0.5&validity=10|
+|500MB|14|76.49|https://esim.dog/special?category=cruise&data=0.5&validity=14|
+|500MB|30|78.99|https://esim.dog/special?category=cruise&data=0.5&validity=30|
+|500MB|180|80.99|https://esim.dog/special?category=cruise&data=0.5&validity=180|
+|500MB|365|83.49|https://esim.dog/special?category=cruise&data=0.5&validity=365|
+|1GB|5|113.49|https://esim.dog/special?category=cruise&data=1&validity=5|
+|1GB|7|122.49|https://esim.dog/special?category=cruise&data=1&validity=7|
+|1GB|10|126.49|https://esim.dog/special?category=cruise&data=1&validity=10|
+|1GB|14|130.99|https://esim.dog/special?category=cruise&data=1&validity=14|
+|1GB|30|135.49|https://esim.dog/special?category=cruise&data=1&validity=30|
+|1GB|180|139.99|https://esim.dog/special?category=cruise&data=1&validity=180|
+|1GB|365|143.99|https://esim.dog/special?category=cruise&data=1&validity=365|
+|2GB|5|217.99|https://esim.dog/special?category=cruise&data=2&validity=5|
+|2GB|7|226.49|https://esim.dog/special?category=cruise&data=2&validity=7|
+|2GB|10|243.99|https://esim.dog/special?category=cruise&data=2&validity=10|
+|2GB|14|252.99|https://esim.dog/special?category=cruise&data=2&validity=14|
+|2GB|30|261.49|https://esim.dog/special?category=cruise&data=2&validity=30|
+|2GB|180|269.99|https://esim.dog/special?category=cruise&data=2&validity=180|
+|2GB|365|278.99|https://esim.dog/special?category=cruise&data=2&validity=365|
+|3GB|5|313.49|https://esim.dog/special?category=cruise&data=3&validity=5|
+|3GB|7|321.49|https://esim.dog/special?category=cruise&data=3&validity=7|
+|3GB|10|326.49|https://esim.dog/special?category=cruise&data=3&validity=10|
+|3GB|14|339.99|https://esim.dog/special?category=cruise&data=3&validity=14|
+|3GB|30|352.99|https://esim.dog/special?category=cruise&data=3&validity=30|
+|3GB|180|365.99|https://esim.dog/special?category=cruise&data=3&validity=180|
+|3GB|365|378.99|https://esim.dog/special?category=cruise&data=3&validity=365|

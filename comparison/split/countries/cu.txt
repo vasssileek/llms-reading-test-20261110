@@ -1,0 +1,110 @@
+# eSIM.dog: Cuba
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Cuba (CU)
+
+#### Cuba: fixed data, Black
+Networks: Cubacel. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/cu?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|2.98|0.09999999962747097|
+|100MB|90|11.98|0.09999999962747097|
+|500MB|7|7.98|0.5|
+|500MB|15|13.37|0.5|
+|1GB|1|7.98|1|
+|1GB|3|7.98|1|
+|1GB|30|13.41|1|
+|1GB|90|14.94|1|
+|2GB|1|14.98|2|
+|2GB|3|14.98|2|
+|2GB|15|17.84|2|
+|2GB|30|18.98|2|
+|2GB|90|29.89|2|
+|3GB|90|44.75|3|
+|4GB|90|59.79|4|
+|5GB|90|67.13|5|
+|6GB|60|58.03|6|
+|6GB|90|89.69|6|
+|7GB|90|104.64|7|
+|8GB|90|119.59|8|
+|10GB|90|123.10|10|
+|20GB|90|223.24|20|
+|30GB|1|212.08|30|
+|30GB|5|212.08|30|
+
+#### Cuba: fixed data, Amber Essential
+Networks: Cubacel. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/cu?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|7.98|1|
+|3GB|1|14.98|3|
+|3GB|3|14.98|3|
+|3GB|5|14.98|3|
+|3GB|7|14.98|3|
+|3GB|30|18.98|3|
+|4GB|1|20.98|4|
+|4GB|3|20.98|4|
+|4GB|5|20.98|4|
+|4GB|7|20.98|4|
+|4GB|30|20.98|4|
+|5GB|1|20.98|5|
+|5GB|3|20.98|5|
+|5GB|5|20.98|5|
+|5GB|20|32.98|5|
+|5GB|30|32.98|5|
+|6GB|1|22.89|6|
+|6GB|7|22.89|6|
+|6GB|10|22.89|6|
+|6GB|14|45.99|6|
+|6GB|30|45.99|6|
+|7GB|1|22.89|7|
+|7GB|3|45.98|7|
+|7GB|5|45.98|7|
+|7GB|14|45.99|7|
+|7GB|30|45.99|7|
+|8GB|3|45.98|8|
+|8GB|5|45.98|8|
+|8GB|14|45.99|8|
+|8GB|30|45.99|8|
+|9GB|1|45.98|9|
+|9GB|5|45.98|9|
+|9GB|14|45.99|9|
+|9GB|30|45.99|9|
+|10GB|1|45.98|10|
+|10GB|5|45.98|10|
+|10GB|14|45.99|10|
+|10GB|20|45.99|10|
+|10GB|30|58.03|10|
+|12GB|1|45.99|12|
+|12GB|5|45.99|12|
+|12GB|7|45.99|12|
+|12GB|30|61.49|12|
+|15GB|1|45.99|15|
+|15GB|3|59.98|15|
+|15GB|5|59.98|15|
+|15GB|20|66.96|15|
+|15GB|30|66.96|15|
+|20GB|1|66.96|20|
+|20GB|3|131.98|20|
+|20GB|5|131.98|20|
+|20GB|10|131.98|20|
+|20GB|20|131.98|20|
+|20GB|30|131.98|20|
+|30GB|30|212.08|30|
+|40GB|90|223.24|40|
+|50GB|1|212.08|50|
+|50GB|3|212.08|50|
+|50GB|20|223.24|50|
+|50GB|90|446.51|50|
+

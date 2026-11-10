@@ -1,0 +1,158 @@
+# eSIM.dog: New Caledonia
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### New Caledonia (NC)
+
+#### New Caledonia: fixed data, Black
+Networks: Office des Postes et Telecommunications. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/nc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|6.99|0.5|
+|500MB|30|6.99|0.5|
+|1GB|1|7.79|1|
+|1GB|6|7.79|1|
+|1GB|7|7.79|1|
+|1GB|30|8.56|1|
+|1GB|90|15.89|1|
+|2GB|1|8.56|2|
+|2GB|15|8.56|2|
+|2GB|90|31.79|2|
+|3GB|15|16.99|3|
+|3GB|30|22.31|3|
+|3GB|90|47.69|3|
+|4GB|10|16.99|4|
+|4GB|90|63.59|4|
+|5GB|1|16.99|5|
+|5GB|2|16.99|5|
+|5GB|30|30.49|5|
+|5GB|90|79.49|5|
+|6GB|1|22.42|6|
+|6GB|15|22.42|6|
+|6GB|90|95.39|6|
+|10GB|1|37.99|10|
+|10GB|30|81.49|10|
+|20GB|90|98.99|20|
+|40GB|90|187.99|40|
+|50GB|10|187.99|50|
+
+#### New Caledonia: fixed data, Blue
+Networks: Mobilis. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/nc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|28.99|1|
+|1GB|7|25.99|1|
+|2GB|1|54.49|2|
+|3GB|15|68.99|3|
+|3GB|30|73.49|3|
+|5GB|1|100.49|5|
+|5GB|30|114.99|5|
+|10GB|1|186.49|10|
+|10GB|30|218.99|10|
+
+#### New Caledonia: fixed data, Amber Essential; Networks: Office des Postes et Telecommunications. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/nc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|30|8.56|2|
+|3GB|14|8.56|3|
+|3GB|15|8.56|3|
+|3GB|25|8.56|3|
+|3GB|30|8.56|3|
+|4GB|30|16.99|4|
+|5GB|30|16.99|5|
+|6GB|25|22.42|6|
+|6GB|30|22.42|6|
+|7GB|1|22.42|7|
+|7GB|15|22.42|7|
+|7GB|25|22.42|7|
+|7GB|30|22.42|7|
+|9GB|1|22.42|9|
+|9GB|15|22.42|9|
+|9GB|25|22.42|9|
+|9GB|30|22.42|9|
+|10GB|15|22.42|10|
+|10GB|25|22.42|10|
+|10GB|30|22.42|10|
+|12GB|1|22.42|12|
+|12GB|15|22.42|12|
+|12GB|25|27.89|12|
+|12GB|30|27.89|12|
+|15GB|1|22.42|15|
+|15GB|2|22.42|15|
+|15GB|10|27.89|15|
+|15GB|15|27.89|15|
+|15GB|25|29.98|15|
+|15GB|30|71.99|15|
+|20GB|1|43.99|20|
+|20GB|15|43.99|20|
+|20GB|25|43.99|20|
+|30GB|1|45.99|30|
+|30GB|2|45.99|30|
+|50GB|1|87.99|50|
+|50GB|15|187.99|50|
+|50GB|25|187.99|50|
+|50GB|30|187.99|50|
+|50GB|90|187.99|50|
+
+#### New Caledonia: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/nc?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|10GB|1|22.42|10|
+
+#### New Caledonia: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=27.51;2=55.02;3=110.27;4=143.39;5=168.75;6=202.51;7=236.25;8=266.33;9=296.42;10=326.50;11=359.15;12=391.79;13=424.44;14=457.09;15=489.74
+16=516.52;17=543.30;18=570.08;19=596.86;20=623.64;21=654.11;22=685.29;23=716.47;24=747.65;25=778.83;26=803.69;27=828.55;28=853.42;29=878.28;30=903.14
+
+#### New Caledonia: 2GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&limit=2&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=52.26;2=104.52;3=156.77;4=209.03;5=250.40;6=300.48;7=361.45;8=406.09;9=450.72;10=495.36;11=541.08;12=586.81;13=632.53;14=678.25;15=761.54
+16=801.28;17=841.01;18=880.75;19=920.48;20=960.22;21=971.65
+
+#### New Caledonia: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=74.26;2=148.51;3=222.76;4=297.01;5=355.79;6=426.95;7=513.57;8=576.99;9=640.42;10=703.84;11=768.81;12=833.78;13=898.75;14=963.72
+
+#### New Caledonia: 5GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&limit=5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=96.26;2=192.52;3=288.77;4=385.03;5=461.23;6=553.47;7=665.78;8=748.00;9=830.21;10=912.43
+
+#### New Caledonia: 10GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&limit=10&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=178.77;2=357.53;3=536.30;4=715.06;5=856.58
+
+#### New Caledonia: Fully unlimited, up to 1 Mbps
+Networks: Mobilis.
+Purchase link: https://esim.dog/nc?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=27.36;2=54.73;3=82.09;4=102.19;5=116.39;6=139.67;7=162.94;8=184.79;9=208.07;10=225.19;11=247.71;12=270.23;13=292.74;14=315.26;15=337.78
+16=358.87;17=381.38;18=403.90;19=426.42;20=430.12;21=450.20;22=471.71;23=493.22;24=514.72;25=536.23;26=557.73;27=579.24;28=600.75;29=622.25;30=623.81
+31=643.16;32=663.91;33=684.65;34=705.40;35=726.15;36=746.90;37=767.64;38=788.39;39=809.14;40=829.88;41=850.63;42=871.38;43=892.12;44=912.87;45=933.62
+46=954.36;47=975.11;48=995.86
+

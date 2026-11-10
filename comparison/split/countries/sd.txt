@@ -1,0 +1,258 @@
+# eSIM.dog: Sudan
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Sudan (SD)
+
+#### Sudan: fixed data, Black; Networks: Zain. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.99|0.09999999962747097|
+|100MB|90|2.99|0.09999999962747097|
+|500MB|5|3.22|0.5|
+|1GB|1|7.49|1|
+|1GB|3|8.49|1|
+|1GB|5|8.99|1|
+|1GB|6|9.49|1|
+|1GB|90|9.98|1|
+|2GB|90|19.98|2|
+|5GB|25|42.49|5|
+
+#### Sudan: fixed data, Amber Essential; Networks: Zain. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|1.29|0.5|
+|500MB|7|3.22|0.5|
+|500MB|30|3.22|0.5|
+|1GB|10|4.79|1|
+|1GB|25|4.79|1|
+|2GB|1|7.38|2|
+|2GB|2|7.99|2|
+|2GB|5|7.99|2|
+|2GB|7|7.99|2|
+|2GB|9|7.99|2|
+|2GB|10|7.99|2|
+|2GB|14|7.99|2|
+|2GB|25|7.99|2|
+|2GB|30|7.99|2|
+|3GB|1|7.99|3|
+|3GB|2|10.55|3|
+|3GB|3|10.55|3|
+|3GB|5|10.55|3|
+|3GB|7|10.55|3|
+|3GB|9|10.55|3|
+|3GB|10|10.55|3|
+|3GB|14|10.55|3|
+|3GB|25|11.19|3|
+|3GB|90|19.98|3|
+|4GB|1|11.19|4|
+|4GB|2|11.19|4|
+|4GB|3|15.00|4|
+|4GB|5|15.00|4|
+|4GB|7|15.00|4|
+|4GB|9|15.00|4|
+|4GB|10|15.00|4|
+|4GB|15|15.00|4|
+|4GB|25|15.00|4|
+|4GB|30|16.44|4|
+|4GB|90|19.98|4|
+|5GB|1|11.19|5|
+|5GB|2|15.00|5|
+|5GB|3|15.00|5|
+|5GB|6|15.00|5|
+|5GB|9|15.00|5|
+|5GB|10|16.44|5|
+|5GB|14|16.44|5|
+|5GB|80|19.98|5|
+|5GB|90|19.98|5|
+|6GB|1|19.98|6|
+|6GB|5|19.98|6|
+|6GB|10|19.98|6|
+|6GB|15|19.98|6|
+|6GB|25|19.98|6|
+|6GB|90|19.98|6|
+|7GB|1|19.98|7|
+|7GB|2|26.99|7|
+|7GB|3|26.99|7|
+|7GB|5|26.99|7|
+|7GB|10|26.99|7|
+|7GB|15|26.99|7|
+|7GB|25|29.90|7|
+|7GB|30|29.90|7|
+|7GB|60|30.98|7|
+|7GB|80|30.98|7|
+|7GB|90|30.98|7|
+|9GB|1|19.98|9|
+|9GB|2|26.99|9|
+|9GB|3|26.99|9|
+|9GB|5|26.99|9|
+|9GB|10|26.99|9|
+|9GB|15|29.90|9|
+|9GB|25|29.90|9|
+|9GB|30|30.98|9|
+|9GB|60|30.98|9|
+|9GB|70|30.98|9|
+|9GB|80|43.53|9|
+|9GB|90|43.53|9|
+|10GB|1|26.99|10|
+|10GB|2|26.99|10|
+|10GB|3|26.99|10|
+|10GB|5|26.99|10|
+|10GB|6|29.90|10|
+|10GB|9|29.90|10|
+|10GB|10|29.90|10|
+|10GB|14|33.48|10|
+|10GB|25|33.48|10|
+|10GB|60|43.53|10|
+|10GB|70|43.53|10|
+|10GB|80|43.53|10|
+|10GB|90|43.53|10|
+|12GB|1|30.98|12|
+|12GB|2|30.98|12|
+|12GB|3|30.98|12|
+|12GB|5|30.98|12|
+|12GB|9|43.99|12|
+|12GB|10|43.99|12|
+|12GB|15|43.99|12|
+|12GB|30|43.99|12|
+|12GB|60|51.89|12|
+|12GB|70|51.89|12|
+|12GB|80|51.89|12|
+|12GB|90|51.89|12|
+|15GB|1|30.98|15|
+|15GB|2|43.99|15|
+|15GB|3|43.99|15|
+|15GB|5|43.99|15|
+|15GB|9|43.99|15|
+|15GB|10|43.99|15|
+|15GB|25|51.89|15|
+|15GB|30|51.89|15|
+|15GB|60|51.89|15|
+|15GB|70|51.89|15|
+|15GB|80|51.89|15|
+|15GB|90|51.89|15|
+|20GB|1|48.99|20|
+|20GB|2|51.89|20|
+|20GB|3|55.80|20|
+|20GB|5|55.80|20|
+|20GB|9|68.99|20|
+|20GB|10|69.99|20|
+|20GB|15|74.49|20|
+|20GB|25|78.99|20|
+|20GB|30|82.99|20|
+|20GB|60|87.99|20|
+|20GB|70|87.99|20|
+|20GB|80|87.99|20|
+|20GB|90|87.99|20|
+|30GB|1|65.98|30|
+|30GB|2|76.99|30|
+|30GB|3|76.99|30|
+|30GB|5|76.99|30|
+|30GB|9|87.99|30|
+|30GB|10|87.99|30|
+|30GB|15|87.99|30|
+|30GB|25|98.99|30|
+|30GB|60|121.67|30|
+|30GB|70|121.67|30|
+|30GB|80|121.67|30|
+|30GB|90|121.67|30|
+|40GB|1|87.99|40|
+|40GB|2|98.99|40|
+|40GB|3|98.99|40|
+|40GB|9|120.98|40|
+|40GB|10|120.98|40|
+|40GB|15|125.99|40|
+|40GB|25|133.49|40|
+|40GB|60|125.98|40|
+|40GB|70|125.98|40|
+|40GB|80|155.15|40|
+|40GB|90|155.15|40|
+|50GB|1|124.99|50|
+|50GB|2|141.99|50|
+|50GB|3|155.15|50|
+
+#### Sudan: fixed data, Blue; Networks: Zain. Internet exit: HK.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|3.98|1|
+|3GB|15|14.49|3|
+
+#### Sudan: fixed data, Black; Networks: Zain Sudan. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|9.49|1|
+|2GB|15|17.49|2|
+|3GB|15|26.99|3|
+|3GB|30|30.49|3|
+|5GB|7|36.99|5|
+|5GB|15|39.99|5|
+|5GB|30|44.49|5|
+|10GB|7|68.49|10|
+|10GB|15|73.99|10|
+|10GB|30|82.99|10|
+
+#### Sudan: fixed data, Yellow; Networks: Zain. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|8.99|1|
+|10GB|30|55.99|10|
+
+#### Sudan: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|15|12.99|2|
+|3GB|30|15.99|3|
+|5GB|7|29.49|5|
+|5GB|15|32.99|5|
+|5GB|30|27.49|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+
+#### Sudan: fixed data, Amber Essential; Networks: Zain Sudan. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|15|7.99|2|
+|3GB|15|10.55|3|
+|3GB|30|11.92|3|
+|5GB|7|15.00|5|
+|5GB|15|16.44|5|
+|10GB|7|29.90|10|
+|10GB|15|33.48|10|
+|10GB|30|41.49|10|
+
+#### Sudan: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sd?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|3GB|30|16.49|3|
+|5GB|30|19.98|5|
+

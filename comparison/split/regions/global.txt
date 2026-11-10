@@ -1,0 +1,193 @@
+# eSIM.dog: Global
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Global (global)
+
+#### Global: Green; Coverage: Albania, Algeria, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Greece, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Japan, Kazakhstan, Kuwait, Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao China, Macedonia, Malaysia, Malta, Mexico, Moldova, Montenegro, Morocco, Netherlands, New Zealand, Norway, Pakistan, Peru, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russian Federation, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Vietnam.
+
+Networks: A1/A1 Bulgeria/AIS/Altan/Andorra Telecom/AT&T/ATM Mobils/Azercell/Bakcell/Banglalink Digital Communications/Batelco/Beeline Mobile/Beeline Russia/Beeline/Bell/BH Telecom Bosnia and Herzegov/Bharti Airtel (UP East IND10)/Bharti Airtel India (Andhra Pradesh INDJH)/Bharti Airtel India (Assam IND15)/Bharti Airtel India (Bihar IND12)/Bharti Airtel India (Chennai INDSC)/Bharti Airtel India (Delhi)/Bharti Airtel India (Gujarat INDA3)/Bharti Airtel India (Haryana INDA5)/Bharti Airtel India (Himachal Pradesh INDBL)/Bharti Airtel India (Karnataka INDJB)/Bharti Airtel India (Kerala INDA7)/Bharti Airtel India (Kolkata INDMT)/Bharti Airtel India (Madhya Pradesh INDA8)/Bharti Airtel India (Maharashtra INDA2)/Bharti Airtel India (Mumbai INDA1)/Bharti Airtel India (North East)/Bharti Airtel India (Orissa IND11)/Bharti Airtel India (Punjab INDA9)/Bharti Airtel India (Rajasthan INDH1)/Bharti Airtel India (Tamil Nadu INDA4)/Bharti Airtel India (UP West INDA6)/Bharti Airtel India (West Bengal IND14)/Bite/Bitel/Bouygues/Bragg Communications/Celcom/China Mobile/China Telecom/China Unicom/Chunghwa Telecom Taiwan/Claro/Cosmote/Crnogorski/CTM Macao/Cyta/Digi/DIGI/Dito/DNA/DTAC/DU/EE/Elisa/Epic/Etisalat/Far EasTone Taiwan/Faroese Telecom/Fascel/Fjarskipti (VF)/Free/Freedom Mobile/Geocell/Globe/GO/Grameenphone/H3G/HI3G/Hot Mobile/Hrvatski/HT-Eronet Bosnia and Herzegovina/Hutchison/ICE/Ice Wireless/Idea Cellular-07/Idea Cellular-BI/Idea Cellular-EH/Idea Cellular-EK/Idea Cellular-EU/Idea Cellular-IB/Idea Cellular-ID/Idea Cellular-IE/Idea Cellular-IH/Idea Cellular-IK/Idea Cellular-IM/Idea Cellular-IO/Idea Cellular-IR/Idea Cellular-IT/Idea Cellular-IU/Idea Cellular-IW/Idea Cellular-MP/Idea Cellular-SK/Idea Cellular-SP/Iliad/Jazz Mobile/Jio/Jio Andhra Pradesh/Jio Assam/Jio Bihar/Jio Delhi/Jio Gujarat/Jio Haryana/Jio Himachal Pradesh/Jio Karnataka/Jio Kerala/Jio Kolkata/Jio Madhya Pradesh/Jio Maharashtra/Jio North East/Jio Orissa/Jio Punjab/Jio Rajasthan/Jio Tamil Nadu/Jio Uttar Pradesh East/Jio Uttar Pradesh West/Jio West Bengal/JT Jersey/Kar-Tel (Beeline)/KPN/KT/KyivStar/Lands Telekommunikation Ab/Latvijas Mobilais/Life/Magti/Maroc Telecom (IAM)/Melita/Meteor Mobile/Mobily/Mobitel/Moldcell/Moldtelecom/Movistar/Mtel Bosnia and Herzegovina/MTEL/MTS/NOS/Nova/NTT Docomo/O2 Czech Republic/O2/Odido/Omnitel/One/Ooredoo/Ooredoo Tunisie/Optus/Orange/ORANGE/Orange Lichtenstein/Orascom/Oredoo/Oreedo/Partner/Pelephone/Personal/Plus/Primetel/Proximus/Salt/SaskTel/Siminn (Landssíminn)/Singtel/SK Telecom/Slovak Telekom (DT)/Smartfren/SmarTone/SoftBank/Spark/Starhub/STC/Sunrise/T-Mobile/T-Mobile Czech Republic/Tango/TDC/nuuday/Tele2/Telecom Liechtenstein AG/Telefonica/Telekom/Telemach/Telenet/Telenor (Vodafone)/Telenor/Telia/Telkom/Telkomsel/Telus/TIM/TMN/MEO/Tunisie Telecom/Turk Telekom/Turkcell/U-Mobile/Ucell/UCOM/Verizon/Vi - Assam/Vi - Kolkata/Vi - Maharashtra & Goa/Vi - Maharashtra and Goa/Viettel/Vinaphone/VIPnet/Vivacell/Vivacom Bulgarian/Vivo/Vodacom/Vodafone/Vodafone Czech Republic/Vodafone India (Mumbai)/Vodafone India Essar/Vodafone India Essar BT/Wind Greece (Nova)/Wind/WOM/XL Axiata/Yettel/Zain.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|5GB|365|10.17|5|rp_1iutffv_1bpwp0v|
+|10GB|30|14.99|10|rp_1mvmh6u_nb6l6y|
+|10GB|365|18.82|10|rp_1n5m2vt_1ogvsj9|
+|20GB|90|36.99|20|rp_1mbn9sw_k0w8hg|
+|20GB|365|43.99|20|rp_1mlmvhv_1l6lftr|
+|40GB|180|63.49|40|rp_1nzkvyq_gqlvry|
+|40GB|365|87.49|40|rp_1o9khnp_1hwb349|
+|80GB|365|104.40|80|rp_1nfloks_dgbj2g|
+
+#### Global: Yellow; Coverage: US, FR, CN, ES, IT, TR, GB, DE, MX, TH, HK, MY, GR, CA, KR, JP, SG, AW, AF, AI, AX, AL, AD, AE, AR, AM, AG, AU, AT, AZ, BE, BJ, BQ, BF, BD, BH, BS, BA, BL, BY, BZ, BM, BO, BR, BB, BN, BW, CF, CH, CL, CI, CM, CD, CO, CV, CR, CW, KY, CY, CZ, DM, DK, DO, DZ, EC, EG, EE, ET, FI, FJ, FO, GA, GE, GG, GH, GI, GN, GP, GM, GW, GD, GL, GT, GF, GY, HN, HR, HT, HU, ID, IM, IN, IE, IR, IQ, IS, IL, JM, JE, JO, KZ, KE, KG, KH, KN, KW, LA, LB, LR, LC, LI, LK, LT, LU, LV, MO, MF, MA, MC, MD, MG, MK, ML, MT, ME, MN, MZ, MS, MQ, MU, MW, YT, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PK, PA, PE, PH, PG, PL, PT, PY, PS, PF, QA, RE, RO, RU, RW, SA, SN, SL, SV, SM, RS, SR, SK, SI, SE, SZ, SX, SC, TC, TD, TG, TJ, TL, TO, TT, TN, TW, TZ, UG, UA, UY, UZ, VA, VC, VG, VN, WS, ZA, ZM, ZW, GP-MG, CW, XK, USPR, ES-XCI, PT-MA, PT-AZ, FR-GP, CY-NC, BQ-SA, BQ-SE.
+
+Networks: T-Mobile USA/Verizon/Orange France/SFR/Bouygues Telecom/Free Mobile/China Unicom/China Telecom/China Mobile/Orange/ILIAD/TIM/Wind Tre/Turk Telekom/3UK/EE/Vodafone/O2 Germany/TELCEL/AT&T Mexico/Movistar Mexico/True Move H/AIS/CSL/U Mobile/Maxis/Celcom/Digi/Nova/Bell/Rogers/Telus/SK Telecom/KT/KDDI/SoftBank/Rakuten/Singapore/SingTel/Digicel Aruba/Afghan Wireless Communication Company (AWCC)/FLOW/Telia FI/Alands Mobiltelefon/Servei de Telecomunicacions d'Andorra (STA)/Du/Movistar/Claro Argentina/Viva Armenia/Optus/Drei/A1/Bakcell/Proximus/Spacetel - MTN/Digicel Curacao/GrameenPhone/STC/Be Aliv/ERONET/BH Mobile/m:tel/Orange Caraibe/Belize Telemedia/Smart/Digicel Jamaica/Telecel/TIM Brasil/Vivo/FLOW (LLA)/DST Communications/Sunrise/Salt/Movistar Chile/Africell/Vodacom/Tigo/CV MOVEL/Claro CR/LIBERTY/PrimeTel/epic/O2/3DK/Nuuday/Norlys/Altice Dominicana/CLARO GSM/Algerie Telecom Mobile (ATM)/Ooredoo/MOVISTAR/Etisalat/Telia/Tele2/Safaricom Telecommunications/Telia Finland/DNA/Elisa/Digicel/Faroese Telecom/Gabon Telecom/Airtel/Geocell Ltd/Cellfie Mobile/JT/Sure/Gibtelecom/Orange Guinee/MTN/TELE Greenland/TIGO/Digicel Guyana/Telemach/Yettel/One/Telkomsel/PT XL/Reliance Jio West Bengal/Reliance Jio India Andhra Pradesh/Reliance Jio India Assam/Reliance Jio India Bihar/Reliance Jio India Gujarat/Reliance Jio India Haryana/Reliance Jio India Himachal Pradesh/Reliance Jio India Karnataka/Reliance Jio India Kerala/Reliance Jio India Madhya Pradesh/Reliance Jio India Maharashtra/Reliance Jio India North East/Reliance Jio India Orissa/Reliance Jio India Punjab/Reliance Jio India Rajasthan/Reliance Jio India Tamil Nadu/Reliance Jio India Uttar Pradesh (West)/Reliance Jio India Uttar Pradesh (East)/Reliance Jio India Delhi/Reliance Jio India Kolkata/Reliance Jio Infocomm Limited/Eircom/Irancell/Zain IRAQ/Siminn/Pelephone/Cellcom Israel/Hot Mobile/Umniah/Zain JO/Beeline/Mega/Cellcard/stc/ZAIN/LTC (Laos Telecommunications)/Touch/Alfa/Orange Liberia/Telecom Liechtenstein/Hutchison Telecom/Mobitel/Tango/Tele2 Latvia/CTM/Monaco Telecom/Orange Moldova/Moldcell/A1 MK/Orange Mali/Epic/MTEL/Telekom.me/Unitel/MobiCom/my.t cellplus/Emtel/Orange Reunion/Celtel Niger (Airtel)/Globacom/KPN/Telenor/ICE/Ncell/Nepal Telecom/Spark/2degrees/One NZ/Omantel/Telenor Pakistan/Cable & Wireless Panama/Integra Technologies Group/Entel Peru/Globe Telecom/SMART/Polkomtel/P4 Play/MEO/NOS/TIGO Paraguay/Tikiphone (Vini)/Telco OI/Telekom/MTS/MegaFon/beeline/Bharti Airtel/Mobily/zain/SONATEL/A1 Srbija/Hi3G/Swazi MTN/Telcell N.V./Cable & Wireless/Moov Africa/Tcell/Viettel/Chunghwa/Taiwan Mobile/VODAFONE/lifecell/KYIVSTAR/Ucell/VINAPHONE/Cell C/Telkom/Econet/UTS N.V./IPKO/Vala/Claro/Liberty/Telefonica Moviles Espana/Digicel Antilles Francaises Guyane (French West In/Free Caraibe/Telcell St Maarten.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|200MB|30|1.74|0.2|rp_1khaeg_n1vut8|
+|300MB|3|1.39|0.29|rp_1j6u7a9_wjsedp|
+|1GB|5|2.35|1|rp_tbx85u_16q0g52|
+|1GB|7|4.99|1|rp_4gg5rw_5gj9s0|
+|2GB|15|7.49|2|rp_j8f2l2_1aul8ii|
+|3GB|30|6.48|3|rp_1d6gkd4_1k1rrv8|
+|5GB|30|14.49|5|rp_b5td4u_1hsukgi|
+|5GB|60|12.38|5|rp_jr21i1_re4ldp|
+|10GB|30|24.49|10|rp_1s774vy_1336mv6|
+|10GB|180|66.49|10|rp_gaqciu_1t6grpm|
+|20GB|30|38.99|20|rp_1lh6ag7_1e65z03|
+|20GB|365|77.99|20|rp_e38s6o_axgfyc|
+
+#### Global: Blue; Coverage: AL, AR, AM, AU, AT, AZ, BE, BO, BA, BW, BR, BG, CM, CA, CF, TD, CL, CN, CO, CR, CI, HR, CY, CZ, CD, DK, EC, EG, SV, EE, SZ, FI, FR, GA, DE, GH, GI, GR, GU, GT, GW, HN, HK, HU, IS, IN, ID, IE, IL, IT, JP, JO, KZ, KE, XK, KW, KG, LV, LR, LI, LT, LU, MG, MW, MY, ML, MT, MU, MX, MD, ME, MA, NL, NZ, NI, NE, NG, MK, NO, OM, PK, PA, PY, PE, PH, PL, PT, PR, QA, CG, RO, SA, SN, RS, SC, SG, SK, SI, ZA, KR, ES, LK, SE, CH, TW, TZ, TH, TN, TR, UG, UA, AE, GB, US, UY, UZ, ZM.
+
+Networks: One Albania/Vodafone/Movistar/Beeline/MTS/Optus/3/Bakcell/Proximus/Orange/Base/Tigo/HT-ERONET/BH Mobile/Mascom/TIM/Claro/Vivo/Vivacom/MTN Cameroon/Rogers Wireless/Videotron/Airtel/movistar/WOM/China Mobile/China Unicom/Tele2/A1/PrimeTel/O2/TDC/Telia/Etisalat/Elisa/Swazi MTN/Swazi Mobile/Telia / DNA/SFR/Bouygues/Free Mobile/MTN/AirtelTigo/GibTel/Wind/IT&E Wireless/MTN Areeba/SmarTone/csl/1010/Telenor Hungary/Nova/AirTel/Jio/Indosat/Telkomsel/Partner/Hot Mobile/Pelephone/PHI Networks/NTT docomo/KDDI/au/Rakuten Mobile/Zain/Umniah/Tele2.kz/IPKO/Ooredoo/LMT/Bite/Lonestar Cell MTN/7acht/FL1/BITĖ/Tango/POST/U Mobile/CelcomDigi/GO/Melita/my.t/Telcel/Unité/Telenor/m:tel CG/T-Mobile/Orange Morocco/KPN/One NZ/Spark/Telekom.mk/vip/Omantel/Jazz/SMART/Play/Plus/NOS/MEO/ooredoo/Digi.Mobil/Mobily/VIP/mts/StarHub/SingTel/TPG Telecom/Mobitel/Telemach/Vodacom/Cell C/Telkom/SKTelecom/Yoigo/Dialog/Hutch/Sunrise/Salt/Swisscom/Chunghwa/FarEasTone/TrueMove H/CAT/AIS/Turkcell/lifecell/Kyivstar/Verizon/Antel.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|1|5.99|1|rp_ukijqo_1yof2jg|
+|1GB|7|5.99|1|rp_ta7osx_njdced|
+|1GB|365|5.89|1|rp_a687kl_la3ijd|
+|2GB|1|8.99|2|rp_1arp5xy_zvs8cy|
+|3GB|30|13.49|3|rp_146nxbg_1uso3ow|
+|5GB|30|20.99|5|rp_1j8wyt9_1eoa95l|
+|10GB|30|38.99|10|rp_138n140_tcotrg|
+|20GB|30|67.99|20|rp_1xlj83q_op1pia|
+|20GB|90|75.49|20|rp_1sw0f4n_1v94u1n|
+
+#### Global: Pink
+Coverage: GY, TD, VG, JE, ZM, BZ, TT, JM, BR, HR, SC, SK, GA, KG, BA, ID, GI, OM, AX, IL, KW, IT, PE, VN, AG, TC, DK, NZ, MA, BH, EE, GH, MQ, CZ, KN, SR, MY, CR, IS, SZ, GW, CI, NI, RO, PL, CA, RW, PT, TR, LV, TZ, BO, SA, BG, SI, KE, GG, CY, MX, ES, AE, CH, PK, BW, LU, BN, MG, BF, EC, US, AU, IQ, MW, CO, GU, TH, AL, RE, CG, AD, NG, PR, NO, HN, LT, UA, SG, BE, ZA, GE, VC, CW, AT, UZ, CN, KZ, PA, CF, LC, LK, TW, JP, DO, HU, PY, FR, BD, SN, GD, ME, UY, SV, KR, GT, MU, CM, KY, TN, NE, PH, FI, JO, RS, LR, SE, MD, AZ, IN, ML, AR, MT, AI, CL, LA, CD, LI, HK, NL, DM, BS, UG, BJ, QA, DE, GB, IE, KH, MC, BB, EG, IM, MK, GR, MS.
+Networks: Multiple Networks.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|3|12.99|1|rp_1e8rc8j_shau4v|
+|5GB|1|45.99|5|rp_11e2215_19p2zw5|
+|5GB|2|45.99|5|rp_10k38y8_593fuc|
+|5GB|3|45.99|5|rp_10u2un7_16esn6n|
+|5GB|4|45.99|5|rp_1280v42_1yt34u|
+|5GB|5|45.99|5|rp_12i0gt1_134iah5|
+|5GB|6|45.99|5|rp_11o1nq4_1xpmseg|
+|5GB|7|45.99|5|rp_11y19f3_zu7xrn|
+|5GB|8|46.49|5|rp_13bz9vy_1ufcfoy|
+|5GB|9|46.49|5|rp_13lyvkx_wjxl25|
+|5GB|10|46.49|5|rp_7v8d8b_lcpf6f|
+|5GB|12|46.49|5|rp_8f7km9_omzrvx|
+|5GB|15|46.49|5|rp_8p76b8_1cnjke8|
+|5GB|20|46.99|5|rp_12dozfk_eo5bg|
+|5GB|25|46.99|5|rp_13rmzwf_uzsn8r|
+|5GB|30|46.99|5|rp_141pr3d_1t6h5yd|
+|10GB|1|59.49|10|rp_14yi7uw_sjorn8|
+|10GB|2|59.49|10|rp_15sh0xt_1wzobp1|
+|10GB|3|59.49|10|rp_15ihf8u_vtz4cq|
+|10GB|4|59.99|10|rp_16cg8br_1n4t9kj|
+|10GB|5|59.99|10|rp_162gmms_lz4288|
+|10GB|6|60.49|10|rp_16wffpp_1qf3ma1|
+|10GB|7|60.49|10|rp_16mfu0q_p9eexq|
+|10GB|8|60.49|10|rp_130l003_1gk8k5j|
+|10GB|9|60.49|10|rp_12qleb4_fejct8|
+|10GB|10|60.99|10|rp_1oegxd4_vgbjzg|
+|10GB|12|61.49|10|rp_1oyg4r2_yqlwoy|
+|10GB|15|61.99|10|rp_1psextz_1q1g1wr|
+|10GB|20|62.49|10|rp_l0d0yr_1gectuf|
+|10GB|25|62.99|10|rp_lubu1o_8o2x34|
+|10GB|30|63.49|10|rp_1rqigoq_11e7vy6|
+|20GB|1|120.99|20|rp_xkmo5t_dem705|
+|20GB|2|120.99|20|rp_wqnv2w_17zqoxg|
+|20GB|3|120.99|20|rp_x0ngrv_a4buan|
+|20GB|4|121.49|20|rp_yelh8q_14pgc7y|
+|20GB|5|121.49|20|rp_yol2xp_6u1hl5|
+|20GB|6|122.49|20|rp_xum9us_11f5zig|
+|20GB|7|122.49|20|rp_y4lvjr_3jr4vn|
+|20GB|8|122.99|20|rp_v2q8x2_y4vmsy|
+|20GB|9|122.99|20|rp_vcpum1_9gs65|
+|20GB|10|123.49|20|rp_pgqrsj_15n0pxz|
+|20GB|12|123.99|20|rp_q0pz6h_18xb2nh|
+|20GB|15|124.49|20|rp_qapkvg_1wxuv5s|
+|20GB|20|125.49|20|rp_1suuo6w_kozg30|
+|20GB|25|126.49|20|rp_1u8sonr_1fa3y0b|
+|20GB|30|126.99|20|rp_1uivfup_efoeqt|
+|50GB|1|242.49|50|rp_16lsmso_1exdr5w|
+|50GB|2|242.49|50|rp_17frfvl_kc998l|
+|50GB|3|242.49|50|rp_175ru6m_1i7o3ve|
+|50GB|4|243.49|50|rp_17zqn9j_ahe743|
+|50GB|5|243.49|50|rp_17pr1kk_18ct1qw|
+|50GB|6|243.99|50|rp_18jpunh_drojtl|
+|50GB|7|243.99|50|rp_189q8yi_1bn3ege|
+|50GB|8|244.99|50|rp_14nvexv_3wthp3|
+|50GB|9|244.99|50|rp_14dvt8w_11s8cbw|
+|50GB|10|245.49|50|rp_4xa1l4_utfbwc|
+|50GB|12|246.49|50|rp_5h98z2_y3polu|
+|50GB|15|247.49|50|rp_6b821z_1pejttn|
+|50GB|20|248.49|50|rp_10ka75v_1frglrb|
+|50GB|25|249.49|50|rp_11e908s_816p00|
+|50GB|30|250.99|50|rp_17rwpp6_13k98ge|
+
+#### Global: Yellow; Coverage: US, FR, CN, ES, IT, TR, GB, DE, MX, TH, HK, MY, GR, CA, KR, JP, SG, AW, AF, AI, AX, AL, AD, AE, AR, AG, AU, AT, AZ, BE, BQ, BD, BH, BS, BA, BY, BZ, BM, BO, BR, BB, BN, BW, CH, CL, CI, CM, CD, CO, CR, CW, KY, CY, CZ, DM, DK, DO, DZ, EG, EE, FI, FJ, FO, GA, GE, GG, GH, GI, GP, GM, GD, GL, GT, GF, GY, HN, HR, HT, HU, ID, IM, IN, IE, IQ, IS, IL, JM, JE, JO, KZ, KE, KN, KW, LA, LR, LC, LI, LK, LT, LU, LV, MO, MA, MC, MD, MG, MK, ML, MT, ME, MZ, MS, MQ, MU, MW, NG, NI, NL, NO, NR, NZ, OM, PK, PA, PE, PH, PG, PL, PT, PY, PS, PF, QA, RE, RO, RW, SN, SL, SV, SM, RS, SR, SK, SI, SE, SZ, SX, SC, TC, TD, TJ, TL, TT, TN, TZ, UG, UA, UY, UZ, VC, VG, VN, ZA, ZM, XK, CY-NC, BQ-SA, BQ-SE.
+
+Networks: T-Mobile/Verizon/Bouygues Telecom/Free/Orange/SFR/China Telecom/CHINA UNICOM GSM/ILIAD/TIM/WINDTRE/Turk Telekom/3 UK/EE/o2 - de/Vodafone/TELCEL/AT&T Mexico/True Move H/AWN/CSL/CelcomDigi/Maxis/Nova/Bell/ROGERS/TELUS/SK Telecom/KT/KDDI/SoftBank/Rakuten/Singtel/StarHub/Flow/AWCC/Etisalat/Telia FI/AndorraT/du/CLARO AR/Movistar/Optus/A1/Drei/BAKCELL/Proximus/Digicel/Banglalink Digital/stc/aliv/BH Mobile/ERONET/m:tel/BTL/Smart/Telecel S.A./Vivo/DSTCom/Salt/Sunrise/ENTEL/Africell RDC/TIGO/CLARO CR/LIBERTY/epic/PrimeTel/O2 - CZ/3 DK/Nuuuday/Norlys/ALTICE Dominicana/Mobilis/Ooredoo/Tele2 EE/Telia/DNA/Digicel (Fiji)/Faroese Telecom/Airtel/Gabon Telecom/GEOCELL/Cellfie/Sure/JT/Telecel/MTN/GIBTEL/DigicelF/AFRICELL/Tusass/Digicel Guyana/TM HR/A1 HR/One/Yettel/TELKOMSEL/Manx/JIO/Vodafone Idea/Eircom/3/Asiacell/SIMINN/NOVA/Cellcom/HOT IL/Pelephone/OrangeJO/Umniah/Zain/Beeline/zain KW/LAO TELECOMMUNICATIONS/Orange L/Telecom Liechtenstein/Hutch/Mobitel/Tele2 LT/TANGO/Tele2 LV/LMT/CTM/MONACO/A1 MK/gomobile/MTEL/Telekom.me/Vodacom/Movitel/my t/Globacom/Tigo/NL KPN/voda NL/Odido/TELENOR/ICE/Spark NZ/2degrees/One NZ/Omantel/Jazz/Telenor/CABLE AND WIRELESS PANAMA/Claro/Entel/GLOBE/PLUS/MEO/NOS/VODAFONE/TELCO OI/ORANGE/TELEKOM/MTN-RWA/Africell/A1 Srbija/Telekom Srbija/DIGICEL/O2 - SK/Telekom/A1 SI/TELEMACH/3 SE/Tele2 SE/Swazi MTN/Digicel Curacao/UTS NV./Digicel (Turks and Caicos)/Tcell/Viettel/Orange Tunisie/Airtel Uganda Ltd./lifecell/KYIVSTAR/Ucell/FLOW/VINAPHONE/MTN Zambia/IPKO/Vala.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|11.99|1|rp_ewu2bf_r8lyzb|
+|2GB|15|22.49|2|rp_bezjef_d73723|
+|3GB|30|31.49|3|rp_iky7f1_1kijuzd|
+|5GB|60|48.49|5|rp_cu3abk_tq4a2c|
+|10GB|180|88.99|10|rp_3wazzb_1p5bgij|
+|20GB|365|100.49|20|rp_1guz629_xt2jud|
+
+#### Global: Blue; Coverage: AX, AL, AR, AU, AT, AZ, BH, BD, BE, BO, BA, BW, BR, BN, BG, BF, KH, CM, CA, TD, CL, CN, CO, CR, CI, HR, CY, CZ, CD, DK, EC, EG, SV, EE, SZ, FI, FR, GA, GE, DE, GH, GI, GR, GP, GT, HN, HK, HU, IS, IN, ID, IE, IM, IL, IT, JP, JE, JO, KZ, KE, XK, KW, KG, LV, LR, LI, LT, LU, MG, MW, MY, ML, MT, MQ, MX, MD, ME, MA, NL, NZ, NI, NE, NG, MK, NO, OM, PK, PA, PY, PE, PH, PL, PT, PR, QA, CG, RE, RO, BL, MF, SA, SN, RS, SC, SG, SK, SI, ZA, KR, ES, LK, SE, CH, TW, TZ, TH, TN, TR, UG, UA, AE, GB, US, UY, UZ, VN, ZM.
+
+Networks: Ålcom/One Albania/Vodafone/Movistar/Optus/3/Bakcell/Zain/STC/Banglalink/Grameenphone/Proximus/Orange/Base/Tigo/HT-ERONET/BH Mobile/Mascom/TIM/Claro/Vivo/DST/Vivacom/Metfone/MTN Cameroon/Rogers Wireless/Videotron/Airtel/movistar/WOM/China Mobile/China Unicom/Tele2/A1/PrimeTel/O2/TDC/Telia/Etisalat/Elisa/Swazi MTN/Swazi Mobile/Telia / DNA/SFR/Bouygues/Free Mobile/Magti/Beeline/MTN/AirtelTigo/GibTel/Wind/Digicel/SmarTone/csl/1010/Telenor Hungary/Nova/AirTel/Jio/Indosat/Telkomsel/Pronto GSM/Partner/Hot Mobile/Pelephone/PHI Networks/NTT docomo/KDDI/au/Rakuten Mobile/JT/Umniah/Tele2.kz/IPKO/Ooredoo/LMT/Bite/Lonestar Cell MTN/7acht/FL1/BITĖ/Tango/POST/U Mobile/CelcomDigi/GO/Melita/Telcel/Unité/Telenor/m:tel CG/T-Mobile/Orange Morocco/KPN/One NZ/Spark/Telekom.mk/vip/Omantel/Jazz/SMART/Play/Plus/NOS/MEO/ooredoo/Digi.Mobil/Mobily/VIP/mts/StarHub/SingTel/TPG Telecom/Mobitel/Telemach/Vodacom/Cell C/Telkom/SKTelecom/Yoigo/Dialog/Hutch/Sunrise/Salt/Swisscom/Chunghwa/FarEasTone/TrueMove H/CAT/AIS/Turkcell/lifecell/Kyivstar/Verizon/Antel/MobiFone/Vietnamobile.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|7|6.49|1|rp_126mbio_1xr0o44|
+|1GB|365|16.99|1|rp_xna0my_1mftml2|
+|3GB|30|15.99|3|rp_9b2i7m_q7s3da|
+|5GB|30|23.99|5|rp_13ujxoi_1ugqbem|
+|10GB|30|42.49|10|rp_13kkbzj_tb142b|
+|20GB|90|70.99|20|rp_7ya6ph_vc8e49|
+
+#### Global: Green; Coverage: Afghanistan, Albania, Algeria, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Cambodia, Canada, Chad, Chile, China, Colombia, Congo Dem. Rep, Congo Republic, Costa Rica, Croatia, Cyprus, Czech Republic, Denmark, Ecuador, Egypt, El Salvador, Estonia, Faroe Islands, Finland, France, French Guiana, Gabon, Georgia, Germany, Ghana, Gibraltar, Greece, Guadeloupe, Hong Kong, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao China, Macedonia, Madagascar, Malawi, Malaysia, Malta, Mauritius, Mexico, Moldova, Mongolia, Montenegro, Morocco, Nepal, Netherlands, Netherlands Antilles, New Zealand, Niger, Nigeria, Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Reunion, Romania, Russian Federation, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Tanzania, Thailand, Tunisia, Turkey, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Vietnam, Zambia.
+
+Networks: A1/A1 Bulgeria/Airtel Congo Rep/Airtel/Airtel/Warid/Airtel/ZAIN/Airtel/Zain/Celtel/AIS/Altan/Andorra Telecom/Asia Cell/AT&T/ATM Mobils/Azercell/Bakcell/Banglalink Digital Communications/Batelco/Beeline Mobile/Beeline Russia/Beeline/Bell/BH Telecom Bosnia and Herzegov/Bharti Airtel (UP East IND10)/Bharti Airtel India (Andhra Pradesh INDJH)/Bharti Airtel India (Assam IND15)/Bharti Airtel India (Bihar IND12)/Bharti Airtel India (Chennai INDSC)/Bharti Airtel India (Delhi)/Bharti Airtel India (Gujarat INDA3)/Bharti Airtel India (Haryana INDA5)/Bharti Airtel India (Himachal Pradesh INDBL)/Bharti Airtel India (Karnataka INDJB)/Bharti Airtel India (Kerala INDA7)/Bharti Airtel India (Kolkata INDMT)/Bharti Airtel India (Madhya Pradesh INDA8)/Bharti Airtel India (Maharashtra INDA2)/Bharti Airtel India (Mumbai INDA1)/Bharti Airtel India (North East)/Bharti Airtel India (Orissa IND11)/Bharti Airtel India (Punjab INDA9)/Bharti Airtel India (Rajasthan INDH1)/Bharti Airtel India (Tamil Nadu INDA4)/Bharti Airtel India (UP West INDA6)/Bharti Airtel India (West Bengal IND14)/Bite/Bouygues/Bouygues/DigiCel French Guiana/Bragg Communications/Cable & Wireless/Celcom/Cellplus Mobile/China Telecom/China Unicom/Chunghwa Telecom Taiwan/Claro/Crnogorski/Dauphin/Digi/DIGI/DNA/DTAC/DU/EE/Elisa/Epic/Etisalat/ETL Mobile/Faroese Telecom/Fascel/Fjarskipti (VF)/Free/Freedom Mobile/Geocell/Gibtelecom/Glo/Globe/GO/Grameenphone/H3G/HI3G/Hot Mobile/Hrvatski/HT-Eronet Bosnia and Herzegovina/Hutchison/ICE/Idea Cellular-07/Idea Cellular-BI/Idea Cellular-EH/Idea Cellular-EK/Idea Cellular-EU/Idea Cellular-IB/Idea Cellular-ID/Idea Cellular-IE/Idea Cellular-IH/Idea Cellular-IK/Idea Cellular-IM/Idea Cellular-IO/Idea Cellular-IR/Idea Cellular-IT/Idea Cellular-IU/Idea Cellular-IW/Idea Cellular-MP/Idea Cellular-SK/Idea Cellular-SP/Iliad/Jazz Mobile/Kar-Tel (Beeline)/Korek Telecom Company/KPN/KT/KyivStar/Lands Telekommunikation Ab/Lao Telecom/Latvijas Mobilais/Life/Magti/Maroc Telecom (IAM)/Melita/Meteor Mobile/Metfone/MobiCom Corporation/Mobily/Mobitel/Moldcell/Moldtelecom/Movistar/Mtel Bosnia and Herzegovina/MTEL/MTS/N cleo S A/Ncell/NOS/Nova/NTT Docomo/O2 Czech Republic/O2/Omnitel/One/Ooredoo/Ooredoo Tunisie/Optus/Orange/ORANGE/Orange Lichtenstein/Orascom/Oredoo/Oreedo/Partner/Pelephone/Personal/Plus/Primetel/Proximus/Roshan/Salt/SaskTel/Setel Netherlands Antilles/Siminn (Landssíminn)/Singtel/SK Telecom/Smart/Smartfren/SoftBank/Spark/STC/Sunrise/T-Mobile/Tango/TDC/nuuday/Telcel/Tele2/Tele2 Russia/Telecom Liechtenstein AG/Telef/Telefonica/Telekom/Telemach/Telenet/Telenor (Vodafone)/Telenor/Telia/Telkom/Telkomsel/Telus/Tigo/Tigo/Telecel/TIM/TMN/MEO/Tunisie Telecom/Turk Telekom/U-Mobile/UCOM/Verizon/Vi - Assam/Vi - Kolkata/Vi - Maharashtra & Goa/Vi - Maharashtra and Goa/Vinaphone/VIPnet/Vivacell/Vivacom Bulgarian/Vivo/Vodafone/Vodafone Czech Republic/Vodafone India (Mumbai)/Vodafone India Essar/Vodafone India Essar BT/Wind Greece (Nova)/Wind/WOM/XL Axiata/Yettel/Zain/ZAIN Congo RDC/ZAIN/Zain/Airtel/Celtel/ZAIN/Celtel/Zain/CelTel.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|10GB|30|29.99|10|rp_kwgst6_v13yba|
+|20GB|90|48.99|20|rp_k2hzq9_3q9t3h|
+|40GB|180|75.49|40|rp_kchlf8_rqtlls|
+|80GB|365|145.99|80|rp_kmh747_1swisy3|
+
+#### Global: Yellow; Coverage: US, FR, CN, ES, IT, TR, GB, DE, MX, TH, HK, MY, GR, CA, KR, JP, SG, AL, AD, AE, AR, AM, AU, AT, AZ, BE, BD, BH, BS, BY, BM, BR, BN, BW, CF, CH, CI, CM, CD, CO, CR, CW, KY, CY, CZ, DM, DK, DO, DZ, EC, EG, EE, ET, FI, FJ, FO, GE, GG, GH, GI, GN, GP, GW, GD, GL, GT, GF, GY, HN, HR, HU, ID, IM, IN, IE, IR, IQ, IS, IL, JM, JE, JO, KZ, KH, KN, KW, LC, LI, LK, LT, LU, LV, MO, MF, MA, MC, MD, MG, MK, MT, ME, MN, MZ, MQ, NG, NI, NL, NO, NZ, OM, PK, PE, PH, PL, PT, QA, RE, RO, RU, RW, SA, SN, SV, RS, SK, SI, SE, SX, TD, TN, TW, TZ, UG, UA, UY, UZ, VN, ZA, CW, XK, USPR, FR-GP.
+
+Networks: T-Mobile USA Inc./Verizon Wireless/US Cellular/Orange France/SFR/Bouygues Telecom/Free Mobile/China Unicom/China Telecom/China Mobile/Orange/ILIAD Italia S.p.A./TIM Italy/Wind Tre S.p.A./AVEA/Hutchison 3G UK Ltd./EE/O2/Vodafone/Vodafone D2 GmbH/Telefonica Germany GmbH & Co. OHG/Telcel Mexico/Telefonica/Advance Wireless Network Company Limited/TrueMove/AIS/Hong Kong Telecommunications (HKT) Limited/Maxis/Celcom Axiata Berhad/WIND Hellas Telecommunications S.A./Bell Mobility Inc./Rogers/Telus/SK Telecom/LGUplus/KDDI/SoftBank Corp./StarHub Mobile Pte Ltd./SingTel Mobile Singapore Pte. Ltd/One Albania/Servei de Telecomunicacions d'Andorra (STA)/Du/Telefonica Moviles Argentina S.A (Movistar)/K-Telecom CJSC/Singtel Optus Ltd/Hutchison Drei Austria GmbH/A1/Bakcell Ltd/Proximus PLC/GrameenPhone Ltd./Viva (STC) Bahrain/Be Aliv Limited/FE Velcom/Digicel Jamaica/TIM Brasil/DST Communications Sdn Bhd/Mascom Wireless Botswana (Pty) Limited/Sunrise Communications AG/Salt/Orange Côte d'Ivoire S.A/Orange Cameroun S.A./Orange RDC Sarl/Colombia Movil S.A. (Tigo)/Claro CR/Digicel Curacao/Cable & Wireless/PrimeTel PLC/MTN Ltd/Vodafone Czech Republic a.s./O2 Czech Republic/Hi3G Denmark Aps/Altice Dominicana, S.A./Compa?ia Dominicana de Telefonos S.A. (Claro)/Algerie Telecom Mobile (ATM)/Telefonica Ecuador/Claro/Orange Egypt for Telecommunications/Telia Eesti AS/Tele2 Eesti AS/Ethio Telecom (ET)/Telia Finland/Alands Mobiltelefon/Digicel (Fiji) Ltd/Faroese Telecom/Geocell Ltd/Mobitel LLC/JT (Jersey) Ltd/Sure/Gibtelecom Ltd./Orange Guinee/Orange Caraibe/Orange Bissau/Digicel/TELE Greenland A/S/Comcel (Comunicaciones Celulares S.A.)/Digicel Guyana/Telefonica Celular S.A. (Celtel / Tigo)/Telemach/TM/VIPnet d.o.o./Telenor Hungary Ltd. (former: Pannon GSM Telekommunication)/Vodafone Hungary Ltd./PT Telekomunikasi Selular (Telkomsel)/Reliance Jio West Bengal/Reliance Jio India Andhra Pradesh/Reliance Jio India Assam/Reliance Jio India Bihar/Reliance Jio India Gujarat/Reliance Jio India Haryana/Reliance Jio India Himachal Pradesh/Reliance Jio India Karnataka/Reliance Jio India Kerala/Reliance Jio India Madhya Pradesh/Reliance Jio India Maharashtra/Reliance Jio India North East/Reliance Jio India Orissa/Reliance Jio India Punjab/Reliance Jio India Rajasthan/Reliance Jio India Tamil Nadu/Reliance Jio India Uttar Pradesh (West)/Reliance Jio India Uttar Pradesh (East)/Reliance Jio India Delhi/Reliance Jio India Kolkata/Reliance Jio Infocomm Limited/Meteor Mobile Telecommunications Ltd./MCI(TCI)/Zain IRAQ/Siminn / Iceland Telecom Ltd./Pelephone Communications Ltd/Cellcom Israel Ltd./Umniah/Kcell/Kar-Tel LLP/CamGSM (Cellcard)/Viettel/Kuwait Telecom Company/Telecom Liechtenstein AG/Salt (Liechtenstein) AG/Hutchison Telecom Sri Lanka/Tele2 UAB Lithuania/Tango S.A./Tele2 Latvia/CTM - Companhia de Telecomunica?oes de Macau S.A.R.L./Medi Telecom S.A./Monaco Telecom S.A.M./Orange Moldova/Orange Madagascar S.A./one.Vip DOO Skopje/Vodafone Malta Limited/MTEL d.o.o/Crnogorski Telekom A.D./Unitel/MobiCom Corporation/Vodacom/Airtel Networks Nigeria Ltd. (Zain/Celtel)/Telefonica Moviles Nicaragua/KPN/Telia Norge AS/Telenor Norge/Spark New Zealand/Omantel/Ooredoo/Telenor Pakistan/Entel Peru/Globe Telecom/SMART Communications Inc/ORANGE (PTK Centertel Sp. z.o.o.)/Polkomtel S.A./P4 Play/MEO - Servi?os de Comunica??es e Multim?dia SA/Vodafone Qatar/Orange Reunion/Vodafone Romania S.A./Orange Romania S.A./Telekom Romania Mobile Communications/MTS/Airtel Rwanda Limited/Mobily (Etihad Etisalat Company)/Zain/SONATEL/Digicel S.A. de C.V./Telemovil El Salvador/CTE S.A. de C.V. (Claro)/Vip mobile d.o.o. (Topnet /Novi Operater)/Orange Slovensko a.s./O2 Slovakia, s.r.o./A1 Slovenija, d.d/Telemach d.o.o./Hi3G Access AB (3)/Tele2 Sverige AB/UTS NV./Airtel Tchad S.A. (former: Zain)/Orange Tunisie, SA/Chunghwa Telecom Mobile/Taiwan Mobile Ltd./Far EasTone Ltd./Airtel Tanzania Ltd. (former: Zain/Celtel)/Airtel Uganda Ltd./PrJSC VF Ukraine/LLC lifecell/Claro (CTI)/Telefonica Moviles UY/Ucell/Unitel LLC (Beeline)/VNPT International/Vodacom Pty Ltd./IPKO Telecommunications LLC/Claro (Puerto Rico Telephone Company Inc.).
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|60GB|125|197.99|60|rp_1wji44m_fob9qq|
+
+#### Global: Purple, unlimited at up to 0.384 Mbps
+Coverage: AE, AL, AM, AR, AT, AU, AZ, BA, BE, BG, BO, BR, BW, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CY, CZ, DE, DK, EC, EE, EG, ES, FI, FR, GA, GB, GH, GI, GR, GT, GU, GW, HK, HN, HR, HU, ID, IE, IL, IN, IS, IT, JO, JP, KE, KG, KR, KW, KZ, LI, LK, LR, LT, LU, LV, MA, MD, ME, MG, MK, ML, MT, MU, MW, MX, MY, NE, NG, NI, NL, NO, NZ, OM, PA, PE, PH, PK, PL, PR, PT, PY, QA, RO, RS, SA, SC, SE, SG, SI, SK, SN, SV, SZ, TD, TH, TN, TR, TW, TZ, UA, UG, US, UY, UZ, XK, ZA, ZM.
+Networks: One Albania/Vodafone/Movistar/Beeline/MTS/Optus/3/Bakcell/Proximus/Orange/Base/Tigo/HT-ERONET/BH Mobile/Mascom/TIM/Claro/Vivo/Vivacom/MTN Cameroon/Rogers Wireless/Videotron/Airtel/movistar/WOM/China Mobile/China Unicom/Tele2/A1/PrimeTel/O2/TDC/Telia/Etisalat/Elisa/Swazi MTN/Swazi Mobile/Telia / DNA/SFR/Bouygues/Free Mobile/MTN/AirtelTigo/GibTel/Wind/IT&E Wireless/MTN Areeba/SmarTone/csl/1010/Telenor Hungary/Nova/AirTel/Jio/Indosat/Telkomsel/Partner/Hot Mobile/Pelephone/PHI Networks/NTT docomo/KDDI/au/Rakuten Mobile/Zain/Umniah/Tele2.kz/IPKO/Ooredoo/LMT/Bite/Lonestar Cell MTN/7acht/FL1/BITĖ/Tango/POST/U Mobile/CelcomDigi/GO/Melita/my.t/Telcel/Unité/Telenor/m:tel CG/T-Mobile/Orange Morocco/KPN/One NZ/Spark/Telekom.mk/vip/Omantel/Jazz/SMART/Play/Plus/NOS/MEO/ooredoo/Digi.Mobil/Mobily/VIP/mts/StarHub/SingTel/TPG Telecom/Mobitel/Telemach/Vodacom/Cell C/Telkom/SKTelecom/Yoigo/Dialog/Hutch/Sunrise/Salt/Swisscom/Chunghwa/FarEasTone/TrueMove H/CAT/AIS/Turkcell/lifecell/Kyivstar/Verizon/Antel.
+Purchase link: https://esim.dog/regions?region=global&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+Data parameter: unlimited. Selection: rp_svu7ot_u15ru1. Full package prices (days=USD):
+1=4.99;2=8.50;3=11.99;4=16.99;5=21.99;6=26.99;7=31.99;8=35.32;9=38.66;10=41.99;11=47.99;12=53.99;13=59.99;14=65.99;15=71.99
+16=75.23;17=78.47;18=81.70;19=84.94;20=88.18;21=95.99;22=103.81;23=111.62;24=119.44;25=127.25;26=135.06;27=142.88;28=150.69;29=158.51;30=166.32
+31=168.03;32=169.74;33=171.45;34=173.17;35=174.88;36=176.59;37=178.30;38=180.01;39=181.72;40=183.43;41=185.14;42=186.86;43=188.57;44=190.28;45=191.99
+46=193.70;47=195.41;48=197.12;49=198.84;50=200.55;51=202.26;52=203.97;53=205.68;54=207.39;55=209.10;56=210.81;57=212.53;58=214.24;59=215.95;60=217.66
+61=251.00;62=255.00;63=259.00;64=263.00;65=268.00;66=272.00;67=276.00;68=280.00;69=284.00;70=288.00;71=292.00;72=296.00;73=300.00;74=305.00;75=309.00
+76=313.00;77=317.00;78=321.00;79=325.00;80=329.00;81=333.00;82=337.00;83=341.00;84=346.00;85=350.00;86=354.00;87=358.00;88=362.00;89=366.00;90=370.00
+91=374.00;92=378.00;93=383.00;94=387.00;95=391.00;96=395.00;97=399.00;98=403.00;99=407.00;100=411.00;101=415.00;102=420.00;103=424.00;104=428.00;105=432.00
+106=436.00;107=440.00;108=444.00;109=448.00;110=452.00;111=457.00;112=461.00;113=465.00;114=469.00;115=473.00;116=477.00;117=481.00;118=485.00;119=489.00;120=493.00
+121=498.00;122=502.00;123=506.00;124=510.00;125=514.00;126=518.00;127=522.00;128=526.00;129=530.00;130=535.00;131=539.00;132=543.00;133=547.00;134=551.00;135=555.00
+136=559.00;137=563.00;138=567.00;139=572.00;140=576.00;141=580.00;142=584.00;143=588.00;144=592.00;145=596.00;146=600.00;147=604.00;148=609.00;149=613.00;150=617.00
+151=621.00;152=625.00;153=629.00;154=633.00;155=637.00;156=641.00;157=645.00;158=650.00;159=654.00;160=658.00;161=662.00;162=666.00;163=670.00;164=674.00;165=678.00
+166=682.00;167=687.00;168=691.00;169=695.00;170=699.00;171=703.00;172=707.00;173=711.00;174=715.00;175=719.00;176=724.00;177=728.00;178=732.00;179=736.00;180=740.00
+

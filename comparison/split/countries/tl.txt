@@ -1,0 +1,53 @@
+# eSIM.dog: Timor-Leste
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Timor-Leste (TL)
+
+#### Timor-Leste: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/tl?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|3.99|1|
+|1GB|7|4.99|1|
+|2GB|15|7.49|2|
+|3GB|30|8.99|3|
+|5GB|30|13.99|5|
+|5GB|60|12.38|5|
+|10GB|30|23.99|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|67.26|20|
+
+#### Timor-Leste: fixed data, Pink
+Networks: Multiple Networks. Internet exit: SG.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/tl?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|1.39|1|
+|2GB|1|2.50|2|
+
+#### Timor-Leste: fixed data, Blue
+Networks: See product page. Internet exit: SG.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/tl?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|1.39|1|
+|3GB|15|3.13|3|
+|3GB|30|3.33|3|
+|5GB|30|5.23|5|
+|10GB|30|9.09|10|
+|20GB|30|18.49|20|
+

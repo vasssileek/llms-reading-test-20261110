@@ -1,0 +1,241 @@
+# eSIM.dog: Mozambique
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Mozambique (MZ)
+
+#### Mozambique: fixed data, Black; Networks: VM. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mz?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|15|0.98|0.09999999962747097|
+|500MB|1|5.49|0.5|
+|500MB|2|5.99|0.5|
+|500MB|3|5.99|0.5|
+|500MB|5|6.49|0.5|
+|1GB|1|9.99|1|
+|1GB|2|10.99|1|
+|1GB|3|11.49|1|
+|1GB|4|11.99|1|
+|1GB|6|12.49|1|
+|2GB|1|16.49|2|
+|2GB|2|18.49|2|
+|2GB|3|19.49|2|
+|2GB|5|19.99|2|
+|2GB|9|20.99|2|
+|2GB|10|21.49|2|
+|2GB|14|22.99|2|
+|2GB|25|24.49|2|
+|2GB|30|25.49|2|
+|3GB|1|25.99|3|
+|3GB|2|29.49|3|
+|3GB|3|30.49|3|
+|3GB|5|31.49|3|
+|3GB|9|33.49|3|
+|3GB|10|33.99|3|
+|3GB|14|35.99|3|
+|3GB|25|38.49|3|
+|3GB|60|39.99|3|
+|4GB|1|32.99|4|
+|4GB|2|37.49|4|
+|4GB|3|38.49|4|
+|4GB|5|39.99|4|
+|4GB|9|42.49|4|
+|4GB|10|42.99|4|
+|4GB|15|45.99|4|
+|4GB|25|48.49|4|
+|4GB|30|50.99|4|
+|5GB|1|37.99|5|
+|5GB|2|42.99|5|
+|5GB|15|52.99|5|
+|5GB|45|59.49|5|
+|6GB|15|52.99|6|
+|6GB|25|56.49|6|
+|6GB|30|59.49|6|
+|7GB|1|57.99|7|
+|7GB|2|65.99|7|
+|7GB|3|68.49|7|
+|7GB|5|70.49|7|
+|7GB|9|74.99|7|
+|7GB|10|76.49|7|
+|7GB|15|81.49|7|
+|7GB|25|85.99|7|
+|9GB|1|61.99|9|
+|9GB|2|70.49|9|
+|9GB|3|72.99|9|
+|9GB|5|75.49|9|
+|9GB|9|79.99|9|
+|9GB|10|81.49|9|
+|9GB|15|86.99|9|
+|9GB|25|91.99|9|
+|9GB|30|96.99|9|
+|10GB|1|70.49|10|
+|10GB|2|79.99|10|
+|10GB|3|82.99|10|
+|10GB|5|85.99|10|
+|10GB|9|90.99|10|
+|10GB|10|92.99|10|
+|10GB|15|98.49|10|
+|10GB|25|104.49|10|
+|12GB|1|76.99|12|
+|12GB|2|87.49|12|
+|12GB|3|90.99|12|
+|12GB|5|93.99|12|
+|12GB|9|99.99|12|
+|12GB|10|101.49|12|
+|12GB|15|107.99|12|
+|12GB|25|114.49|12|
+|12GB|30|120.49|12|
+|15GB|1|95.99|15|
+|15GB|2|109.49|15|
+|15GB|3|113.49|15|
+|15GB|5|117.49|15|
+|15GB|9|124.49|15|
+|15GB|10|126.99|15|
+|15GB|15|134.99|15|
+|15GB|25|142.99|15|
+|15GB|30|150.49|15|
+|15GB|80|155.49|15|
+|15GB|90|157.99|15|
+|20GB|1|141.49|20|
+|20GB|2|160.49|20|
+|20GB|3|166.49|20|
+|20GB|5|172.49|20|
+|20GB|9|182.99|20|
+|20GB|10|185.99|20|
+|20GB|15|197.99|20|
+|20GB|25|209.99|20|
+|20GB|60|220.99|20|
+|20GB|70|223.99|20|
+|20GB|80|227.99|20|
+|20GB|90|232.49|20|
+
+#### Mozambique: fixed data, Amber Essential
+Networks: VM. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/mz?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|30|0.98|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|15|4.38|0.5|
+|500MB|30|4.38|0.5|
+|500MB|90|4.94|0.5|
+|1GB|9|4.94|1|
+|1GB|10|4.94|1|
+|1GB|15|4.94|1|
+|1GB|25|5.54|1|
+|1GB|60|7.25|1|
+|1GB|90|7.25|1|
+|2GB|60|9.89|2|
+|2GB|90|14.84|2|
+|3GB|80|19.79|3|
+|3GB|90|19.79|3|
+|4GB|70|23.99|4|
+|4GB|80|23.99|4|
+|4GB|90|23.99|4|
+|6GB|1|18.99|6|
+|6GB|2|21.49|6|
+|6GB|3|22.49|6|
+|6GB|5|23.49|6|
+|6GB|9|24.49|6|
+|6GB|10|24.99|6|
+|6GB|60|29.69|6|
+|6GB|70|29.69|6|
+|6GB|80|29.69|6|
+|6GB|90|29.69|6|
+|7GB|60|39.59|7|
+|7GB|70|39.59|7|
+|7GB|80|43.53|7|
+|7GB|90|43.53|7|
+|8GB|80|43.53|8|
+|9GB|60|43.53|9|
+|9GB|70|43.53|9|
+|9GB|80|43.53|9|
+|9GB|90|43.53|9|
+|10GB|60|49.49|10|
+|10GB|70|49.49|10|
+|10GB|80|49.49|10|
+|10GB|90|56.98|10|
+|12GB|60|61.99|12|
+|12GB|70|61.99|12|
+|12GB|80|61.99|12|
+|12GB|90|61.99|12|
+|15GB|60|65.85|15|
+|15GB|70|65.85|15|
+|30GB|1|91.99|30|
+|30GB|2|118.99|30|
+|30GB|3|118.99|30|
+|30GB|5|118.99|30|
+|30GB|9|118.99|30|
+|30GB|10|120.99|30|
+|30GB|15|128.49|30|
+|30GB|25|136.49|30|
+|30GB|30|143.49|30|
+|30GB|60|131.55|30|
+|30GB|70|148.49|30|
+|30GB|80|148.49|30|
+|40GB|1|119.49|40|
+|40GB|2|135.99|40|
+|40GB|3|145.48|40|
+|40GB|5|145.99|40|
+
+#### Mozambique: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mz?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.48|1|
+|1GB|7|2.98|1|
+|2GB|15|5.44|2|
+|3GB|30|6.84|3|
+|5GB|30|13.99|5|
+|5GB|60|12.38|5|
+|10GB|30|23.99|10|
+|10GB|180|66.49|10|
+|20GB|30|32.98|20|
+|20GB|365|67.26|20|
+|60GB|125|175.81|60|
+
+#### Mozambique: fixed data, Black; Networks: VM Mozambique. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mz?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|5|11.99|1|
+|1GB|7|12.49|1|
+|2GB|15|22.99|2|
+|3GB|15|35.99|3|
+|3GB|30|39.99|3|
+|5GB|30|59.49|5|
+|5GB|60|59.49|5|
+|10GB|30|109.99|10|
+|20GB|30|220.99|20|
+
+#### Mozambique: fixed data, Blue
+Networks: Vodafone. Internet exit: US.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/mz?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|5.49|1|
+|2GB|15|8.99|2|
+|3GB|15|12.99|3|
+|3GB|30|13.99|3|
+|5GB|30|21.49|5|
+|10GB|30|38.99|10|
+|20GB|30|74.49|20|
+

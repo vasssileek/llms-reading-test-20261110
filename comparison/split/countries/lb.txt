@@ -1,0 +1,103 @@
+# eSIM.dog: Lebanon
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Lebanon (LB)
+
+#### Lebanon: fixed data, Black; Networks: Alfa Lebanon/Touch Lebanon. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/lb?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|500MB|1|283.49|0.5|
+|500MB|5|7.99|0.5|
+|500MB|10|6.36|0.5|
+|500MB|15|7.48|0.5|
+|500MB|30|7.90|0.5|
+|500MB|60|12.38|0.5|
+|1GB|1|288.99|1|
+|1GB|4|267.99|1|
+|1GB|6|260.99|1|
+|1GB|15|17.99|1|
+|1GB|30|19.99|1|
+|1GB|60|19.99|1|
+|1GB|90|23.99|1|
+|2GB|1|296.99|2|
+|2GB|4|277.49|2|
+|2GB|6|270.99|2|
+|2GB|14|261.99|2|
+|2GB|30|33.99|2|
+|2GB|60|33.99|2|
+|3GB|14|277.49|3|
+|3GB|25|271.49|3|
+|3GB|60|53.49|3|
+|4GB|14|288.99|4|
+|4GB|30|68.49|4|
+|6GB|30|78.99|6|
+|9GB|30|129.49|9|
+|12GB|30|160.99|12|
+|15GB|30|200.99|15|
+|30GB|10|773.49|30|
+|30GB|15|773.99|30|
+|30GB|20|774.49|30|
+|30GB|30|775.49|30|
+|30GB|45|776.99|30|
+|30GB|60|778.49|30|
+|30GB|90|781.49|30|
+
+#### Lebanon: fixed data, Amber Essential
+Networks: Alfa Lebanon/Touch Lebanon. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/lb?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|3|0.98|0.09999999962747097|
+|100MB|30|0.98|0.09999999962747097|
+|2GB|90|23.99|2|
+|3GB|90|23.99|3|
+|4GB|70|37.99|4|
+|4GB|90|37.99|4|
+|6GB|90|37.99|6|
+|30GB|1|118.99|30|
+|30GB|5|131.71|30|
+
+#### Lebanon: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/lb?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|3.77|1|
+|2GB|15|6.36|2|
+|3GB|30|7.90|3|
+|5GB|30|12.38|5|
+|5GB|60|12.38|5|
+|10GB|30|19.89|10|
+|10GB|180|58.99|10|
+|20GB|30|34.45|20|
+|20GB|365|67.26|20|
+
+#### Lebanon: fixed data, Black; Networks: Touch Lebanon/Alfa Lebanon. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/lb?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|260.99|1|
+|2GB|15|261.99|2|
+|3GB|30|53.49|3|
+|5GB|30|78.99|5|
+|5GB|60|291.49|5|
+|10GB|30|146.99|10|
+

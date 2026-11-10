@@ -1,0 +1,21 @@
+# eSIM.dog: Regional (3 countries)
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Regional (3 countries) (regional)
+
+#### Regional (3 countries): Blue
+Coverage: AU, GB, US.
+Networks: Optus/O2/Vodafone/3/Verizon.
+Purchase link: https://esim.dog/regions?region=regional&data={data_parameter}&validity={days}&plan={selection}&vpn=false
+|Data|Days|USD|Data parameter|Selection|
+|---|---:|---:|---:|---|
+|1GB|30|3.04|1|rp_1nq63q3_1j3vqrj|
+|3GB|30|8.99|3|rp_14k1dk5_x7afhl|
+

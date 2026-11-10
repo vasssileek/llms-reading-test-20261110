@@ -1,0 +1,298 @@
+# eSIM.dog: French Polynesia
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### French Polynesia (PF)
+
+#### French Polynesia: fixed data, Black
+Networks: Vini S A S. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/pf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.98|0.09999999962747097|
+|100MB|25|0.98|0.09999999962747097|
+|500MB|1|5.49|0.5|
+|500MB|3|5.99|0.5|
+|500MB|90|9.89|0.5|
+|1GB|1|9.49|1|
+|1GB|2|10.49|1|
+|1GB|3|10.99|1|
+|1GB|4|11.49|1|
+|1GB|5|11.49|1|
+|1GB|6|11.99|1|
+|1GB|7|11.99|1|
+|2GB|1|15.49|2|
+|2GB|2|17.99|2|
+|2GB|3|18.49|2|
+|2GB|5|18.99|2|
+|2GB|9|20.49|2|
+|2GB|10|20.49|2|
+|2GB|14|21.99|2|
+|2GB|15|21.99|2|
+|2GB|25|22.99|2|
+|2GB|30|24.49|2|
+|3GB|1|24.49|3|
+|3GB|2|27.99|3|
+|3GB|3|28.99|3|
+|3GB|5|29.99|3|
+|3GB|9|31.99|3|
+|3GB|10|32.49|3|
+|3GB|14|34.49|3|
+|3GB|15|34.49|3|
+|3GB|25|36.49|3|
+|3GB|30|38.49|3|
+|3GB|60|38.49|3|
+|4GB|1|31.49|4|
+|4GB|2|35.49|4|
+|4GB|3|36.99|4|
+|4GB|5|37.99|4|
+|4GB|9|40.49|4|
+|4GB|10|41.49|4|
+|4GB|15|43.99|4|
+|4GB|25|46.49|4|
+|4GB|60|48.99|4|
+|5GB|2|41.49|5|
+|5GB|9|46.99|5|
+|5GB|30|56.49|5|
+|5GB|45|56.49|5|
+|5GB|60|56.49|5|
+|6GB|14|50.99|6|
+|6GB|15|50.99|6|
+|6GB|25|53.99|6|
+|6GB|30|56.49|6|
+|7GB|1|55.49|7|
+|7GB|2|62.99|7|
+|7GB|3|65.49|7|
+|7GB|5|67.49|7|
+|7GB|9|71.99|7|
+|7GB|10|72.99|7|
+|7GB|15|77.49|7|
+|7GB|25|82.49|7|
+|7GB|30|86.49|7|
+|8GB|30|92.49|8|
+|9GB|1|58.99|9|
+|9GB|2|67.49|9|
+|9GB|3|69.49|9|
+|9GB|5|71.99|9|
+|9GB|9|76.49|9|
+|9GB|10|77.99|9|
+|9GB|15|82.99|9|
+|9GB|25|87.99|9|
+|9GB|30|92.49|9|
+|10GB|1|67.49|10|
+|10GB|2|76.49|10|
+|10GB|3|79.49|10|
+|10GB|5|81.99|10|
+|10GB|9|86.99|10|
+|10GB|10|88.49|10|
+|10GB|14|94.49|10|
+|10GB|15|94.49|10|
+|10GB|25|99.99|10|
+|10GB|30|105.49|10|
+|12GB|3|86.99|12|
+|12GB|5|89.99|12|
+|12GB|9|95.49|12|
+|12GB|10|96.99|12|
+|12GB|15|102.99|12|
+|12GB|25|109.49|12|
+|12GB|30|114.99|12|
+|15GB|1|91.99|15|
+|15GB|2|104.49|15|
+|15GB|3|108.49|15|
+|15GB|5|111.99|15|
+|15GB|9|118.99|15|
+|15GB|10|120.99|15|
+|15GB|14|128.99|15|
+|15GB|15|128.99|15|
+|15GB|25|136.49|15|
+|15GB|30|143.99|15|
+|15GB|90|150.99|15|
+|20GB|1|134.99|20|
+|20GB|2|153.49|20|
+|20GB|3|158.99|20|
+|20GB|5|164.49|20|
+|20GB|9|174.99|20|
+|20GB|10|177.99|20|
+|20GB|15|189.49|20|
+|20GB|25|200.99|20|
+|20GB|30|211.49|20|
+|20GB|60|211.49|20|
+|20GB|70|213.99|20|
+|20GB|80|217.99|20|
+|20GB|90|221.99|20|
+
+#### French Polynesia: fixed data, Amber Essential
+Networks: Vini S A S. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/pf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|30|0.98|0.09999999962747097|
+|500MB|7|3.22|0.5|
+|500MB|25|3.22|0.5|
+|500MB|30|3.22|0.5|
+|1GB|9|5.11|1|
+|1GB|10|5.11|1|
+|1GB|15|5.11|1|
+|1GB|25|5.11|1|
+|1GB|60|9.89|1|
+|1GB|90|9.89|1|
+|2GB|80|19.98|2|
+|2GB|90|19.98|2|
+|3GB|70|19.98|3|
+|3GB|90|19.98|3|
+|4GB|70|23.99|4|
+|4GB|80|23.99|4|
+|4GB|90|23.99|4|
+|5GB|70|23.99|5|
+|5GB|80|30.98|5|
+|6GB|1|15.94|6|
+|6GB|3|19.94|6|
+|6GB|5|19.94|6|
+|6GB|10|19.94|6|
+|6GB|90|30.98|6|
+|7GB|60|37.99|7|
+|7GB|70|37.99|7|
+|7GB|80|37.99|7|
+|7GB|90|51.89|7|
+|9GB|70|51.89|9|
+|9GB|80|51.89|9|
+|9GB|90|51.89|9|
+|10GB|60|51.89|10|
+|10GB|70|51.89|10|
+|10GB|80|51.89|10|
+|10GB|90|51.89|10|
+|12GB|1|36.99|12|
+|12GB|2|41.99|12|
+|12GB|60|51.89|12|
+|12GB|70|51.89|12|
+|12GB|80|51.89|12|
+|12GB|90|55.80|12|
+|15GB|60|61.99|15|
+|15GB|70|72.99|15|
+|15GB|80|74.49|15|
+|30GB|1|87.49|30|
+|30GB|2|99.49|30|
+|30GB|3|103.49|30|
+|30GB|5|106.99|30|
+|30GB|10|118.99|30|
+|30GB|15|122.99|30|
+|30GB|25|130.49|30|
+|30GB|30|137.49|30|
+|30GB|60|137.49|30|
+|30GB|70|138.99|30|
+|30GB|80|141.49|30|
+|30GB|90|144.98|30|
+|40GB|1|118.99|40|
+|40GB|2|129.99|40|
+|40GB|3|134.49|40|
+|40GB|5|139.49|40|
+
+#### French Polynesia: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/pf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|3.77|1|
+|2GB|15|6.36|2|
+|3GB|30|7.90|3|
+|5GB|30|11.19|5|
+|5GB|60|12.38|5|
+|10GB|30|19.98|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|67.26|20|
+
+#### French Polynesia: fixed data, Blue
+Networks: Vini. Internet exit: IL.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/pf?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|13.99|1|
+|1GB|7|14.99|1|
+|2GB|1|25.99|2|
+|3GB|1|43.99|3|
+|3GB|15|38.99|3|
+|3GB|30|41.49|3|
+|5GB|30|64.99|5|
+|10GB|1|104.99|10|
+|10GB|30|117.99|10|
+|20GB|30|242.49|20|
+
+#### French Polynesia: 500MB high-speed data per day, then unlimited at 512 Kbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=0.5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=12.72;2=26.15;3=46.70;4=61.89;5=74.35;6=89.43;7=104.51;8=117.95;9=131.40;10=144.84;11=159.43;12=174.02;13=188.61;14=203.20;15=217.79
+16=229.76;17=241.73;18=253.69;19=265.66;20=277.63;21=291.56;22=305.50;23=319.43;24=333.37;25=347.30;26=358.52;27=369.74;28=380.97;29=392.19;30=403.41
+31=416.85;32=430.29;33=443.73;34=457.16;35=470.60;36=484.04;37=497.48;38=510.92;39=524.36;40=537.80;41=551.24;42=564.67;43=578.11;44=591.55;45=604.99
+46=618.43;47=631.87;48=645.31;49=658.74;50=672.18;51=685.62;52=699.06;53=712.50;54=725.94;55=739.38;56=752.82;57=766.25;58=779.69;59=793.13;60=806.57
+
+#### French Polynesia: 1GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=1&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.18;2=26.35;3=53.75;4=70.45;5=84.54;6=101.58;7=118.63;8=133.83;9=149.02;10=164.22;11=180.71;12=197.21;13=213.70;14=230.19;15=246.68
+16=260.21;17=273.74;18=287.26;19=300.79;20=314.32;21=330.07;22=345.82;23=361.58;24=377.33;25=393.08;26=405.65;27=418.23;28=430.80;29=443.38;30=455.95
+31=471.14;32=486.34;33=501.53;34=516.72;35=531.91;36=547.11;37=562.30;38=577.49;39=592.68;40=607.88;41=623.07;42=638.26;43=653.45;44=668.65;45=683.84
+46=699.03;47=714.23;48=729.42;49=744.61;50=759.80;51=775.00;52=790.19;53=805.38;54=820.57;55=835.77;56=850.96;57=866.15;58=881.34;59=896.54;60=911.73
+
+#### French Polynesia: 2GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=2&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=24.80;2=49.59;3=74.39;4=99.18;5=118.81;6=142.57;7=171.50;8=192.68;9=213.85;10=235.03;11=256.72;12=278.42;13=300.11;14=321.80;15=361.31
+16=380.16;17=399.02;18=417.87;19=436.73;20=455.58;21=461.01;22=487.61;23=514.21;24=540.81;25=567.41;26=584.71;27=602.02;28=619.32;29=636.63;30=653.93
+
+#### French Polynesia: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=41.84;2=83.68;3=125.52;4=167.36;5=200.48;6=240.57;7=289.38;8=325.11;9=360.85;10=396.58;11=433.19;12=469.80;13=506.41;14=543.02;15=609.70
+16=641.51;17=673.33;18=705.14;19=736.96;20=768.77;21=777.93;22=822.82;23=867.71;24=912.60;25=957.49
+
+#### French Polynesia: 5GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=5&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=54.24;2=108.47;3=162.71;4=216.94;5=259.88;6=311.85;7=375.13;8=421.45;9=467.78;10=514.10;11=561.56;12=609.01;13=656.46;14=703.92;15=790.36
+16=831.60;17=872.84;18=914.08;19=955.32;20=996.56
+
+#### French Polynesia: 10GB high-speed data per day, then unlimited at 512 Kbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=10&fup=512kbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=100.74;2=201.47;3=302.20;4=402.93;5=482.67;6=579.20;7=696.72;8=782.76;9=868.80;10=954.84
+
+#### French Polynesia: 1GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&limit=1&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=15.50;2=31.00;3=54.03;4=70.82;5=84.98;6=102.10;7=119.24;8=134.51;9=149.79;10=165.06;11=181.64;12=198.21;13=214.79;14=231.36;15=247.93
+16=261.53;17=275.12;18=288.72;19=302.31;20=315.91;21=331.74;22=347.57;23=363.40;24=379.23;25=395.06;26=407.70;27=420.33;28=432.97;29=445.60;30=458.24
+31=473.51;32=488.78;33=504.05;34=519.31;35=534.58;36=549.85;37=565.12;38=580.39;39=595.66;40=610.93;41=626.20;42=641.46;43=656.73;44=672.00;45=687.27
+46=702.54;47=717.81;48=733.08;49=748.34;50=763.61;51=778.88;52=794.15;53=809.42;54=824.69;55=839.96;56=855.23;57=870.49;58=885.76;59=901.03;60=916.30
+
+#### French Polynesia: Fully unlimited, up to 1 Mbps
+Networks: Vini.
+Purchase link: https://esim.dog/pf?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=12.26;2=25.95;3=39.64;4=53.32;5=64.16;6=77.27;7=90.39;8=103.50;9=116.62;10=125.46;11=138.15;12=150.83;13=163.52;14=176.21;15=188.90
+16=201.59;17=214.27;18=226.96;19=239.65;20=240.93;21=253.05;22=265.17;23=277.29;24=289.40;25=301.52;26=313.64;27=325.76;28=337.87;29=349.99;30=350.87
+31=362.40;32=374.09;33=385.78;34=397.47;35=409.16;36=420.85;37=432.54;38=444.23;39=455.92;40=467.61;41=479.30;42=490.99;43=502.68;44=514.37;45=526.06
+46=537.75;47=549.44;48=561.13;49=572.82;50=584.51;51=596.20;52=607.89;53=619.58;54=631.27;55=642.96;56=654.65;57=666.34;58=678.03;59=689.72;60=701.41
+61=713.10;62=724.79;63=736.48;64=748.17;65=759.86;66=771.55;67=783.24;68=794.93;69=806.62;70=818.31;71=830.00;72=841.69;73=853.38;74=865.07;75=876.76
+76=888.45;77=900.14;78=911.83;79=923.52;80=935.21;81=946.90;82=958.59;83=970.28;84=981.97;85=993.66
+

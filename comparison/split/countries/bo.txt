@@ -1,0 +1,295 @@
+# eSIM.dog: Bolivia
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Bolivia (BO)
+
+#### Bolivia: fixed data, Blue; Networks: VIVA. Internet exit: UK.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|7|1.99|0.09765625|
+|500MB|7|4.49|0.48828125|
+|3GB|1|14.99|3|
+|3GB|15|15.99|3|
+
+#### Bolivia: fixed data, Black; Networks: VIVA Bolivia. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|7|1.49|0.09765625|
+|1GB|3|2.24|1|
+|1GB|5|2.24|1|
+|1GB|7|2.35|1|
+|2GB|15|4.36|2|
+|3GB|1|4.97|3|
+|3GB|7|4.98|3|
+|3GB|15|5.42|3|
+|3GB|30|5.42|3|
+|5GB|1|7.53|5|
+|5GB|6|7.97|5|
+|5GB|7|7.97|5|
+|5GB|12|7.99|5|
+|5GB|15|7.99|5|
+|5GB|20|8.00|5|
+|5GB|25|8.00|5|
+|5GB|30|8.00|5|
+|5GB|60|10.16|5|
+|10GB|1|8.99|10|
+|10GB|3|8.99|10|
+|10GB|6|8.99|10|
+|10GB|7|8.99|10|
+|10GB|12|12.98|10|
+|10GB|15|12.98|10|
+|10GB|20|12.98|10|
+|10GB|25|12.98|10|
+|10GB|30|12.98|10|
+|15GB|30|21.21|15|
+|20GB|1|22.06|20|
+|20GB|5|22.06|20|
+|20GB|7|22.06|20|
+|20GB|9|22.06|20|
+|20GB|10|22.06|20|
+|20GB|12|22.06|20|
+|20GB|20|22.06|20|
+|20GB|25|22.06|20|
+|20GB|30|23.60|20|
+|20GB|90|27.98|20|
+|30GB|30|35.98|30|
+|50GB|1|35.98|50|
+|50GB|6|53.99|50|
+|50GB|7|53.99|50|
+|50GB|10|54.99|50|
+|50GB|12|58.49|50|
+|50GB|15|58.49|50|
+|50GB|20|61.99|50|
+|50GB|25|61.99|50|
+|50GB|30|55.80|50|
+
+#### Bolivia: fixed data, Black; Networks: VIVA. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|1.49|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|7|0.74|0.5|
+|500MB|30|3.22|0.5|
+|1GB|1|2.18|1|
+|1GB|2|2.24|1|
+|1GB|4|2.24|1|
+|1GB|6|2.24|1|
+|1GB|14|2.88|1|
+|1GB|90|3.44|1|
+|2GB|1|3.31|2|
+|2GB|14|4.36|2|
+|2GB|30|5.42|2|
+|2GB|90|6.85|2|
+|3GB|14|5.42|3|
+|3GB|25|5.42|3|
+|3GB|90|10.16|3|
+|4GB|1|7.53|4|
+|4GB|5|7.93|4|
+|4GB|7|7.97|4|
+|4GB|10|7.98|4|
+|4GB|15|7.99|4|
+|4GB|30|8.00|4|
+|4GB|60|10.16|4|
+|5GB|14|7.99|5|
+|5GB|21|8.00|5|
+|5GB|45|10.16|5|
+|5GB|90|10.17|5|
+|9GB|1|8.99|9|
+|9GB|15|8.99|9|
+|9GB|30|12.98|9|
+|10GB|90|15.58|10|
+|12GB|30|12.98|12|
+|15GB|1|12.98|15|
+|15GB|10|12.98|15|
+|15GB|90|27.98|15|
+|20GB|14|22.06|20|
+|20GB|21|22.06|20|
+|20GB|80|27.98|20|
+|30GB|1|24.98|30|
+|30GB|9|24.98|30|
+|30GB|90|45.98|30|
+|40GB|1|35.98|40|
+|40GB|15|35.98|40|
+|40GB|45|50.98|40|
+|40GB|90|54.58|40|
+|50GB|60|55.80|50|
+
+#### Bolivia: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|6.49|1|
+|5GB|7|15.98|5|
+|5GB|15|17.98|5|
+|5GB|60|11.91|5|
+|10GB|7|28.49|10|
+|10GB|15|30.49|10|
+|10GB|180|66.49|10|
+|20GB|365|77.49|20|
+|50GB|7|91.99|50|
+|50GB|15|99.49|50|
+|50GB|30|106.99|50|
+
+#### Bolivia: fixed data, Green
+Networks: Tigo/VIVA. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|1.92|0.4900000002235174|
+|1GB|7|4.99|1|
+|3GB|7|12.99|3|
+|5GB|15|19.99|5|
+|10GB|30|34.49|10|
+|15GB|30|45.99|15|
+|20GB|30|60.49|20|
+|30GB|30|89.49|30|
+
+#### Bolivia: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|6|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|46.49|5|
+|5GB|15|46.49|5|
+|5GB|20|46.49|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|3|59.49|10|
+|10GB|6|60.49|10|
+|10GB|7|59.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|6|243.99|50|
+|50GB|7|243.99|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Bolivia: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|5.49|1|
+|1GB|365|6.48|1|
+|3GB|30|13.99|3|
+|5GB|30|22.48|5|
+|10GB|30|38.49|10|
+|20GB|30|67.99|20|
+|20GB|90|74.49|20|
+
+#### Bolivia: fixed data, Yellow; Networks: Nuevatel/tigo/Entel. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|2.24|1|
+|2GB|15|4.36|2|
+|3GB|30|5.42|3|
+|5GB|30|8.00|5|
+|10GB|30|12.98|10|
+|20GB|30|22.06|20|
+
+#### Bolivia: fixed data, Amber Essential; Networks: VIVA Bolivia. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|10GB|12|8.99|10|
+|10GB|15|8.99|10|
+|50GB|6|35.98|50|
+|50GB|7|35.98|50|
+|50GB|10|35.98|50|
+|50GB|12|35.98|50|
+|50GB|15|35.98|50|
+|50GB|20|35.98|50|
+|50GB|25|35.98|50|
+|50GB|30|35.98|50|
+
+#### Bolivia: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|15GB|30|12.98|15|
+|30GB|30|24.98|30|
+
+#### Bolivia: fixed data, Amber Essential; Networks: VIVA. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/bo?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|40GB|30|35.98|40|
+|50GB|14|35.98|50|
+|50GB|21|35.98|50|
+|50GB|90|55.80|50|
+
+#### Bolivia: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: VIVA.
+Purchase link: https://esim.dog/bo?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=13.51;2=27.02;3=40.53;4=54.49;5=64.74;6=77.69;7=93.53;8=105.03;9=116.53;10=128.03;11=139.86;12=151.69;13=163.52;14=175.35;15=196.89
+16=207.16;17=217.43;18=227.71;19=237.98;20=248.25;21=251.21;22=265.70;23=280.20;24=294.69;25=309.18;26=318.61;27=328.04;28=337.47;29=346.90;30=356.33
+31=367.53;32=378.73;33=389.94;34=401.14;35=412.34;36=423.54;37=434.75;38=445.95;39=457.15;40=468.35;41=479.56;42=490.76;43=501.96;44=513.16;45=524.37
+46=535.57;47=546.77;48=557.97;49=569.17;50=580.38;51=591.58;52=602.78;53=613.98;54=625.19;55=636.39;56=647.59;57=658.79;58=670.00;59=681.20;60=692.40
+
+#### Bolivia: Fully unlimited, up to 1 Mbps
+Networks: VIVA.
+Purchase link: https://esim.dog/bo?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=11.98;2=25.99;3=39.99;4=54.20;5=64.40;6=77.29;7=84.99;8=93.50;9=102.00;10=110.51;11=121.59;12=132.67;13=143.74;14=154.82;15=165.90
+16=175.54;17=186.60;18=197.66;19=208.72;20=211.26;21=220.71;22=230.96;23=241.52;24=252.09;25=262.65;26=273.21;27=283.78;28=294.34;29=304.90;30=305.71
+31=315.90;32=326.09;33=336.28;34=346.47;35=356.66;36=366.85;37=377.04;38=387.23;39=397.42;40=407.61;41=417.80;42=427.99;43=438.18;44=448.37;45=458.56
+46=468.75;47=478.94;48=489.13;49=499.32;50=509.51;51=519.70;52=529.89;53=540.08;54=550.27;55=560.46;56=570.65;57=580.84;58=591.03;59=601.22;60=611.41
+61=621.60;62=631.79;63=641.98;64=652.17;65=662.36;66=672.55;67=682.74;68=692.93;69=703.12;70=713.31;71=723.50;72=733.69;73=743.88;74=754.07;75=764.26
+76=774.45;77=784.64;78=794.83;79=805.02;80=815.21;81=825.40;82=835.59;83=845.78;84=855.97;85=866.16;86=876.35;87=886.54;88=896.73;89=906.92;90=917.11
+91=927.30;92=937.49;93=947.68;94=957.87;95=968.06;96=978.25;97=988.44;98=998.63
+

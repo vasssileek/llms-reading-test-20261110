@@ -1,0 +1,104 @@
+# eSIM.dog: Guernsey
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Guernsey (GG)
+
+#### Guernsey: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/gg?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|3.99|1|
+|1GB|7|4.99|1|
+|2GB|15|7.49|2|
+|3GB|30|9.49|3|
+|5GB|30|13.99|5|
+|5GB|60|11.17|5|
+|10GB|30|23.99|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|77.49|20|
+|60GB|125|197.49|60|
+
+#### Guernsey: fixed data, Pink; Networks: See product page. Internet exit: AT.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/gg?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|4.49|1|
+|5GB|1|10.99|5|
+|5GB|3|10.99|5|
+|5GB|5|10.99|5|
+|5GB|9|11.49|5|
+|5GB|10|11.49|5|
+|5GB|12|11.49|5|
+|5GB|15|11.99|5|
+|5GB|20|11.99|5|
+|5GB|25|11.99|5|
+|5GB|30|12.49|5|
+|10GB|1|14.49|10|
+|10GB|3|14.49|10|
+|10GB|5|14.99|10|
+|10GB|7|15.49|10|
+|10GB|9|15.49|10|
+|10GB|10|15.99|10|
+|10GB|12|16.49|10|
+|10GB|15|16.99|10|
+|10GB|20|17.49|10|
+|10GB|25|17.99|10|
+|10GB|30|18.49|10|
+|20GB|1|25.99|20|
+|20GB|3|25.99|20|
+|20GB|5|26.49|20|
+|20GB|7|27.49|20|
+|20GB|10|28.49|20|
+|20GB|12|28.99|20|
+|20GB|15|29.49|20|
+|20GB|20|30.49|20|
+|20GB|25|31.49|20|
+|50GB|1|53.99|50|
+|50GB|3|53.99|50|
+|50GB|5|54.49|50|
+|50GB|7|55.49|50|
+|50GB|9|55.99|50|
+|50GB|10|56.99|50|
+|50GB|12|57.99|50|
+|50GB|15|58.49|50|
+|50GB|20|59.99|50|
+
+#### Guernsey: fixed data, Blue
+Networks: See product page. Internet exit: UK/NO.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/gg?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|2.06|1|
+|3GB|15|7.49|3|
+|3GB|30|8.48|3|
+|5GB|30|11.49|5|
+|10GB|30|19.49|10|
+|20GB|30|32.49|20|
+|20GB|90|32.44|20|
+|50GB|180|68.99|50|
+
+#### Guernsey: fixed data, Pink; Networks: See product page. Internet exit: FR.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/gg?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|20GB|30|12.97|20|
+|50GB|30|26.94|50|
+|100GB|30|31.77|100|
+

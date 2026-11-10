@@ -1,0 +1,119 @@
+# eSIM.dog: Palestine
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Palestine (PS)
+
+#### Palestine: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ps?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.34|1|
+|5GB|60|11.91|5|
+|10GB|180|66.49|10|
+|20GB|365|67.26|20|
+
+#### Palestine: fixed data, Black
+Networks: Wataniya Mobile. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ps?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|0.99|0.09999999962747097|
+|100MB|3|1.39|0.09999999962747097|
+|100MB|30|1.74|0.09999999962747097|
+|100MB|90|1.99|0.09999999962747097|
+|500MB|7|2.34|0.5|
+|500MB|90|4.99|0.5|
+|1GB|1|0.99|1|
+|1GB|4|2.34|1|
+|1GB|5|2.66|1|
+|1GB|6|2.34|1|
+|1GB|7|2.34|1|
+|1GB|30|2.67|1|
+|1GB|90|5.48|1|
+|2GB|1|2.82|2|
+|2GB|14|4.95|2|
+|2GB|15|4.95|2|
+|2GB|30|5.57|2|
+|3GB|1|4.98|3|
+|3GB|15|4.98|3|
+|3GB|25|5.57|3|
+|3GB|30|5.57|3|
+|3GB|90|12.98|3|
+|4GB|30|7.80|4|
+|4GB|60|11.91|4|
+|5GB|1|7.80|5|
+|5GB|25|7.80|5|
+|5GB|30|7.80|5|
+|5GB|45|11.91|5|
+|5GB|60|11.91|5|
+|5GB|90|19.99|5|
+|8GB|45|28.49|8|
+|8GB|60|29.99|8|
+|9GB|30|11.71|9|
+|10GB|1|11.71|10|
+|10GB|15|11.71|10|
+|10GB|30|12.98|10|
+|10GB|90|30.98|10|
+|15GB|30|20.79|15|
+|15GB|45|42.99|15|
+|15GB|60|44.49|15|
+|20GB|1|20.79|20|
+|20GB|5|20.79|20|
+|20GB|30|31.99|20|
+|20GB|90|47.48|20|
+|40GB|45|50.98|40|
+|50GB|1|50.98|50|
+|50GB|5|50.98|50|
+|50GB|60|71.99|50|
+|50GB|90|72.98|50|
+
+#### Palestine: fixed data, Yellow; Networks: Ooredoo. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ps?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|4.49|1|
+|2GB|15|4.95|2|
+|3GB|30|5.57|3|
+|5GB|30|10.92|5|
+|10GB|30|17.99|10|
+|20GB|30|25.71|20|
+
+#### Palestine: fixed data, Green
+Networks: Jawwal. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ps?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|5.49|0.4900000002235174|
+|1GB|7|8.49|1|
+|10GB|30|62.99|10|
+|15GB|30|84.99|15|
+|20GB|30|110.99|20|
+
+#### Palestine: fixed data, Amber Essential
+Networks: Wataniya Mobile. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ps?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|10GB|25|11.71|10|
+|10GB|30|11.71|10|
+|20GB|10|20.79|20|
+|20GB|25|20.79|20|
+|20GB|30|20.79|20|
+|50GB|25|50.98|50|
+

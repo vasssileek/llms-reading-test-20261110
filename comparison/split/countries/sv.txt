@@ -1,0 +1,388 @@
+# eSIM.dog: El Salvador
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### El Salvador (SV)
+
+#### El Salvador: fixed data, Black; Networks: Telef. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|1.49|0.09999999962747097|
+|100MB|3|1.49|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|1|0.58|0.5|
+|500MB|7|0.74|0.5|
+|1GB|2|1.43|1|
+|1GB|4|1.43|1|
+|1GB|6|1.43|1|
+|1GB|30|1.72|1|
+|1GB|90|3.44|1|
+|2GB|14|3.77|2|
+|2GB|30|4.59|2|
+|2GB|90|6.85|2|
+|3GB|14|4.59|3|
+|3GB|21|4.59|3|
+|3GB|90|10.16|3|
+|4GB|1|4.98|4|
+|4GB|7|4.98|4|
+|4GB|14|6.69|4|
+|4GB|30|7.07|4|
+|4GB|60|10.16|4|
+|5GB|14|7.07|5|
+|5GB|21|7.07|5|
+|5GB|45|10.16|5|
+|5GB|90|10.17|5|
+|6GB|15|8.20|6|
+|6GB|30|9.77|6|
+|7GB|1|7.48|7|
+|7GB|7|7.48|7|
+|7GB|30|11.15|7|
+|9GB|1|7.48|9|
+|9GB|3|7.48|9|
+|9GB|14|7.98|9|
+|9GB|30|11.15|9|
+|10GB|21|11.15|10|
+|10GB|90|15.58|10|
+|12GB|14|10.98|12|
+|12GB|30|12.98|12|
+|15GB|1|10.98|15|
+|15GB|3|10.98|15|
+|15GB|15|12.98|15|
+|15GB|90|27.98|15|
+|20GB|80|27.98|20|
+|30GB|1|24.98|30|
+|30GB|9|24.98|30|
+|30GB|90|45.98|30|
+|40GB|1|33.46|40|
+|40GB|15|33.46|40|
+|40GB|45|52.98|40|
+|40GB|90|54.58|40|
+
+#### El Salvador: fixed data, Yellow; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.72|0.1953125|
+|300MB|3|1.11|0.29296875|
+|1GB|5|3.99|1|
+|1GB|7|4.49|1|
+|5GB|7|14.49|5|
+|5GB|15|16.99|5|
+|5GB|60|11.91|5|
+|10GB|7|28.49|10|
+|10GB|15|30.49|10|
+|10GB|180|66.49|10|
+|20GB|365|77.49|20|
+|50GB|7|91.99|50|
+|50GB|15|99.49|50|
+|50GB|30|106.99|50|
+|60GB|125|197.49|60|
+
+#### El Salvador: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|3.99|0.48828125|
+|1GB|1|5.99|1|
+|1GB|3|12.49|1|
+|2GB|1|7.49|2|
+|3GB|1|21.99|3|
+|3GB|5|22.99|3|
+|3GB|7|23.49|3|
+|3GB|9|23.99|3|
+|3GB|10|23.99|3|
+|3GB|12|24.49|3|
+|3GB|15|24.99|3|
+|3GB|20|25.49|3|
+|3GB|25|25.99|3|
+|3GB|30|26.49|3|
+|5GB|1|25.99|5|
+|5GB|5|26.49|5|
+|5GB|6|26.99|5|
+|5GB|7|26.99|5|
+|5GB|10|27.99|5|
+|5GB|12|28.49|5|
+|5GB|15|28.99|5|
+|5GB|20|29.49|5|
+|5GB|25|29.99|5|
+|5GB|30|30.99|5|
+|8GB|1|42.49|8|
+|8GB|3|42.49|8|
+|8GB|5|42.99|8|
+|8GB|7|43.49|8|
+|8GB|9|43.99|8|
+|8GB|10|44.49|8|
+|8GB|12|44.99|8|
+|8GB|20|45.99|8|
+|8GB|25|46.49|8|
+|8GB|30|47.49|8|
+|10GB|1|53.99|10|
+|10GB|5|54.49|10|
+|10GB|6|54.99|10|
+|10GB|7|54.99|10|
+|10GB|9|55.49|10|
+|10GB|10|55.99|10|
+|10GB|12|56.49|10|
+|10GB|15|56.99|10|
+|10GB|20|57.99|10|
+|10GB|25|58.99|10|
+|10GB|30|60.49|10|
+|20GB|1|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|6|243.99|50|
+|50GB|7|243.99|50|
+|50GB|9|244.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### El Salvador: fixed data, Green
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|2.49|0.48828125|
+|1GB|7|3.49|1|
+|3GB|7|6.49|3|
+|5GB|15|11.49|5|
+|10GB|30|18.49|10|
+|15GB|30|24.99|15|
+|20GB|30|32.49|20|
+|20GB|90|53.49|20|
+|30GB|30|47.99|30|
+|40GB|180|64.82|40|
+|80GB|365|130.83|80|
+
+#### El Salvador: fixed data, Blue; Networks: Movistar/Claro. Internet exit: BE.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|7|1.11|0.48828125|
+
+#### El Salvador: fixed data, Black; Networks: Telef El Salvador. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|1|1.29|1|
+|1GB|3|1.43|1|
+|1GB|5|1.43|1|
+|1GB|7|2.99|1|
+|2GB|1|3.31|2|
+|2GB|15|3.77|2|
+|3GB|1|3.98|3|
+|3GB|5|3.98|3|
+|3GB|7|3.98|3|
+|3GB|9|4.59|3|
+|3GB|10|4.59|3|
+|3GB|12|4.59|3|
+|3GB|15|4.59|3|
+|3GB|20|4.59|3|
+|3GB|25|4.59|3|
+|3GB|30|5.09|3|
+|5GB|1|4.98|5|
+|5GB|5|4.98|5|
+|5GB|6|4.98|5|
+|5GB|7|4.98|5|
+|5GB|10|7.07|5|
+|5GB|12|7.07|5|
+|5GB|15|7.07|5|
+|5GB|20|7.07|5|
+|5GB|25|7.07|5|
+|5GB|30|7.07|5|
+|5GB|60|10.16|5|
+|8GB|1|7.48|8|
+|8GB|3|7.48|8|
+|8GB|5|10.97|8|
+|8GB|7|7.98|8|
+|8GB|9|7.98|8|
+|8GB|10|7.98|8|
+|8GB|12|7.98|8|
+|8GB|20|11.15|8|
+|8GB|25|11.15|8|
+|8GB|30|11.15|8|
+|10GB|1|7.48|10|
+|10GB|5|12.49|10|
+|10GB|6|14.99|10|
+|10GB|7|11.49|10|
+|10GB|9|10.98|10|
+|10GB|10|10.98|10|
+|10GB|12|10.98|10|
+|10GB|15|11.15|10|
+|10GB|20|11.15|10|
+|10GB|25|11.15|10|
+|10GB|30|12.36|10|
+|15GB|30|16.99|15|
+|20GB|1|18.99|20|
+|20GB|5|22.99|20|
+|20GB|7|26.49|20|
+|20GB|9|22.99|20|
+|20GB|10|23.49|20|
+|20GB|12|25.99|20|
+|20GB|20|27.99|20|
+|20GB|25|27.99|20|
+|20GB|30|27.99|20|
+|20GB|90|27.98|20|
+|30GB|30|33.46|30|
+|50GB|1|44.49|50|
+|50GB|6|53.99|50|
+|50GB|7|53.99|50|
+|50GB|9|53.99|50|
+|50GB|12|54.49|50|
+|50GB|15|54.49|50|
+|50GB|20|65.49|50|
+|50GB|25|65.49|50|
+|50GB|30|65.49|50|
+
+#### El Salvador: fixed data, Blue; Networks: movistar/Claro. Internet exit: BE.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|1.43|1|
+|3GB|1|3.98|3|
+|3GB|15|4.59|3|
+|3GB|30|4.59|3|
+|5GB|30|7.07|5|
+
+#### El Salvador: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|365|9.49|1|
+|10GB|30|38.49|10|
+|20GB|30|67.99|20|
+|20GB|90|72.99|20|
+
+#### El Salvador: fixed data, Amber Essential; Networks: Telef El Salvador. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|1|1.49|2|
+|8GB|5|7.48|8|
+|8GB|7|7.48|8|
+|10GB|5|7.48|10|
+|10GB|6|7.48|10|
+|10GB|7|7.48|10|
+|10GB|9|7.98|10|
+|10GB|10|7.98|10|
+|10GB|12|7.98|10|
+|20GB|1|10.98|20|
+|20GB|5|10.98|20|
+|20GB|7|10.98|20|
+|20GB|9|10.98|20|
+|20GB|10|10.98|20|
+|20GB|12|10.98|20|
+|20GB|20|17.36|20|
+|20GB|25|17.36|20|
+|20GB|30|17.36|20|
+|50GB|1|33.46|50|
+|50GB|6|33.46|50|
+|50GB|7|33.46|50|
+|50GB|9|33.46|50|
+|50GB|12|33.46|50|
+|50GB|15|33.46|50|
+|50GB|20|33.46|50|
+|50GB|25|33.46|50|
+|50GB|30|33.46|50|
+
+#### El Salvador: fixed data, Yellow; Networks: Movistar. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|2GB|15|3.77|2|
+|3GB|30|4.59|3|
+|5GB|30|7.07|5|
+|10GB|30|11.15|10|
+|20GB|30|18.29|20|
+
+#### El Salvador: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|15GB|30|12.98|15|
+|30GB|30|24.98|30|
+
+#### El Salvador: fixed data, Amber Essential; Networks: Telef. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/sv?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|20GB|14|10.98|20|
+|20GB|21|17.36|20|
+|40GB|30|33.46|40|
+|50GB|14|33.46|50|
+|50GB|21|33.46|50|
+|50GB|90|55.80|50|
+
+#### El Salvador: 3GB high-speed data per day, then unlimited at 1 Mbps
+Networks: Movistar/Claro.
+Purchase link: https://esim.dog/sv?tab=unlimited&limit=3&fup=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=5.56;2=10.60;3=15.89;4=21.19;5=25.38;6=30.46;7=36.63;8=41.15;9=45.68;10=50.20;11=54.84;12=59.47;13=64.10;14=68.74;15=77.18
+16=81.21;17=85.24;18=89.26;19=93.29;20=97.32;21=98.48;22=104.16;23=109.85;24=115.53;25=121.21;26=124.91;27=128.60;28=132.30;29=135.99;30=139.69
+31=144.08;32=148.48;33=152.87;34=157.26;35=161.66;36=166.05;37=170.44;38=174.84;39=179.23;40=183.62;41=188.02;42=192.41;43=196.80;44=201.20;45=205.59
+46=209.98;47=214.38;48=218.77;49=223.16;50=227.56;51=231.95;52=236.34;53=240.74;54=245.13;55=249.52;56=253.92;57=258.31;58=262.70;59=267.10;60=271.49
+61=276.02;62=280.56;63=285.09;64=289.62;65=294.16;66=298.69;67=303.22;68=307.76;69=312.29;70=316.82;71=321.36;72=325.89;73=330.42;74=334.96;75=339.49
+76=344.02;77=348.56;78=353.09;79=357.62;80=362.16;81=366.69;82=371.22;83=375.76;84=380.29;85=384.82;86=389.36;87=393.89;88=398.42;89=402.96;90=407.49
+91=412.01;92=416.52;93=421.04;94=425.56;95=430.07;96=434.59;97=439.11;98=443.62;99=448.14;100=452.66;101=457.17;102=461.69;103=466.21;104=470.72;105=475.24
+106=479.76;107=484.27;108=488.79;109=493.31;110=497.82;111=502.34;112=506.86;113=511.37;114=515.89;115=520.41;116=524.92;117=529.44;118=533.96;119=538.47;120=542.99
+121=547.52;122=552.06;123=556.59;124=561.12;125=565.66;126=570.19;127=574.72;128=579.26;129=583.79;130=588.32;131=592.86;132=597.39;133=601.92;134=606.46;135=610.99
+136=615.52;137=620.06;138=624.59;139=629.12;140=633.66;141=638.19;142=642.72;143=647.26;144=651.79;145=656.32;146=660.86;147=665.39;148=669.92;149=674.46;150=678.99
+151=683.51;152=688.02;153=692.54;154=697.06;155=701.57;156=706.09;157=710.61;158=715.12;159=719.64;160=724.16;161=728.67;162=733.19;163=737.71;164=742.22;165=746.74
+166=751.26;167=755.77;168=760.29;169=764.81;170=769.32;171=773.84;172=778.36;173=782.87;174=787.39;175=791.91;176=796.42;177=800.94;178=805.46;179=809.97;180=814.49
+
+#### El Salvador: Fully unlimited, up to 1 Mbps
+Networks: Movistar/Claro.
+Purchase link: https://esim.dog/sv?tab=unlimited&route=purple&speed=1mbps&vpn=false&days={days}
+Full package prices (days=USD):
+1=4.98;2=10.53;3=15.80;4=21.07;5=25.24;6=29.58;7=31.25;8=36.64;9=42.04;10=47.43;11=52.01;12=56.59;13=61.16;14=65.74;15=70.32
+16=73.25;17=76.19;18=79.12;19=82.06;20=84.99;21=93.99;22=102.64;23=107.31;24=111.97;25=116.63;26=120.31;27=123.99;28=127.67;29=131.34;30=135.02
+31=139.53;32=144.02;33=148.53;34=153.03;35=157.54;36=162.04;37=166.54;38=171.05;39=175.55;40=180.05;41=184.56;42=188.87;43=191.69;44=194.51;45=197.34
+46=200.16;47=202.98;48=205.80;49=208.63;50=211.45;51=214.27;52=217.10;53=219.92;54=222.74;55=225.57;56=228.39;57=231.21;58=234.03;59=236.86;60=239.68
+61=243.67;62=247.67;63=251.66;64=255.66;65=259.65;66=263.65;67=267.64;68=271.63;69=275.63;70=279.62;71=283.62;72=287.61;73=291.61;74=295.60;75=299.60
+76=303.59;77=307.58;78=311.58;79=315.57;80=319.57;81=323.56;82=327.56;83=331.55;84=335.54;85=339.54;86=343.53;87=347.53;88=351.52;89=355.52;90=359.51
+91=363.50;92=367.50;93=371.49;94=375.49;95=379.48;96=383.48;97=387.47;98=391.47;99=395.46;100=399.46;101=403.45;102=407.45;103=411.44;104=415.44;105=419.43
+106=423.42;107=427.42;108=431.41;109=435.41;110=439.40;111=443.40;112=447.39;113=451.39;114=455.38;115=459.38;116=463.37;117=467.37;118=471.36;119=475.36;120=479.35
+121=483.34;122=487.34;123=491.33;124=495.33;125=499.32;126=503.32;127=507.31;128=511.30;129=515.30;130=519.29;131=523.29;132=527.28;133=531.28;134=535.27;135=539.27
+136=543.26;137=547.25;138=551.25;139=555.24;140=559.24;141=563.23;142=567.23;143=571.22;144=575.21;145=579.21;146=583.20;147=587.20;148=591.19;149=595.19;150=599.18
+151=603.17;152=607.17;153=611.16;154=615.16;155=619.15;156=623.15;157=627.14;158=631.14;159=635.13;160=639.13;161=643.12;162=647.12;163=651.11;164=655.11;165=659.10
+166=663.09;167=667.09;168=671.08;169=675.08;170=679.07;171=683.07;172=687.06;173=691.06;174=695.05;175=699.05;176=703.04;177=707.04;178=711.03;179=715.03;180=719.02
+

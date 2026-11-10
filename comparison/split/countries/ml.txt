@@ -1,0 +1,268 @@
+# eSIM.dog: Mali
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Mali (ML)
+
+#### Mali: fixed data, Black
+Networks: Orange Mali. Internet exit: GB.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|1.39|0.09999999962747097|
+|100MB|3|1.39|0.09999999962747097|
+|100MB|30|1.74|0.09999999962747097|
+|500MB|5|2.94|0.5|
+|500MB|30|3.22|0.5|
+|500MB|90|4.99|0.5|
+|1GB|1|2.94|1|
+|1GB|2|2.94|1|
+|1GB|3|2.94|1|
+|1GB|4|2.94|1|
+|1GB|5|3.48|1|
+|1GB|6|3.49|1|
+|1GB|7|3.49|1|
+|1GB|30|5.11|1|
+|1GB|90|6.48|1|
+|2GB|1|5.64|2|
+|2GB|14|6.36|2|
+|2GB|15|6.36|2|
+|2GB|30|6.99|2|
+|3GB|1|6.99|3|
+|3GB|14|6.99|3|
+|3GB|15|6.99|3|
+|3GB|25|7.49|3|
+|3GB|30|10.49|3|
+|3GB|90|16.48|3|
+|4GB|1|9.98|4|
+|4GB|3|9.98|4|
+|4GB|60|12.38|4|
+|5GB|1|9.98|5|
+|5GB|3|9.98|5|
+|5GB|6|12.38|5|
+|5GB|7|12.38|5|
+|5GB|12|12.38|5|
+|5GB|14|12.38|5|
+|5GB|15|12.38|5|
+|5GB|20|12.38|5|
+|5GB|21|12.38|5|
+|5GB|25|12.38|5|
+|5GB|30|12.38|5|
+|5GB|45|12.38|5|
+|5GB|60|12.38|5|
+|5GB|90|25.48|5|
+|6GB|30|17.33|6|
+|7GB|15|17.33|7|
+|9GB|1|17.33|9|
+|9GB|10|17.33|9|
+|10GB|1|17.33|10|
+|10GB|5|22.49|10|
+|10GB|6|22.99|10|
+|10GB|7|22.99|10|
+|10GB|10|23.49|10|
+|10GB|12|24.99|10|
+|10GB|15|26.99|10|
+|10GB|20|26.49|10|
+|10GB|25|27.99|10|
+|10GB|30|29.99|10|
+|10GB|90|38.98|10|
+|12GB|1|17.33|12|
+|15GB|90|51.89|15|
+|20GB|1|35.99|20|
+|20GB|3|45.49|20|
+|20GB|5|48.49|20|
+|20GB|7|46.49|20|
+|20GB|9|46.49|20|
+|20GB|10|51.49|20|
+|20GB|12|50.49|20|
+|20GB|15|51.49|20|
+|20GB|20|52.99|20|
+|20GB|25|52.99|20|
+|20GB|30|55.99|20|
+|20GB|80|51.89|20|
+|20GB|90|51.89|20|
+|30GB|1|40.62|30|
+|50GB|1|87.99|50|
+|50GB|7|108.49|50|
+|50GB|9|108.49|50|
+|50GB|10|110.49|50|
+|50GB|12|125.54|50|
+|50GB|15|125.54|50|
+|50GB|20|128.99|50|
+|50GB|25|128.99|50|
+|50GB|30|130.99|50|
+
+#### Mali: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|2.94|1|
+|1GB|7|5.49|1|
+|2GB|15|6.36|2|
+|3GB|30|6.99|3|
+|5GB|7|30.48|5|
+|5GB|15|32.99|5|
+|5GB|30|12.38|5|
+|5GB|60|12.38|5|
+|10GB|7|59.49|10|
+|10GB|15|63.49|10|
+|10GB|30|26.49|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|67.26|20|
+
+#### Mali: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.49|1|
+|5GB|1|45.99|5|
+|5GB|3|45.99|5|
+|5GB|6|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|46.99|5|
+|5GB|15|46.49|5|
+|5GB|20|46.99|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|5|59.49|10|
+|10GB|6|59.99|10|
+|10GB|7|59.99|10|
+|10GB|10|60.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|3|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|15|124.49|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|7|243.99|50|
+|50GB|9|244.49|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|15|246.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Mali: fixed data, Blue; Networks: Orange/Malitel. Internet exit: US.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|7|3.49|1|
+|3GB|15|12.99|3|
+
+#### Mali: fixed data, Blue; Networks: See product page. Internet exit: UK/NO.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|365|6.48|1|
+|3GB|30|12.99|3|
+|5GB|30|20.49|5|
+|10GB|30|39.49|10|
+|20GB|30|67.99|20|
+|20GB|90|71.49|20|
+
+#### Mali: fixed data, Amber Essential
+Networks: Orange Mali. Internet exit: GB.
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/ml?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|7GB|25|17.33|7|
+|7GB|30|17.33|7|
+|9GB|15|17.33|9|
+|9GB|25|17.33|9|
+|9GB|30|17.33|9|
+|10GB|5|17.33|10|
+|10GB|6|17.33|10|
+|10GB|7|17.33|10|
+|10GB|10|17.33|10|
+|10GB|12|17.33|10|
+|10GB|14|17.33|10|
+|10GB|15|17.33|10|
+|10GB|20|17.33|10|
+|10GB|21|17.33|10|
+|10GB|25|17.33|10|
+|10GB|30|17.33|10|
+|12GB|2|17.33|12|
+|12GB|5|17.33|12|
+|12GB|9|17.33|12|
+|12GB|10|17.33|12|
+|12GB|30|17.33|12|
+|15GB|1|17.33|15|
+|15GB|5|17.33|15|
+|15GB|9|17.33|15|
+|15GB|15|17.33|15|
+|15GB|25|17.33|15|
+|15GB|30|17.33|15|
+|20GB|1|17.33|20|
+|20GB|3|17.33|20|
+|20GB|5|18.29|20|
+|20GB|7|19.89|20|
+|20GB|9|19.89|20|
+|20GB|10|19.89|20|
+|20GB|12|20.99|20|
+|20GB|14|20.99|20|
+|20GB|15|20.99|20|
+|20GB|20|29.49|20|
+|20GB|21|29.49|20|
+|20GB|25|29.49|20|
+|20GB|30|29.49|20|
+|30GB|2|40.62|30|
+|30GB|3|40.62|30|
+|30GB|5|40.62|30|
+|30GB|10|40.62|30|
+|30GB|15|40.62|30|
+|30GB|25|40.62|30|
+|30GB|30|40.62|30|
+|40GB|1|40.62|40|
+|40GB|2|40.62|40|
+|40GB|3|40.62|40|
+|40GB|5|40.62|40|
+|40GB|9|40.62|40|
+|40GB|10|40.62|40|
+|40GB|15|40.62|40|
+|40GB|30|40.62|40|
+|40GB|90|55.80|40|
+|50GB|1|40.62|50|
+|50GB|7|49.98|50|
+|50GB|9|49.98|50|
+|50GB|10|49.98|50|
+|50GB|12|58.99|50|
+|50GB|14|58.99|50|
+|50GB|15|58.99|50|
+|50GB|20|62.49|50|
+|50GB|21|62.49|50|
+|50GB|25|65.49|50|
+|50GB|30|65.49|50|
+|50GB|90|87.99|50|
+

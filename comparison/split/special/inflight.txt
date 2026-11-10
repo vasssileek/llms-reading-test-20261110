@@ -1,0 +1,39 @@
+# eSIM.dog: In-flight
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### inflight (inflight)
+
+|Data|Days|USD|Link|
+|---|---:|---:|---|
+|100MB|1|9.99|https://esim.dog/special?category=inflight&data=0.1&validity=1|
+|100MB|7|10.49|https://esim.dog/special?category=inflight&data=0.1&validity=7|
+|100MB|30|10.99|https://esim.dog/special?category=inflight&data=0.1&validity=30|
+|100MB|180|11.99|https://esim.dog/special?category=inflight&data=0.1&validity=180|
+|100MB|365|12.49|https://esim.dog/special?category=inflight&data=0.1&validity=365|
+|500MB|1|44.49|https://esim.dog/special?category=inflight&data=0.5&validity=1|
+|500MB|7|47.49|https://esim.dog/special?category=inflight&data=0.5&validity=7|
+|500MB|30|50.49|https://esim.dog/special?category=inflight&data=0.5&validity=30|
+|500MB|180|53.49|https://esim.dog/special?category=inflight&data=0.5&validity=180|
+|500MB|365|56.49|https://esim.dog/special?category=inflight&data=0.5&validity=365|
+|1GB|1|76.99|https://esim.dog/special?category=inflight&data=1&validity=1|
+|1GB|7|82.49|https://esim.dog/special?category=inflight&data=1&validity=7|
+|1GB|30|88.49|https://esim.dog/special?category=inflight&data=1&validity=30|
+|1GB|180|91.49|https://esim.dog/special?category=inflight&data=1&validity=180|
+|1GB|365|97.49|https://esim.dog/special?category=inflight&data=1&validity=365|
+|2GB|1|147.49|https://esim.dog/special?category=inflight&data=2&validity=1|
+|2GB|7|152.99|https://esim.dog/special?category=inflight&data=2&validity=7|
+|2GB|30|164.99|https://esim.dog/special?category=inflight&data=2&validity=30|
+|2GB|180|176.49|https://esim.dog/special?category=inflight&data=2&validity=180|
+|2GB|365|188.49|https://esim.dog/special?category=inflight&data=2&validity=365|
+|3GB|1|211.99|https://esim.dog/special?category=inflight&data=3&validity=1|
+|3GB|7|220.49|https://esim.dog/special?category=inflight&data=3&validity=7|
+|3GB|30|229.49|https://esim.dog/special?category=inflight&data=3&validity=30|
+|3GB|180|238.49|https://esim.dog/special?category=inflight&data=3&validity=180|
+|3GB|365|246.99|https://esim.dog/special?category=inflight&data=3&validity=365|

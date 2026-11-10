@@ -1,0 +1,337 @@
+# eSIM.dog: Jamaica
+
+Price snapshot: 2026-11-09. Currency: USD. Each price is for the complete stated package or billing period. Tax may be added at checkout as shown on the product page.
+
+## Reading the catalogue
+Fixed tables: data is the total allowance, days is the total validity, USD is the complete package price. The data parameter is the exact value for the purchase link. Replace the braces in each link template using the selected row;keep the other parameters unchanged.
+Unlimited price lists use days=USD. Each amount buys the whole stated number of days. A daily high-speed allowance resets each day;it is not a single allowance shared across the trip. Price rows for every supported integer duration are included.
+Blue, Black, Green, Yellow and Pink identify the options displayed on eSIM.dog. Amber Essential fixed plans have a 1 Mbps speed cap and do not include hotspot. Purple fully unlimited plans use the speed stated for that group.
+The fixed-plan links select the eSIM without a VPN add-on.
+
+### Jamaica (JM)
+
+#### Jamaica: fixed data, Blue
+Networks: FLOW. Internet exit: Europe.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=blue
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|7|1.99|0.09765625|
+|500MB|7|2.34|0.48828125|
+|1GB|7|5.49|1|
+|2GB|15|10.99|2|
+|3GB|15|12.49|3|
+|3GB|30|13.49|3|
+|5GB|30|19.49|5|
+|10GB|30|37.99|10|
+|20GB|30|72.99|20|
+
+#### Jamaica: fixed data, Black; Networks: Cable & Wireless Jamaica. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|7|1.99|0.09765625|
+|1GB|3|5.49|1|
+|1GB|5|4.49|1|
+|1GB|7|4.49|1|
+|2GB|15|7.49|2|
+|3GB|15|10.99|3|
+|3GB|30|12.49|3|
+|5GB|1|11.99|5|
+|5GB|5|14.99|5|
+|5GB|7|14.99|5|
+|5GB|12|17.49|5|
+|5GB|15|16.49|5|
+|5GB|20|18.99|5|
+|5GB|25|18.99|5|
+|5GB|30|18.49|5|
+|5GB|60|14.98|5|
+|10GB|1|23.49|10|
+|10GB|3|25.49|10|
+|10GB|5|30.49|10|
+|10GB|7|31.49|10|
+|10GB|10|30.49|10|
+|10GB|12|29.99|10|
+|10GB|15|29.99|10|
+|10GB|20|31.99|10|
+|10GB|25|32.99|10|
+|10GB|30|33.49|10|
+|20GB|1|51.99|20|
+|20GB|3|50.99|20|
+|20GB|5|56.49|20|
+|20GB|7|58.49|20|
+|20GB|9|57.49|20|
+|20GB|10|57.99|20|
+|20GB|12|59.99|20|
+|20GB|20|63.99|20|
+|20GB|25|63.99|20|
+|20GB|30|66.99|20|
+|20GB|90|72.49|20|
+|50GB|1|102.99|50|
+|50GB|9|130.49|50|
+|50GB|10|132.99|50|
+|50GB|12|141.49|50|
+|50GB|20|149.99|50|
+|50GB|25|149.99|50|
+|50GB|30|157.99|50|
+
+#### Jamaica: fixed data, Black; Networks: Cable & Wireless. Internet exit: GB.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=black
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|100MB|1|1.99|0.09999999962747097|
+|100MB|3|1.99|0.09999999962747097|
+|100MB|90|0.98|0.09999999962747097|
+|500MB|30|3.22|0.5|
+|500MB|90|4.99|0.5|
+|1GB|30|4.92|1|
+|1GB|90|6.44|1|
+|2GB|1|4.12|2|
+|2GB|5|5.22|2|
+|2GB|7|5.47|2|
+|2GB|14|5.68|2|
+|2GB|30|6.23|2|
+|2GB|90|12.89|2|
+|3GB|90|17.99|3|
+|4GB|1|7.53|4|
+|4GB|60|12.38|4|
+|5GB|45|14.98|5|
+|6GB|5|14.54|6|
+|6GB|7|15.30|6|
+|6GB|15|16.07|6|
+|6GB|30|17.61|6|
+|6GB|90|19.15|6|
+|7GB|1|14.54|7|
+|12GB|1|22.89|12|
+|12GB|3|22.89|12|
+|12GB|60|30.98|12|
+
+#### Jamaica: fixed data, Yellow
+Networks: See product page. Internet exit: See product page.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=yellow
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|200MB|30|1.74|0.1953125|
+|300MB|3|1.39|0.29296875|
+|1GB|5|3.99|1|
+|1GB|7|4.99|1|
+|2GB|15|5.68|2|
+|3GB|30|7.90|3|
+|5GB|30|11.19|5|
+|5GB|60|12.38|5|
+|10GB|30|24.49|10|
+|10GB|180|66.49|10|
+|20GB|30|38.99|20|
+|20GB|365|77.49|20|
+|60GB|125|197.49|60|
+
+#### Jamaica: fixed data, Green; Networks: Cable & Wireless. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|1|3.49|0.4900000002235174|
+|1GB|7|4.49|1|
+|5GB|15|16.99|5|
+|20GB|30|52.49|20|
+
+#### Jamaica: fixed data, Amber Essential; Networks: Cable & Wireless. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|500MB|5|0.74|0.5|
+|500MB|7|0.74|0.5|
+|1GB|1|1.29|1|
+|1GB|2|2.26|1|
+|1GB|4|2.26|1|
+|1GB|6|2.34|1|
+|3GB|1|4.97|3|
+|3GB|10|5.72|3|
+|3GB|14|5.72|3|
+|3GB|25|6.23|3|
+|4GB|2|7.93|4|
+|4GB|5|7.93|4|
+|4GB|15|8.73|4|
+|4GB|21|9.54|4|
+|5GB|14|8.73|5|
+|5GB|21|9.54|5|
+|7GB|5|14.54|7|
+|7GB|9|16.07|7|
+|7GB|10|16.07|7|
+|7GB|15|16.07|7|
+|7GB|25|17.61|7|
+|7GB|30|17.61|7|
+|9GB|1|14.54|9|
+|9GB|2|14.54|9|
+|9GB|3|14.54|9|
+|9GB|5|14.54|9|
+|9GB|7|15.30|9|
+|9GB|10|16.07|9|
+|9GB|15|16.07|9|
+|9GB|30|17.61|9|
+|10GB|14|16.07|10|
+|10GB|21|17.61|10|
+|10GB|90|19.15|10|
+|12GB|5|22.89|12|
+|12GB|7|22.89|12|
+|12GB|15|22.89|12|
+|12GB|90|30.98|12|
+|15GB|1|22.89|15|
+|15GB|2|22.89|15|
+|15GB|5|22.89|15|
+|15GB|10|22.89|15|
+|15GB|15|22.89|15|
+|15GB|25|22.89|15|
+|15GB|60|30.98|15|
+|15GB|90|30.98|15|
+|20GB|14|30.06|20|
+|20GB|21|30.98|20|
+|20GB|60|30.98|20|
+|20GB|70|30.98|20|
+|20GB|80|30.98|20|
+|30GB|1|42.64|30|
+|30GB|2|42.64|30|
+|30GB|3|42.64|30|
+|30GB|5|42.64|30|
+|30GB|9|42.64|30|
+|30GB|10|42.64|30|
+|30GB|15|42.64|30|
+|30GB|25|45.99|30|
+|30GB|70|51.04|30|
+|30GB|80|51.04|30|
+|30GB|90|51.04|30|
+|40GB|1|45.99|40|
+|40GB|2|45.99|40|
+|40GB|5|45.99|40|
+|40GB|9|45.99|40|
+|40GB|10|45.99|40|
+|40GB|15|45.99|40|
+|40GB|25|45.99|40|
+|40GB|60|55.80|40|
+|40GB|70|55.80|40|
+|40GB|80|55.80|40|
+|40GB|90|55.80|40|
+|50GB|14|61.49|50|
+|50GB|21|65.98|50|
+|50GB|60|72.54|50|
+|50GB|70|72.54|50|
+|50GB|80|72.54|50|
+|50GB|90|72.54|50|
+
+#### Jamaica: fixed data, Pink
+Networks: See product page. Internet exit: AT.
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=pink
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|12.99|1|
+|5GB|1|45.99|5|
+|5GB|5|45.99|5|
+|5GB|7|45.99|5|
+|5GB|12|46.49|5|
+|5GB|15|46.49|5|
+|5GB|20|46.49|5|
+|5GB|25|46.99|5|
+|5GB|30|46.99|5|
+|10GB|1|59.49|10|
+|10GB|3|59.49|10|
+|10GB|5|59.99|10|
+|10GB|7|59.99|10|
+|10GB|10|60.99|10|
+|10GB|12|61.49|10|
+|10GB|15|61.49|10|
+|10GB|20|61.99|10|
+|10GB|25|62.99|10|
+|10GB|30|63.49|10|
+|20GB|1|120.99|20|
+|20GB|3|120.99|20|
+|20GB|5|121.49|20|
+|20GB|7|121.99|20|
+|20GB|9|122.49|20|
+|20GB|10|122.99|20|
+|20GB|12|123.99|20|
+|20GB|20|124.99|20|
+|20GB|25|125.99|20|
+|20GB|30|126.99|20|
+|50GB|1|241.99|50|
+|50GB|9|244.49|50|
+|50GB|10|245.49|50|
+|50GB|12|245.99|50|
+|50GB|20|247.99|50|
+|50GB|25|249.49|50|
+|50GB|30|250.49|50|
+
+#### Jamaica: fixed data, Amber Essential; Networks: Cable & Wireless Jamaica. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|1GB|3|2.26|1|
+|1GB|5|2.26|1|
+|1GB|7|2.34|1|
+|3GB|15|5.72|3|
+|3GB|30|6.23|3|
+|5GB|1|7.53|5|
+|5GB|5|7.93|5|
+|5GB|7|8.33|5|
+|5GB|12|8.73|5|
+|5GB|15|8.73|5|
+|5GB|20|9.54|5|
+|5GB|25|9.54|5|
+|5GB|30|9.54|5|
+|10GB|1|14.54|10|
+|10GB|3|14.54|10|
+|10GB|5|14.54|10|
+|10GB|7|15.30|10|
+|10GB|10|16.07|10|
+|10GB|12|16.07|10|
+|10GB|15|16.07|10|
+|10GB|20|17.61|10|
+|10GB|25|17.61|10|
+|10GB|30|17.61|10|
+|20GB|1|22.89|20|
+|20GB|3|22.89|20|
+|20GB|5|22.89|20|
+|20GB|7|28.59|20|
+|20GB|9|30.06|20|
+|20GB|10|30.06|20|
+|20GB|12|30.06|20|
+|20GB|20|30.98|20|
+|20GB|25|30.98|20|
+|20GB|30|30.98|20|
+|50GB|1|45.99|50|
+|50GB|9|61.49|50|
+|50GB|10|61.49|50|
+|50GB|12|61.49|50|
+|50GB|20|65.98|50|
+|50GB|25|65.98|50|
+|50GB|30|72.54|50|
+
+#### Jamaica: fixed data, Green; Networks: See product page. Internet exit: See product page.
+
+Full-speed data. Hotspot supported.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=green
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|10GB|30|29.49|10|
+|20GB|90|53.49|20|
+|40GB|180|65.98|40|
+|80GB|365|130.83|80|
+
+#### Jamaica: fixed data, Amber Essential; Networks: See product page. Internet exit: GB.
+
+Speed: up to 1 Mbps. Hotspot: not included.
+Purchase link: https://esim.dog/jm?tab=fixedgb&data={data_parameter}&validity={days}&vpn=false#route=amber
+|Data|Days|USD|Data parameter|
+|---|---:|---:|---:|
+|20GB|90|30.98|20|
+
