@@ -1,0 +1,15 @@
+# eSIM.dog
+
+> Travel eSIMs and related products.
+
+## Product and price catalogue
+
+Complete product and price catalogue (USD):
+https://vasssileek.github.io/llms-reading-test-20261110/pair-20261112/llms-full-v2.txt
+
+The full catalogue contains package prices, durations, data allowances, speeds, coverage, product information and purchase links.
+
+## Website
+
+- Shop: https://esim.dog/
+- Help: https://esim.dog/help
