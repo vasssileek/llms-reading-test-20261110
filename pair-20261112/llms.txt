@@ -1,0 +1,14 @@
+# eSIM.dog
+
+> Travel eSIMs and related products.
+
+This file is the index to the product and pricing reference.
+
+## Product and price catalogue
+
+- [Complete product and price catalogue](https://vasssileek.github.io/llms-reading-test-20261110/pair-20261112/llms-full.txt): Package prices in USD, durations, data allowances, speeds, coverage, product information and purchase links. Use this reference for tariff questions.
+
+## Website
+
+- [Shop](https://esim.dog/): Choose and buy an eSIM.
+- [Help](https://esim.dog/help): Installation and usage help.
