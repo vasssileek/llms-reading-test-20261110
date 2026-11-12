@@ -4,7 +4,7 @@
 
 ## Product and price catalogue
 
-- [Complete product and price catalogue](https://vasssileek.github.io/llms-reading-test-20261110/final-v11-20261112/llms-full.txt): Prices in USD, data allowances, durations, speeds, coverage, product information and purchase links.
+- [Complete product and price catalogue](https://raw.githubusercontent.com/vasssileek/llms-reading-test-20261110/codex/catalogue/final-v11-20261112/llms-full.txt): Prices in USD, data allowances, durations, speeds, coverage, product information and purchase links.
 
 ## Website
 
