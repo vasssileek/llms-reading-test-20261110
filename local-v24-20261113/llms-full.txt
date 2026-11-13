@@ -34,207 +34,207 @@ Find the destination in a directory below. For fixed packages, search COUNTRY: f
 Every price is the total USD charge for the stated package and duration. Prices use explicit duration=value pairs: 13=13.09 means 13 days cost USD 13.09. A comma lists alternative durations and a range includes every whole day: 1,6-8=2.55 means 1, 6, 7 or 8 days each cost USD 2.55. Semicolons separate prices; the position of a number never determines its duration.
 Country fixed tables keep all variants of one data allowance together. Read the requested duration for each variant to compare prices, including ties. The Buy template directly above the table already selects the destination and data allowance. Replace data= only for a row with its own data= value, set {days} to the chosen duration, and set {route} to that row's colour in lowercase. Black2 means black; AmberEssential1 means amber. For conditions, search the country name and bare variant ID together, for example Japan Yellow1; omit data= and pick= suffixes. Variant numbers identify the country-specific conditions table. Networks and internet exit belong to that variant only. 'See product page' supplies no network name.
 A row marked pick=2 or higher requires choosing that numbered option of the same colour on the product page after following the link; use Show more routes if the option is hidden. The colour link itself selects the first option. All listed offers remain in the catalogue.
-Each unlimited plan has a unique heading consisting only of its lookup key. Its destination, daily allowance or continuous speed, networks, Buy template and all duration-price pairs are in the same short block. The directory points to those keys. Search the key alone to locate its price block; the directory itself contains no prices. Set {days} in that block's Buy template to the chosen duration.
+Each unlimited plan has a unique heading consisting only of its lookup key. Its destination, daily allowance or continuous speed, networks, Buy template and all duration-price pairs are in the same short block. The directories give a destination code and plan suffixes. Join the code and suffix without spaces to form the lookup key; the complete key occurs only at its price block. Search that complete key, then read the block through the requested duration. Set {days} in that block's Buy template to the chosen duration.
 Purple fully unlimited plans have no daily quota. Other unlimited plans give a daily high-speed allowance that resets each day, followed by unlimited data at the stated speed. Country fixed variants are full-speed data with hotspot except Amber Essential, which has a 1 Mbps speed cap and no hotspot.
 For regional fixed plans, each variant has its own block with its complete coverage list, networks and prices. A region's name does not guarantee coverage of a particular country. Choose variants covering every required country, then compare their exact data allowance, duration and total price. Use the Buy template inside that variant block and the plan value in the chosen price row; its data allowance is already set in the link. A variant can have several offers for the same duration; use the plan key from the selected price row. Regional unlimited blocks also contain their own complete coverage and prices. Coverage uses the country codes or names supplied with each offer.
 Special-package rows state their category explicitly: Inflight and Cruise are different products. WorldPass rows state both initial payment and renewal; phone-number prices cover the whole stated term. Include the selected offer's completed purchase link in recommendations.
 
 ## Country unlimited-plan directory
 
-Keys start with the two-letter country code. daily3GB1Mbps means 3GB of high-speed data resetting each day, then unlimited data at 1 Mbps. unlimited1Mbps means no daily quota, at up to 1 Mbps. Other sizes and speeds follow the same notation; full terms are in each plan block.
-Afghanistan: AFdaily10GB384Kbps; AFdaily1GB512Kbps; AFdaily2GB512Kbps; AFdaily500MB512Kbps
-Aland Islands: AXunlimited1Mbps; AXdaily1GB512Kbps; AXdaily2GB500Kbps; AXdaily3GB1Mbps; AXdaily500MB512Kbps
-Albania: ALunlimited1Mbps; ALdaily10GB384Kbps; ALdaily1GB512Kbps; ALdaily2GB512Kbps; ALdaily3GB1Mbps; ALdaily500MB512Kbps
-Algeria: DZunlimited1Mbps; DZdaily10GB384Kbps; DZdaily1GB1Mbps; DZdaily1GB512Kbps; DZdaily2GB512Kbps; DZdaily3GB1Mbps; DZdaily500MB512Kbps
-Andorra: ADunlimited1Mbps; ADdaily10GB384Kbps; ADdaily1GB512Kbps; ADdaily2GB512Kbps; ADdaily3GB1Mbps; ADdaily500MB512Kbps
-Angola: AOdaily10GB384Kbps; AOdaily1GB512Kbps; AOdaily2GB512Kbps; AOdaily500MB512Kbps
-Anguilla: AIunlimited1Mbps; AIdaily1GB512Kbps; AIdaily2GB500Kbps; AIdaily3GB1Mbps; AIdaily500MB512Kbps
-Antigua and Barbuda: AGunlimited1Mbps; AGdaily1GB512Kbps; AGdaily2GB500Kbps; AGdaily3GB1Mbps; AGdaily500MB512Kbps
-Argentina: ARunlimited1Mbps; ARdaily10GB384Kbps; ARdaily1GB512Kbps; ARdaily2GB512Kbps; ARdaily3GB1Mbps; ARdaily500MB512Kbps
-Armenia: AMunlimited1Mbps; AMdaily10GB384Kbps; AMdaily1GB512Kbps; AMdaily2GB512Kbps; AMdaily3GB1Mbps; AMdaily500MB512Kbps
-Aruba: AWunlimited1Mbps; AWdaily10GB512Kbps; AWdaily1GB1Mbps; AWdaily2GB1Mbps; AWdaily3GB1Mbps; AWdaily5GB512Kbps
-Australia: AUunlimited1Mbps; AUdaily10GB384Kbps; AUdaily1GB1Mbps; AUdaily2GB1Mbps; AUdaily3GB512Kbps; AUdaily500MB512Kbps; AUdaily5GB384Kbps
-Austria: ATunlimited1Mbps; ATdaily10GB512Kbps; ATdaily1GB1Mbps; ATdaily1GB512Kbps; ATdaily2GB500Kbps; ATdaily3GB512Kbps; ATdaily500MB512Kbps; ATdaily5GB512Kbps
-Azerbaijan: AZunlimited1Mbps; AZdaily10GB384Kbps; AZdaily1GB1Mbps; AZdaily1GB512Kbps; AZdaily2GB512Kbps; AZdaily3GB1Mbps; AZdaily500MB512Kbps; AZdaily5GB384Kbps
-Bahamas: BSdaily1GB512Kbps; BSdaily2GB500Kbps; BSdaily500MB512Kbps
-Bahrain: BHunlimited1Mbps; BHdaily10GB384Kbps; BHdaily1GB1Mbps; BHdaily1GB512Kbps; BHdaily2GB512Kbps; BHdaily3GB512Kbps; BHdaily500MB512Kbps
-Bangladesh: BDunlimited1Mbps; BDdaily10GB384Kbps; BDdaily1GB512Kbps; BDdaily2GB512Kbps; BDdaily3GB1Mbps; BDdaily3GB512Kbps; BDdaily500MB512Kbps
-Barbados: BBunlimited1Mbps; BBdaily10GB512Kbps; BBdaily1GB512Kbps; BBdaily2GB500Kbps; BBdaily3GB1Mbps; BBdaily500MB512Kbps
-Belarus: BYunlimited1Mbps; BYdaily10GB384Kbps; BYdaily1GB512Kbps; BYdaily2GB512Kbps; BYdaily3GB1Mbps; BYdaily500MB512Kbps
-Belgium: BEunlimited1Mbps; BEdaily10GB512Kbps; BEdaily1GB1Mbps; BEdaily1GB512Kbps; BEdaily2GB500Kbps; BEdaily3GB1Mbps; BEdaily500MB512Kbps; BEdaily5GB512Kbps
-Belize: BZdaily1GB384Kbps; BZdaily2GB384Kbps; BZdaily500MB384Kbps
-Benin: BJunlimited1Mbps; BJdaily10GB384Kbps; BJdaily1GB512Kbps; BJdaily2GB512Kbps; BJdaily3GB1Mbps; BJdaily500MB512Kbps
-Bermuda: BMdaily10GB384Kbps; BMdaily1GB512Kbps; BMdaily2GB512Kbps; BMdaily500MB512Kbps
-Bhutan: BTunlimited1Mbps; BTdaily10GB384Kbps; BTdaily1GB1Mbps; BTdaily2GB1Mbps; BTdaily3GB1Mbps; BTdaily5GB384Kbps
-Bolivia: BOunlimited1Mbps; BOdaily3GB1Mbps
-Bonaire: BQunlimited1Mbps; BQdaily10GB512Kbps; BQdaily1GB1Mbps; BQdaily2GB1Mbps; BQdaily3GB1Mbps; BQdaily5GB512Kbps
-Bosnia and Herzegovina: BAunlimited1Mbps; BAdaily10GB384Kbps; BAdaily1GB1Mbps; BAdaily1GB512Kbps; BAdaily2GB512Kbps; BAdaily3GB1Mbps; BAdaily500MB512Kbps
-Botswana: BWunlimited1Mbps; BWdaily10GB384Kbps; BWdaily1GB512Kbps; BWdaily2GB512Kbps; BWdaily3GB1Mbps; BWdaily500MB512Kbps
-Brazil: BRunlimited1Mbps; BRdaily10GB512Kbps; BRdaily1GB1Mbps; BRdaily2GB1Mbps; BRdaily3GB1Mbps; BRdaily500MB512Kbps; BRdaily5GB512Kbps
-British Virgin Islands: VGdaily1GB512Kbps; VGdaily2GB500Kbps; VGdaily500MB512Kbps
-Brunei Darussalam: BNdaily1GB512Kbps; BNdaily2GB512Kbps; BNdaily3GB512Kbps; BNdaily500MB512Kbps
-Bulgaria: BGunlimited1Mbps; BGdaily10GB512Kbps; BGdaily1GB1Mbps; BGdaily1GB512Kbps; BGdaily2GB500Kbps; BGdaily3GB1Mbps; BGdaily500MB512Kbps; BGdaily5GB512Kbps
-Burkina Faso: BFdaily10GB384Kbps; BFdaily1GB512Kbps; BFdaily2GB512Kbps; BFdaily500MB512Kbps
-Cambodia: KHunlimited1Mbps; KHdaily1GB512Kbps; KHdaily2GB512Kbps; KHdaily3GB1Mbps; KHdaily3GB512Kbps; KHdaily500MB512Kbps
-Cameroon: CMdaily10GB384Kbps; CMdaily1GB512Kbps; CMdaily2GB512Kbps; CMdaily500MB512Kbps
-Canada: CAunlimited1Mbps; CAdaily1.5GB500Kbps; CAdaily10GB512Kbps; CAdaily1GB1Mbps; CAdaily1GB512Kbps; CAdaily2GB500Kbps; CAdaily3GB512Kbps; CAdaily500MB512Kbps; CAdaily5GB384Kbps
-Cape Verde: CVunlimited1Mbps; CVdaily10GB384Kbps; CVdaily1GB512Kbps; CVdaily2GB512Kbps; CVdaily3GB1Mbps; CVdaily500MB512Kbps
-Cayman Islands: KYdaily10GB512Kbps; KYdaily1GB512Kbps; KYdaily2GB500Kbps; KYdaily500MB512Kbps
-Chad: TDunlimited1Mbps; TDdaily10GB384Kbps; TDdaily1GB1Mbps; TDdaily1GB512Kbps; TDdaily2GB512Kbps; TDdaily3GB1Mbps; TDdaily500MB512Kbps; TDdaily5GB384Kbps
-Chile: CLunlimited1Mbps; CLdaily10GB384Kbps; CLdaily1GB512Kbps; CLdaily2GB512Kbps; CLdaily3GB1Mbps; CLdaily500MB512Kbps
-China: CNunlimited1Mbps; CNdaily10GB384Kbps; CNdaily1GB1Mbps; CNdaily1GB384Kbps; CNdaily2GB384Kbps; CNdaily3GB512Kbps; CNdaily500MB384Kbps; CNdaily5GB384Kbps
-Colombia: COunlimited1Mbps; COdaily1GB512Kbps; COdaily2GB512Kbps; COdaily3GB1Mbps; COdaily3GB512Kbps; COdaily500MB512Kbps
-Congo Dem. Rep: CDunlimited1Mbps; CDdaily10GB384Kbps; CDdaily1GB1Mbps; CDdaily2GB512Kbps; CDdaily3GB1Mbps; CDdaily500MB512Kbps; CDdaily5GB384Kbps
-Congo Republic: CGdaily10GB384Kbps; CGdaily1GB512Kbps; CGdaily2GB512Kbps; CGdaily500MB512Kbps
-Costa Rica: CRunlimited1Mbps; CRdaily1GB512Kbps; CRdaily2GB512Kbps; CRdaily3GB1Mbps; CRdaily500MB512Kbps
-Croatia: HRunlimited1Mbps; HRdaily10GB512Kbps; HRdaily1GB1Mbps; HRdaily1GB512Kbps; HRdaily2GB500Kbps; HRdaily3GB1Mbps; HRdaily500MB512Kbps; HRdaily5GB512Kbps
-Curaçao: CWunlimited1Mbps; CWdaily10GB512Kbps; CWdaily1GB512Kbps; CWdaily2GB500Kbps; CWdaily3GB1Mbps; CWdaily500MB512Kbps
-Cyprus: CYunlimited1Mbps; CYdaily10GB384Kbps; CYdaily1GB1Mbps; CYdaily1GB512Kbps; CYdaily2GB512Kbps; CYdaily3GB1Mbps; CYdaily500MB512Kbps; CYdaily5GB384Kbps
-Czech Republic: CZunlimited1Mbps; CZdaily10GB512Kbps; CZdaily1GB1Mbps; CZdaily1GB512Kbps; CZdaily2GB500Kbps; CZdaily3GB1Mbps; CZdaily500MB512Kbps; CZdaily5GB512Kbps
-Denmark: DKunlimited1Mbps; DKdaily10GB512Kbps; DKdaily1GB1Mbps; DKdaily1GB512Kbps; DKdaily2GB500Kbps; DKdaily3GB512Kbps; DKdaily500MB512Kbps; DKdaily5GB512Kbps
-Dominica: DMdaily10GB512Kbps; DMdaily1GB512Kbps; DMdaily2GB500Kbps; DMdaily500MB512Kbps
-Dominican Republic: DOunlimited1Mbps; DOdaily10GB384Kbps; DOdaily1GB1Mbps; DOdaily2GB1Mbps; DOdaily3GB1Mbps; DOdaily500MB512Kbps; DOdaily5GB384Kbps
-Ecuador: ECunlimited1Mbps; ECdaily10GB384Kbps; ECdaily1GB512Kbps; ECdaily2GB512Kbps; ECdaily3GB1Mbps; ECdaily500MB512Kbps
-Egypt: EGunlimited1Mbps; EGdaily10GB512Kbps; EGdaily1GB1Mbps; EGdaily1GB512Kbps; EGdaily2GB512Kbps; EGdaily3GB512Kbps; EGdaily500MB512Kbps
-El Salvador: SVunlimited1Mbps; SVdaily3GB1Mbps
-Estonia: EEunlimited1Mbps; EEdaily10GB512Kbps; EEdaily1GB1Mbps; EEdaily1GB512Kbps; EEdaily2GB500Kbps; EEdaily3GB1Mbps; EEdaily500MB512Kbps; EEdaily5GB512Kbps
-Eswatini: SZunlimited1Mbps; SZdaily10GB384Kbps; SZdaily1GB1Mbps; SZdaily1GB512Kbps; SZdaily2GB512Kbps; SZdaily3GB1Mbps; SZdaily500MB512Kbps; SZdaily5GB384Kbps
-Ethiopia: ETunlimited1Mbps; ETdaily10GB384Kbps; ETdaily1GB1Mbps; ETdaily2GB1Mbps; ETdaily3GB1Mbps; ETdaily5GB384Kbps
-Faroe Islands: FOunlimited1Mbps; FOdaily10GB512Kbps; FOdaily1GB1Mbps; FOdaily1GB512Kbps; FOdaily2GB512Kbps; FOdaily3GB1Mbps; FOdaily500MB512Kbps; FOdaily5GB512Kbps
-Fiji: FJunlimited1Mbps; FJdaily10GB384Kbps; FJdaily1GB512Kbps; FJdaily2GB512Kbps; FJdaily3GB1Mbps; FJdaily500MB512Kbps
-Finland: FIunlimited1Mbps; FIdaily10GB512Kbps; FIdaily1GB1Mbps; FIdaily1GB512Kbps; FIdaily2GB500Kbps; FIdaily3GB1Mbps; FIdaily500MB512Kbps; FIdaily5GB512Kbps
-France: FRunlimited1Mbps; FRdaily10GB1Mbps; FRdaily1GB1Mbps; FRdaily1GB512Kbps; FRdaily2GB500Kbps; FRdaily3GB1Mbps; FRdaily500MB512Kbps; FRdaily5GB1Mbps
-French Guiana: GFunlimited1Mbps; GFdaily10GB512Kbps; GFdaily1GB1Mbps; GFdaily1GB512Kbps; GFdaily2GB500Kbps; GFdaily3GB1Mbps; GFdaily500MB512Kbps; GFdaily5GB512Kbps
-French Polynesia: PFunlimited1Mbps; PFdaily10GB512Kbps; PFdaily1GB1Mbps; PFdaily1GB512Kbps; PFdaily2GB512Kbps; PFdaily3GB1Mbps; PFdaily500MB512Kbps; PFdaily5GB512Kbps
-French Saint Martin: MFunlimited1Mbps; MFdaily10GB512Kbps; MFdaily1GB1Mbps; MFdaily2GB1Mbps; MFdaily3GB1Mbps; MFdaily5GB512Kbps
-Gabon: GAunlimited1Mbps; GAdaily10GB384Kbps; GAdaily1GB1Mbps; GAdaily2GB512Kbps; GAdaily3GB1Mbps; GAdaily500MB512Kbps; GAdaily5GB384Kbps
-Gambia: GMdaily10GB384Kbps; GMdaily1GB512Kbps; GMdaily2GB512Kbps; GMdaily500MB512Kbps
-Georgia: GEunlimited1Mbps; GEdaily10GB384Kbps; GEdaily1GB1Mbps; GEdaily1GB512Kbps; GEdaily2GB512Kbps; GEdaily3GB1Mbps; GEdaily500MB512Kbps
-Germany: DEunlimited1Mbps; DEdaily10GB512Kbps; DEdaily1GB1Mbps; DEdaily1GB512Kbps; DEdaily2GB500Kbps; DEdaily3GB512Kbps; DEdaily500MB512Kbps; DEdaily5GB512Kbps
-Ghana: GHunlimited1Mbps; GHdaily10GB512Kbps; GHdaily1GB512Kbps; GHdaily2GB512Kbps; GHdaily3GB1Mbps; GHdaily500MB512Kbps
-Gibraltar: GIdaily10GB384Kbps; GIdaily1GB512Kbps; GIdaily2GB512Kbps; GIdaily500MB512Kbps
-Greece: GRunlimited1Mbps; GRdaily10GB512Kbps; GRdaily1GB1Mbps; GRdaily1GB512Kbps; GRdaily2GB500Kbps; GRdaily3GB512Kbps; GRdaily500MB512Kbps; GRdaily5GB512Kbps
-Greenland: GLdaily1GB512Kbps; GLdaily2GB512Kbps
-Grenada: GDdaily1GB512Kbps; GDdaily2GB500Kbps; GDdaily500MB512Kbps
-Guadeloupe: GPunlimited1Mbps; GPdaily10GB512Kbps; GPdaily1GB1Mbps; GPdaily2GB1Mbps; GPdaily3GB1Mbps; GPdaily5GB512Kbps
-Guam: GUunlimited1Mbps; GUdaily10GB384Kbps; GUdaily1GB1Mbps; GUdaily1GB512Kbps; GUdaily2GB1Mbps; GUdaily3GB1Mbps; GUdaily500MB512Kbps; GUdaily5GB384Kbps
-Guatemala: GTunlimited1Mbps; GTdaily10GB384Kbps; GTdaily1GB1Mbps; GTdaily1GB512Kbps; GTdaily2GB512Kbps; GTdaily3GB1Mbps; GTdaily500MB512Kbps; GTdaily5GB384Kbps
-Guinea: GNdaily1GB512Kbps; GNdaily2GB512Kbps; GNdaily500MB512Kbps
-Guinea-Bissau: GWdaily10GB384Kbps; GWdaily1GB512Kbps; GWdaily2GB512Kbps; GWdaily500MB512Kbps
-Guyana: GYunlimited1Mbps; GYdaily10GB384Kbps; GYdaily1GB512Kbps; GYdaily2GB512Kbps; GYdaily3GB1Mbps; GYdaily500MB512Kbps
-Haiti: HTunlimited1Mbps; HTdaily10GB384Kbps; HTdaily1GB1Mbps; HTdaily2GB1Mbps; HTdaily3GB1Mbps; HTdaily5GB384Kbps
-Honduras: HNunlimited1Mbps; HNdaily10GB384Kbps; HNdaily1GB512Kbps; HNdaily2GB512Kbps; HNdaily3GB1Mbps; HNdaily500MB512Kbps
-Hong Kong: HKunlimited1Mbps; HKdaily10GB384Kbps; HKdaily1GB1Mbps; HKdaily2GB1Mbps; HKdaily3GB1Mbps; HKdaily500MB512Kbps; HKdaily5GB384Kbps
-Hungary: HUunlimited1Mbps; HUdaily10GB512Kbps; HUdaily1GB1Mbps; HUdaily1GB512Kbps; HUdaily2GB500Kbps; HUdaily3GB1Mbps; HUdaily500MB512Kbps; HUdaily5GB512Kbps
-Iceland: ISunlimited1Mbps; ISdaily10GB512Kbps; ISdaily1GB1Mbps; ISdaily1GB512Kbps; ISdaily2GB1Mbps; ISdaily3GB512Kbps; ISdaily5GB512Kbps
-India: INunlimited1Mbps; INdaily10GB384Kbps; INdaily1GB1Mbps; INdaily1GB512Kbps; INdaily2GB512Kbps; INdaily3GB1Mbps; INdaily500MB512Kbps; INdaily5GB384Kbps
-Indonesia: IDunlimited1Mbps; IDdaily10GB384Kbps; IDdaily1GB1Mbps; IDdaily2GB1Mbps; IDdaily3GB1Mbps; IDdaily500MB512Kbps; IDdaily5GB384Kbps
-Iraq: IQunlimited1Mbps; IQdaily10GB384Kbps; IQdaily1GB1Mbps; IQdaily1GB512Kbps; IQdaily2GB512Kbps; IQdaily3GB512Kbps; IQdaily500MB512Kbps
-Ireland: IEunlimited1Mbps; IEdaily10GB512Kbps; IEdaily1GB1Mbps; IEdaily1GB512Kbps; IEdaily2GB500Kbps; IEdaily3GB1Mbps; IEdaily500MB512Kbps; IEdaily5GB512Kbps
-Isle of Man: IMdaily1GB384Kbps; IMdaily2GB384Kbps; IMdaily500MB384Kbps
-Israel: ILunlimited1Mbps; ILdaily10GB512Kbps; ILdaily1GB1Mbps; ILdaily1GB512Kbps; ILdaily2GB512Kbps; ILdaily3GB512Kbps; ILdaily500MB512Kbps
-Italy: ITunlimited1Mbps; ITdaily10GB512Kbps; ITdaily1GB1Mbps; ITdaily1GB512Kbps; ITdaily2GB500Kbps; ITdaily3GB1Mbps; ITdaily500MB512Kbps; ITdaily5GB512Kbps
-Ivory Coast: CIdaily1GB512Kbps; CIdaily2GB512Kbps
-Japan: JPunlimited1Mbps; JPdaily10GB384Kbps; JPdaily1GB1Mbps; JPdaily2GB1Mbps; JPdaily3GB384Kbps; JPdaily500MB384Kbps; JPdaily5GB384Kbps
-Jersey: JEunlimited1Mbps; JEdaily1GB384Kbps; JEdaily2GB384Kbps; JEdaily3GB1Mbps; JEdaily500MB384Kbps
-Jordan: JOunlimited1Mbps; JOdaily10GB512Kbps; JOdaily1GB1Mbps; JOdaily1GB512Kbps; JOdaily2GB500Kbps; JOdaily3GB1Mbps; JOdaily500MB512Kbps
-Kazakhstan: KZunlimited1Mbps; KZdaily10GB384Kbps; KZdaily1GB512Kbps; KZdaily2GB512Kbps; KZdaily3GB1Mbps; KZdaily500MB512Kbps
-Kenya: KEunlimited1Mbps; KEdaily10GB512Kbps; KEdaily1GB1Mbps; KEdaily1GB512Kbps; KEdaily2GB512Kbps; KEdaily3GB512Kbps; KEdaily500MB512Kbps; KEdaily5GB512Kbps
-Kosovo: XKunlimited1Mbps; XKdaily10GB384Kbps; XKdaily1GB1Mbps; XKdaily2GB1Mbps; XKdaily3GB1Mbps; XKdaily5GB384Kbps
-Kuwait: KWunlimited1Mbps; KWdaily10GB384Kbps; KWdaily1GB1Mbps; KWdaily1GB512Kbps; KWdaily2GB512Kbps; KWdaily3GB1Mbps; KWdaily500MB512Kbps; KWdaily5GB384Kbps
-Kyrgyzstan: KGunlimited1Mbps; KGdaily10GB384Kbps; KGdaily1GB512Kbps; KGdaily2GB512Kbps; KGdaily3GB1Mbps; KGdaily500MB512Kbps
-Laos: LAunlimited1Mbps; LAdaily10GB384Kbps; LAdaily1GB1Mbps; LAdaily1GB512Kbps; LAdaily2GB512Kbps; LAdaily3GB512Kbps; LAdaily500MB512Kbps; LAdaily5GB384Kbps
-Latvia: LVunlimited1Mbps; LVdaily10GB512Kbps; LVdaily1GB1Mbps; LVdaily2GB500Kbps; LVdaily3GB1Mbps; LVdaily5GB512Kbps
-Lesotho: LSunlimited1Mbps; LSdaily10GB512Kbps; LSdaily1GB1Mbps; LSdaily2GB1Mbps; LSdaily3GB1Mbps; LSdaily5GB512Kbps
-Libya: LYdaily10GB384Kbps; LYdaily1GB512Kbps; LYdaily2GB512Kbps; LYdaily500MB512Kbps
-Liechtenstein: LIunlimited1Mbps; LIdaily10GB512Kbps; LIdaily1GB1Mbps; LIdaily2GB1Mbps; LIdaily3GB1Mbps; LIdaily5GB512Kbps
-Lithuania: LTunlimited1Mbps; LTdaily10GB512Kbps; LTdaily1GB1Mbps; LTdaily1GB512Kbps; LTdaily2GB500Kbps; LTdaily3GB1Mbps; LTdaily500MB512Kbps; LTdaily5GB512Kbps
-Luxembourg: LUunlimited1Mbps; LUdaily10GB512Kbps; LUdaily1GB1Mbps; LUdaily1GB512Kbps; LUdaily2GB500Kbps; LUdaily3GB1Mbps; LUdaily500MB512Kbps; LUdaily5GB512Kbps
-Macao (China): MOunlimited1Mbps; MOdaily10GB384Kbps; MOdaily1GB1Mbps; MOdaily1GB384Kbps; MOdaily2GB384Kbps; MOdaily3GB384Kbps; MOdaily500MB384Kbps; MOdaily5GB384Kbps
-Malawi: MWunlimited1Mbps; MWdaily10GB384Kbps; MWdaily1GB1Mbps; MWdaily1GB512Kbps; MWdaily2GB512Kbps; MWdaily3GB1Mbps; MWdaily500MB512Kbps; MWdaily5GB384Kbps
-Malaysia: MYunlimited1Mbps; MYdaily10GB384Kbps; MYdaily1GB1Mbps; MYdaily1GB512Kbps; MYdaily2GB512Kbps; MYdaily3GB512Kbps; MYdaily500MB512Kbps; MYdaily5GB384Kbps
-Maldives: MVunlimited1Mbps; MVdaily1GB512Kbps; MVdaily3GB1Mbps; MVdaily3GB256Kbps
-Malta: MTunlimited1Mbps; MTdaily10GB512Kbps; MTdaily1GB1Mbps; MTdaily2GB1Mbps; MTdaily3GB1Mbps; MTdaily5GB512Kbps
-Martinique: MQunlimited1Mbps; MQdaily10GB512Kbps; MQdaily1GB1Mbps; MQdaily2GB1Mbps; MQdaily3GB1Mbps; MQdaily5GB512Kbps
-Mauritania: MRunlimited1Mbps; MRdaily10GB384Kbps; MRdaily1GB1Mbps; MRdaily2GB1Mbps; MRdaily3GB1Mbps; MRdaily5GB384Kbps
-Mauritius: MUunlimited1Mbps; MUdaily10GB384Kbps; MUdaily1GB1Mbps; MUdaily1GB512Kbps; MUdaily2GB512Kbps; MUdaily3GB1Mbps; MUdaily500MB512Kbps; MUdaily5GB384Kbps
-Mayotte: YTunlimited1Mbps; YTdaily10GB512Kbps; YTdaily1GB1Mbps; YTdaily2GB1Mbps; YTdaily3GB1Mbps; YTdaily5GB512Kbps
-Mexico: MXunlimited1Mbps; MXdaily10GB384Kbps; MXdaily1GB1Mbps; MXdaily1GB512Kbps; MXdaily2GB512Kbps; MXdaily3GB1Mbps; MXdaily500MB512Kbps
-Moldova: MDunlimited1Mbps; MDdaily10GB512Kbps; MDdaily1GB1Mbps; MDdaily1GB512Kbps; MDdaily2GB500Kbps; MDdaily3GB1Mbps; MDdaily500MB512Kbps; MDdaily5GB512Kbps
-Monaco: MCunlimited1Mbps; MCdaily10GB384Kbps; MCdaily1GB1Mbps; MCdaily1GB512Kbps; MCdaily2GB512Kbps; MCdaily3GB1Mbps; MCdaily500MB512Kbps; MCdaily5GB384Kbps
-Mongolia: MNunlimited1Mbps; MNdaily10GB384Kbps; MNdaily1GB1Mbps; MNdaily1GB512Kbps; MNdaily2GB1Mbps; MNdaily3GB512Kbps; MNdaily5GB384Kbps
-Montenegro: MEunlimited1Mbps; MEdaily10GB384Kbps; MEdaily1GB512Kbps; MEdaily2GB512Kbps; MEdaily3GB1Mbps; MEdaily500MB512Kbps
-Montserrat: MSdaily1GB512Kbps; MSdaily2GB500Kbps; MSdaily500MB512Kbps
-Morocco: MAunlimited1Mbps; MAdaily10GB512Kbps; MAdaily1GB1Mbps; MAdaily1GB512Kbps; MAdaily2GB500Kbps; MAdaily3GB512Kbps; MAdaily500MB512Kbps
-Nauru: NRunlimited1Mbps; NRdaily10GB384Kbps; NRdaily1GB1Mbps; NRdaily2GB1Mbps; NRdaily3GB1Mbps; NRdaily5GB384Kbps
-Nepal: NPunlimited1Mbps; NPdaily10GB384Kbps; NPdaily1GB1Mbps; NPdaily2GB512Kbps; NPdaily3GB1Mbps; NPdaily500MB512Kbps; NPdaily5GB384Kbps
-Netherlands: NLunlimited1Mbps; NLdaily10GB512Kbps; NLdaily1GB1Mbps; NLdaily1GB512Kbps; NLdaily2GB500Kbps; NLdaily3GB1Mbps; NLdaily500MB512Kbps; NLdaily5GB512Kbps
-New Caledonia: NCunlimited1Mbps; NCdaily10GB512Kbps; NCdaily1GB1Mbps; NCdaily2GB1Mbps; NCdaily3GB1Mbps; NCdaily5GB512Kbps
-New Zealand: NZunlimited1Mbps; NZdaily10GB384Kbps; NZdaily1GB1Mbps; NZdaily1GB512Kbps; NZdaily2GB512Kbps; NZdaily3GB512Kbps; NZdaily500MB512Kbps
-Nicaragua: NIunlimited1Mbps; NIdaily10GB384Kbps; NIdaily1GB512Kbps; NIdaily2GB512Kbps; NIdaily3GB1Mbps; NIdaily500MB512Kbps
-Niger: NEunlimited1Mbps; NEdaily10GB384Kbps; NEdaily1GB1Mbps; NEdaily1GB512Kbps; NEdaily2GB512Kbps; NEdaily3GB1Mbps; NEdaily500MB512Kbps; NEdaily5GB384Kbps
-Nigeria: NGunlimited1Mbps; NGdaily1GB512Kbps; NGdaily2GB512Kbps; NGdaily3GB1Mbps; NGdaily500MB512Kbps
-North Macedonia: MKunlimited1Mbps; MKdaily10GB512Kbps; MKdaily1GB1Mbps; MKdaily1GB512Kbps; MKdaily2GB512Kbps; MKdaily3GB1Mbps; MKdaily500MB512Kbps; MKdaily5GB512Kbps
-Norway: NOunlimited1Mbps; NOdaily10GB512Kbps; NOdaily1GB1Mbps; NOdaily1GB512Kbps; NOdaily2GB500Kbps; NOdaily3GB1Mbps; NOdaily500MB512Kbps; NOdaily5GB512Kbps
-Oman: OMunlimited1Mbps; OMdaily10GB512Kbps; OMdaily1GB512Kbps; OMdaily2GB500Kbps; OMdaily3GB1Mbps; OMdaily500MB512Kbps
-Pakistan: PKunlimited1Mbps; PKdaily10GB384Kbps; PKdaily1GB512Kbps; PKdaily2GB512Kbps; PKdaily3GB1Mbps; PKdaily500MB512Kbps
-Panama: PAunlimited1Mbps; PAdaily10GB512Kbps; PAdaily1GB1Mbps; PAdaily1GB512Kbps; PAdaily2GB512Kbps; PAdaily3GB1Mbps; PAdaily500MB512Kbps; PAdaily5GB512Kbps
-Papua New Guinea: PGunlimited1Mbps; PGdaily10GB384Kbps; PGdaily1GB1Mbps; PGdaily2GB1Mbps; PGdaily3GB1Mbps; PGdaily5GB384Kbps
-Paraguay: PYunlimited1Mbps; PYdaily10GB384Kbps; PYdaily1GB512Kbps; PYdaily2GB512Kbps; PYdaily3GB1Mbps; PYdaily500MB512Kbps
-Peru: PEunlimited1Mbps; PEdaily10GB384Kbps; PEdaily1GB1Mbps; PEdaily1GB512Kbps; PEdaily2GB512Kbps; PEdaily3GB1Mbps; PEdaily500MB512Kbps; PEdaily5GB384Kbps
-Philippines: PHunlimited1Mbps; PHdaily10GB384Kbps; PHdaily1GB1Mbps; PHdaily1GB512Kbps; PHdaily2GB512Kbps; PHdaily3GB1Mbps; PHdaily500MB512Kbps; PHdaily5GB384Kbps
-Poland: PLunlimited1Mbps; PLdaily10GB512Kbps; PLdaily1GB1Mbps; PLdaily1GB512Kbps; PLdaily2GB500Kbps; PLdaily3GB1Mbps; PLdaily500MB512Kbps; PLdaily5GB512Kbps
-Portugal: PTunlimited1Mbps; PTdaily10GB512Kbps; PTdaily1GB1Mbps; PTdaily1GB512Kbps; PTdaily2GB500Kbps; PTdaily3GB512Kbps; PTdaily500MB512Kbps; PTdaily5GB512Kbps
-Qatar: QAunlimited1Mbps; QAdaily10GB384Kbps; QAdaily1GB1Mbps; QAdaily1GB512Kbps; QAdaily2GB512Kbps; QAdaily3GB1Mbps; QAdaily500MB512Kbps
-Reunion: REunlimited1Mbps; REdaily10GB512Kbps; REdaily1GB1Mbps; REdaily1GB512Kbps; REdaily2GB500Kbps; REdaily3GB512Kbps; REdaily500MB512Kbps; REdaily5GB512Kbps
-Romania: ROunlimited1Mbps; ROdaily10GB512Kbps; ROdaily1GB1Mbps; ROdaily1GB512Kbps; ROdaily2GB500Kbps; ROdaily3GB1Mbps; ROdaily500MB512Kbps; ROdaily5GB512Kbps
-Russia: RUdaily1GB512Kbps; RUdaily2GB512Kbps; RUdaily500MB512Kbps
-Rwanda: RWunlimited1Mbps; RWdaily10GB384Kbps; RWdaily1GB1Mbps; RWdaily1GB512Kbps; RWdaily2GB512Kbps; RWdaily3GB1Mbps; RWdaily500MB512Kbps; RWdaily5GB384Kbps
-Saint Barthelemy: BLunlimited1Mbps; BLdaily10GB512Kbps; BLdaily1GB1Mbps; BLdaily2GB1Mbps; BLdaily3GB1Mbps; BLdaily5GB512Kbps
-Saint Kitts and Nevis: KNdaily1GB512Kbps; KNdaily2GB500Kbps; KNdaily500MB512Kbps
-Saint Lucia: LCdaily1GB512Kbps; LCdaily2GB500Kbps; LCdaily500MB512Kbps
-Saint Vincent and Grenadines: VCdaily1GB512Kbps; VCdaily2GB512Kbps; VCdaily500MB512Kbps
-Samoa: WSunlimited1Mbps; WSdaily10GB384Kbps; WSdaily1GB1Mbps; WSdaily1GB512Kbps; WSdaily2GB512Kbps; WSdaily3GB1Mbps; WSdaily500MB512Kbps; WSdaily5GB384Kbps
-San Marino: SMunlimited1Mbps; SMdaily10GB512Kbps; SMdaily1GB1Mbps; SMdaily2GB1Mbps; SMdaily3GB1Mbps; SMdaily5GB512Kbps
-Saudi Arabia: SAunlimited1Mbps; SAdaily10GB384Kbps; SAdaily1GB1Mbps; SAdaily1GB512Kbps; SAdaily2GB512Kbps; SAdaily3GB1Mbps; SAdaily500MB512Kbps
-Senegal: SNunlimited1Mbps; SNdaily10GB512Kbps; SNdaily1GB1Mbps; SNdaily1GB512Kbps; SNdaily2GB512Kbps; SNdaily3GB1Mbps; SNdaily500MB512Kbps; SNdaily5GB512Kbps
-Serbia: RSunlimited1Mbps; RSdaily10GB512Kbps; RSdaily1GB512Kbps; RSdaily2GB512Kbps; RSdaily3GB1Mbps; RSdaily500MB512Kbps
-Seychelles: SCunlimited1Mbps; SCdaily10GB384Kbps; SCdaily1GB1Mbps; SCdaily1GB512Kbps; SCdaily2GB512Kbps; SCdaily3GB1Mbps; SCdaily500MB512Kbps; SCdaily5GB384Kbps
-Sierra Leone: SLdaily10GB384Kbps; SLdaily1GB512Kbps; SLdaily2GB512Kbps; SLdaily500MB512Kbps
-Singapore: SGunlimited1Mbps; SGdaily10GB512Kbps; SGdaily1GB1Mbps; SGdaily2GB1Mbps; SGdaily3GB1Mbps; SGdaily500MB512Kbps; SGdaily5GB384Kbps
-Slovakia: SKunlimited1Mbps; SKdaily10GB512Kbps; SKdaily1GB1Mbps; SKdaily2GB1Mbps; SKdaily3GB1Mbps; SKdaily5GB512Kbps
-Slovenia: SIunlimited1Mbps; SIdaily10GB512Kbps; SIdaily1GB1Mbps; SIdaily1GB512Kbps; SIdaily2GB500Kbps; SIdaily3GB1Mbps; SIdaily500MB512Kbps; SIdaily5GB512Kbps
-South Africa: ZAunlimited1Mbps; ZAdaily10GB512Kbps; ZAdaily1GB1Mbps; ZAdaily1GB512Kbps; ZAdaily2GB512Kbps; ZAdaily3GB512Kbps; ZAdaily500MB512Kbps
-South Korea: KRunlimited1Mbps; KRdaily10GB384Kbps; KRdaily1GB1Mbps; KRdaily2GB512Kbps; KRdaily3GB1Mbps; KRdaily500MB512Kbps; KRdaily5GB384Kbps
-South Sudan: SSunlimited1Mbps; SSdaily10GB384Kbps; SSdaily1GB1Mbps; SSdaily2GB1Mbps; SSdaily3GB1Mbps; SSdaily5GB384Kbps
-Spain: ESunlimited1Mbps; ESdaily10GB512Kbps; ESdaily1GB1Mbps; ESdaily1GB512Kbps; ESdaily2GB500Kbps; ESdaily3GB1Mbps; ESdaily500MB512Kbps; ESdaily5GB512Kbps
-Sri Lanka: LKunlimited1Mbps; LKdaily10GB512Kbps; LKdaily1GB512Kbps; LKdaily2GB512Kbps; LKdaily3GB1Mbps; LKdaily3GB512Kbps; LKdaily500MB512Kbps; LKdaily5GB512Kbps
-Suriname: SRunlimited1Mbps; SRdaily10GB384Kbps; SRdaily1GB512Kbps; SRdaily2GB512Kbps; SRdaily3GB1Mbps; SRdaily500MB512Kbps
-Sweden: SEunlimited1Mbps; SEdaily10GB512Kbps; SEdaily1GB1Mbps; SEdaily1GB512Kbps; SEdaily2GB500Kbps; SEdaily3GB1Mbps; SEdaily500MB512Kbps; SEdaily5GB512Kbps
-Switzerland: CHunlimited1Mbps; CHdaily10GB512Kbps; CHdaily1GB1Mbps; CHdaily1GB512Kbps; CHdaily2GB500Kbps; CHdaily3GB512Kbps; CHdaily500MB512Kbps; CHdaily5GB512Kbps
-Tajikistan: TJunlimited1Mbps; TJdaily10GB384Kbps; TJdaily1GB512Kbps; TJdaily2GB512Kbps; TJdaily3GB1Mbps; TJdaily500MB512Kbps
-Tanzania: TZunlimited1Mbps; TZdaily1GB512Kbps; TZdaily2GB512Kbps; TZdaily3GB1Mbps; TZdaily500MB512Kbps
-Thailand: THunlimited1Mbps; THdaily10GB384Kbps; THdaily1GB1Mbps; THdaily2GB512Kbps; THdaily3GB1Mbps; THdaily500MB512Kbps; THdaily5GB384Kbps
-Togo: TGunlimited1Mbps; TGdaily10GB384Kbps; TGdaily1GB1Mbps; TGdaily2GB1Mbps; TGdaily3GB1Mbps; TGdaily5GB384Kbps
-Tonga: TOunlimited1Mbps; TOdaily10GB384Kbps; TOdaily1GB1Mbps; TOdaily2GB1Mbps; TOdaily3GB1Mbps; TOdaily5GB384Kbps
-Trinidad and Tobago: TTdaily1GB512Kbps; TTdaily2GB512Kbps; TTdaily500MB512Kbps
-Tunisia: TNunlimited1Mbps; TNdaily10GB384Kbps; TNdaily1GB1Mbps; TNdaily1GB512Kbps; TNdaily2GB512Kbps; TNdaily3GB1Mbps; TNdaily500MB512Kbps
-Turkey: TRunlimited1Mbps; TRdaily10GB512Kbps; TRdaily1GB1Mbps; TRdaily1GB512Kbps; TRdaily2GB512Kbps; TRdaily3GB1Mbps; TRdaily500MB512Kbps; TRdaily5GB512Kbps
-Turks and Caicos Islands: TCdaily1GB512Kbps; TCdaily2GB512Kbps; TCdaily500MB512Kbps
-Uganda: UGunlimited1Mbps; UGdaily10GB384Kbps; UGdaily1GB512Kbps; UGdaily2GB512Kbps; UGdaily3GB1Mbps; UGdaily500MB512Kbps
-Ukraine: UAunlimited1Mbps; UAdaily10GB512Kbps; UAdaily1GB1Mbps; UAdaily1GB512Kbps; UAdaily2GB500Kbps; UAdaily3GB1Mbps; UAdaily500MB512Kbps; UAdaily5GB512Kbps
-United Arab Emirates: AEunlimited1Mbps; AEdaily10GB512Kbps; AEdaily1GB1Mbps; AEdaily2GB500Kbps; AEdaily3GB512Kbps; AEdaily500MB512Kbps; AEdaily5GB512Kbps
-United Kingdom: GBunlimited1Mbps; GBdaily10GB512Kbps; GBdaily1GB1Mbps; GBdaily1GB512Kbps; GBdaily2GB500Kbps; GBdaily3GB1Mbps; GBdaily500MB512Kbps; GBdaily5GB512Kbps
-United States: USunlimited1Mbps; USdaily1.5GB512Kbps; USdaily10GB384Kbps; USdaily1GB1Mbps; USdaily1GB512Kbps; USdaily2GB512Kbps; USdaily3GB1Mbps; USdaily500MB512Kbps; USdaily5GB384Kbps
-Uruguay: UYunlimited1Mbps; UYdaily10GB512Kbps; UYdaily1GB512Kbps; UYdaily2GB512Kbps; UYdaily3GB1Mbps; UYdaily500MB512Kbps
-Uzbekistan: UZunlimited1Mbps; UZdaily10GB384Kbps; UZdaily1GB512Kbps; UZdaily2GB512Kbps; UZdaily3GB1Mbps; UZdaily500MB512Kbps
-Vanuatu: VUunlimited1Mbps; VUdaily10GB384Kbps; VUdaily1GB1Mbps; VUdaily2GB1Mbps; VUdaily3GB1Mbps; VUdaily5GB384Kbps
-Vatican City: VAunlimited1Mbps; VAdaily10GB512Kbps; VAdaily1GB1Mbps; VAdaily2GB1Mbps; VAdaily3GB1Mbps; VAdaily5GB512Kbps
-Venezuela: VEunlimited1Mbps; VEdaily10GB384Kbps; VEdaily1GB1Mbps; VEdaily2GB1Mbps; VEdaily3GB1Mbps; VEdaily5GB384Kbps
-Vietnam: VNunlimited1Mbps; VNdaily10GB384Kbps; VNdaily1GB1Mbps; VNdaily2GB1Mbps; VNdaily3GB1Mbps; VNdaily500MB512Kbps; VNdaily5GB384Kbps
-Yemen: YEunlimited1Mbps; YEdaily10GB512Kbps; YEdaily1GB1Mbps; YEdaily2GB1Mbps; YEdaily3GB1Mbps; YEdaily5GB512Kbps
-Zambia: ZMunlimited1Mbps; ZMdaily10GB384Kbps; ZMdaily1GB1Mbps; ZMdaily1GB512Kbps; ZMdaily2GB512Kbps; ZMdaily3GB1Mbps; ZMdaily500MB512Kbps; ZMdaily5GB384Kbps
-Zimbabwe: ZWunlimited1Mbps; ZWdaily10GB384Kbps; ZWdaily1GB1Mbps; ZWdaily2GB1Mbps; ZWdaily3GB1Mbps; ZWdaily5GB384Kbps
+Each line gives COUNTRY (CODE) followed by plan suffixes. Join CODE + suffix without spaces to obtain the heading key. daily3GB1Mbps means 3GB of high-speed data resetting each day, then unlimited data at 1 Mbps. unlimited1Mbps means no daily quota, at up to 1 Mbps. Other sizes and speeds follow the same notation; full terms are in each plan block.
+Afghanistan (AF): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Aland Islands (AX): unlimited1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Albania (AL): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Algeria (DZ): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Andorra (AD): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Angola (AO): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Anguilla (AI): unlimited1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Antigua and Barbuda (AG): unlimited1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Argentina (AR): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Armenia (AM): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Aruba (AW): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Australia (AU): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB384Kbps
+Austria (AT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Azerbaijan (AZ): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Bahamas (BS): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Bahrain (BH): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+Bangladesh (BD): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily3GB512Kbps; daily500MB512Kbps
+Barbados (BB): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Belarus (BY): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Belgium (BE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Belize (BZ): daily1GB384Kbps; daily2GB384Kbps; daily500MB384Kbps
+Benin (BJ): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Bermuda (BM): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Bhutan (BT): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Bolivia (BO): unlimited1Mbps; daily3GB1Mbps
+Bonaire (BQ): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Bosnia and Herzegovina (BA): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Botswana (BW): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Brazil (BR): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+British Virgin Islands (VG): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Brunei Darussalam (BN): daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+Bulgaria (BG): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Burkina Faso (BF): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Cambodia (KH): unlimited1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily3GB512Kbps; daily500MB512Kbps
+Cameroon (CM): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Canada (CA): unlimited1Mbps; daily1.5GB500Kbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB384Kbps
+Cape Verde (CV): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Cayman Islands (KY): daily10GB512Kbps; daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Chad (TD): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Chile (CL): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+China (CN): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB384Kbps; daily2GB384Kbps; daily3GB512Kbps; daily500MB384Kbps; daily5GB384Kbps
+Colombia (CO): unlimited1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily3GB512Kbps; daily500MB512Kbps
+Congo Dem. Rep (CD): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Congo Republic (CG): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Costa Rica (CR): unlimited1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Croatia (HR): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Curaçao (CW): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Cyprus (CY): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Czech Republic (CZ): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Denmark (DK): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Dominica (DM): daily10GB512Kbps; daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Dominican Republic (DO): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Ecuador (EC): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Egypt (EG): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+El Salvador (SV): unlimited1Mbps; daily3GB1Mbps
+Estonia (EE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Eswatini (SZ): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Ethiopia (ET): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Faroe Islands (FO): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Fiji (FJ): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Finland (FI): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+France (FR): unlimited1Mbps; daily10GB1Mbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB1Mbps
+French Guiana (GF): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+French Polynesia (PF): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+French Saint Martin (MF): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Gabon (GA): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Gambia (GM): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Georgia (GE): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Germany (DE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Ghana (GH): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Gibraltar (GI): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Greece (GR): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Greenland (GL): daily1GB512Kbps; daily2GB512Kbps
+Grenada (GD): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Guadeloupe (GP): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Guam (GU): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Guatemala (GT): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Guinea (GN): daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Guinea-Bissau (GW): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Guyana (GY): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Haiti (HT): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Honduras (HN): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Hong Kong (HK): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Hungary (HU): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Iceland (IS): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB1Mbps; daily3GB512Kbps; daily5GB512Kbps
+India (IN): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Indonesia (ID): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Iraq (IQ): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+Ireland (IE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Isle of Man (IM): daily1GB384Kbps; daily2GB384Kbps; daily500MB384Kbps
+Israel (IL): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+Italy (IT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Ivory Coast (CI): daily1GB512Kbps; daily2GB512Kbps
+Japan (JP): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB384Kbps; daily500MB384Kbps; daily5GB384Kbps
+Jersey (JE): unlimited1Mbps; daily1GB384Kbps; daily2GB384Kbps; daily3GB1Mbps; daily500MB384Kbps
+Jordan (JO): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Kazakhstan (KZ): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Kenya (KE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Kosovo (XK): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Kuwait (KW): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Kyrgyzstan (KG): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Laos (LA): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB384Kbps
+Latvia (LV): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB500Kbps; daily3GB1Mbps; daily5GB512Kbps
+Lesotho (LS): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Libya (LY): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Liechtenstein (LI): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Lithuania (LT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Luxembourg (LU): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Macao (China) (MO): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB384Kbps; daily2GB384Kbps; daily3GB384Kbps; daily500MB384Kbps; daily5GB384Kbps
+Malawi (MW): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Malaysia (MY): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB384Kbps
+Maldives (MV): unlimited1Mbps; daily1GB512Kbps; daily3GB1Mbps; daily3GB256Kbps
+Malta (MT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Martinique (MQ): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Mauritania (MR): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Mauritius (MU): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Mayotte (YT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Mexico (MX): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Moldova (MD): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Monaco (MC): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Mongolia (MN): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB1Mbps; daily3GB512Kbps; daily5GB384Kbps
+Montenegro (ME): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Montserrat (MS): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Morocco (MA): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps
+Nauru (NR): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Nepal (NP): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Netherlands (NL): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+New Caledonia (NC): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+New Zealand (NZ): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+Nicaragua (NI): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Niger (NE): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Nigeria (NG): unlimited1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+North Macedonia (MK): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Norway (NO): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Oman (OM): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps
+Pakistan (PK): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Panama (PA): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Papua New Guinea (PG): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Paraguay (PY): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Peru (PE): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Philippines (PH): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Poland (PL): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Portugal (PT): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Qatar (QA): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Reunion (RE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Romania (RO): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Russia (RU): daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Rwanda (RW): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Saint Barthelemy (BL): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Saint Kitts and Nevis (KN): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Saint Lucia (LC): daily1GB512Kbps; daily2GB500Kbps; daily500MB512Kbps
+Saint Vincent and Grenadines (VC): daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Samoa (WS): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+San Marino (SM): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Saudi Arabia (SA): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Senegal (SN): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Serbia (RS): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Seychelles (SC): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Sierra Leone (SL): daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Singapore (SG): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Slovakia (SK): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Slovenia (SI): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+South Africa (ZA): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB512Kbps; daily500MB512Kbps
+South Korea (KR): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+South Sudan (SS): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Spain (ES): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Sri Lanka (LK): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Suriname (SR): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Sweden (SE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Switzerland (CH): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+Tajikistan (TJ): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Tanzania (TZ): unlimited1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Thailand (TH): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Togo (TG): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Tonga (TO): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Trinidad and Tobago (TT): daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Tunisia (TN): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Turkey (TR): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+Turks and Caicos Islands (TC): daily1GB512Kbps; daily2GB512Kbps; daily500MB512Kbps
+Uganda (UG): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Ukraine (UA): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+United Arab Emirates (AE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB500Kbps; daily3GB512Kbps; daily500MB512Kbps; daily5GB512Kbps
+United Kingdom (GB): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB500Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB512Kbps
+United States (US): unlimited1Mbps; daily1.5GB512Kbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Uruguay (UY): unlimited1Mbps; daily10GB512Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Uzbekistan (UZ): unlimited1Mbps; daily10GB384Kbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps
+Vanuatu (VU): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Vatican City (VA): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Venezuela (VE): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
+Vietnam (VN): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Yemen (YE): unlimited1Mbps; daily10GB512Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB512Kbps
+Zambia (ZM): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily1GB512Kbps; daily2GB512Kbps; daily3GB1Mbps; daily500MB512Kbps; daily5GB384Kbps
+Zimbabwe (ZW): unlimited1Mbps; daily10GB384Kbps; daily1GB1Mbps; daily2GB1Mbps; daily3GB1Mbps; daily5GB384Kbps
 
 ## Country fixed-package directory
 
@@ -455,25 +455,26 @@ Zimbabwe: 100MB, 200MB, 300MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 9GB, 10
 
 ## Regional plan directory
 
-Africa: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: africaUnlimited0.384Mbps1; africaUnlimited1Mbps2
-Asia: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB, 100GB; unlimited keys: asiaUnlimited0.384Mbps1; asiaUnlimited0.384Mbps2; asiaUnlimited1Mbps3; asiaUnlimited0.128Mbps4; asiaUnlimited0.384Mbps5; asiaUnlimited0.384Mbps6; asiaUnlimited0.512Mbps7; asiaUnlimited1Mbps8
-Balkans: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
-Baltic: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
-Caribbean: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: caribbeanUnlimited0.384Mbps1; caribbeanUnlimited0.512Mbps2
-Central Asia: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: centralasiaUnlimited0.384Mbps1; centralasiaUnlimited0.512Mbps2; centralasiaUnlimited1Mbps3
-East Asia: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: eastasiaUnlimited0.384Mbps1; eastasiaUnlimited0.512Mbps2; eastasiaUnlimited1Mbps3; eastasiaUnlimited0.384Mbps4; eastasiaUnlimited0.128Mbps5; eastasiaUnlimited0.384Mbps6; eastasiaUnlimited0.384Mbps7; eastasiaUnlimited0.512Mbps8; eastasiaUnlimited1Mbps9
-Europe: fixed 100MB, 300MB, 500MB, 800MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB, 100GB; unlimited keys: europeUnlimited0.384Mbps1; europeUnlimited0.384Mbps2; europeUnlimited0.384Mbps3; europeUnlimited0.384Mbps4; europeUnlimited1Mbps5; europeUnlimited0.128Mbps6; europeUnlimited0.384Mbps7; europeUnlimited0.512Mbps8; europeUnlimited1Mbps9; europeUnlimited0.128Mbps10
-Global: fixed 200MB, 300MB, 1GB, 2GB, 3GB, 5GB, 10GB, 20GB, 40GB, 50GB, 60GB, 80GB; unlimited keys: globalUnlimited0.384Mbps1
-Latin America: fixed 500MB, 1GB, 2GB, 3GB, 5GB, 8GB, 10GB, 15GB, 20GB, 30GB, 50GB; unlimited keys: latinamericaUnlimited0.384Mbps1; latinamericaUnlimited1Mbps2
-Middle East: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: middleeastUnlimited0.384Mbps1; middleeastUnlimited0.512Mbps2; middleeastUnlimited1Mbps3; middleeastUnlimited0.384Mbps4; middleeastUnlimited1Mbps5
-Netherlands Antilles: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
-North America: fixed 100MB, 500MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: northamericaUnlimited0.384Mbps1; northamericaUnlimited0.512Mbps2; northamericaUnlimited1Mbps3; northamericaUnlimited0.5Mbps4; northamericaUnlimited0.512Mbps5
-Oceania: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: oceaniaUnlimited0.384Mbps1; oceaniaUnlimited1Mbps2; oceaniaUnlimited0.384Mbps3; oceaniaUnlimited0.512Mbps4; oceaniaUnlimited1Mbps5
-Regional (3 countries): fixed 1GB, 3GB; unlimited keys: none
-Scandinavia: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
-South America: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: southamericaUnlimited0.384Mbps1; southamericaUnlimited0.512Mbps2; southamericaUnlimited1Mbps3
-South Asia: fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: southasiaUnlimited0.384Mbps1; southasiaUnlimited1Mbps2
-Southeast Asia: fixed 100MB, 500MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: southeastasiaUnlimited0.384Mbps1; southeastasiaUnlimited1Mbps2; southeastasiaUnlimited0.128Mbps3; southeastasiaUnlimited0.384Mbps4; southeastasiaUnlimited0.384Mbps5; southeastasiaUnlimited0.128Mbps6; southeastasiaUnlimited0.128Mbps7
+Join the region code in parentheses and an unlimited suffix to obtain its heading key. Fixed packages use REGION: fixed SIZE.
+Africa (africa): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited1Mbps2
+Asia (asia): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB, 100GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.384Mbps2; Unlimited1Mbps3; Unlimited0.128Mbps4; Unlimited0.384Mbps5; Unlimited0.384Mbps6; Unlimited0.512Mbps7; Unlimited1Mbps8
+Balkans (balkans): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
+Baltic (baltic): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
+Caribbean (caribbean): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2
+Central Asia (centralasia): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2; Unlimited1Mbps3
+East Asia (eastasia): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2; Unlimited1Mbps3; Unlimited0.384Mbps4; Unlimited0.128Mbps5; Unlimited0.384Mbps6; Unlimited0.384Mbps7; Unlimited0.512Mbps8; Unlimited1Mbps9
+Europe (europe): fixed 100MB, 300MB, 500MB, 800MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB, 100GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.384Mbps2; Unlimited0.384Mbps3; Unlimited0.384Mbps4; Unlimited1Mbps5; Unlimited0.128Mbps6; Unlimited0.384Mbps7; Unlimited0.512Mbps8; Unlimited1Mbps9; Unlimited0.128Mbps10
+Global (global): fixed 200MB, 300MB, 1GB, 2GB, 3GB, 5GB, 10GB, 20GB, 40GB, 50GB, 60GB, 80GB; unlimited keys: Unlimited0.384Mbps1
+Latin America (latinamerica): fixed 500MB, 1GB, 2GB, 3GB, 5GB, 8GB, 10GB, 15GB, 20GB, 30GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited1Mbps2
+Middle East (middleeast): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2; Unlimited1Mbps3; Unlimited0.384Mbps4; Unlimited1Mbps5
+Netherlands Antilles (netherlandsantilles): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
+North America (northamerica): fixed 100MB, 500MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2; Unlimited1Mbps3; Unlimited0.5Mbps4; Unlimited0.512Mbps5
+Oceania (oceania): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited1Mbps2; Unlimited0.384Mbps3; Unlimited0.512Mbps4; Unlimited1Mbps5
+Regional (3 countries) (regional): fixed 1GB, 3GB; unlimited keys: none
+Scandinavia (scandinavia): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: none
+South America (southamerica): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited0.512Mbps2; Unlimited1Mbps3
+South Asia (southasia): fixed 100MB, 500MB, 1GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited1Mbps2
+Southeast Asia (southeastasia): fixed 100MB, 500MB, 1GB, 1.5GB, 2GB, 3GB, 4GB, 5GB, 6GB, 7GB, 8GB, 9GB, 10GB, 12GB, 15GB, 20GB, 30GB, 40GB, 50GB; unlimited keys: Unlimited0.384Mbps1; Unlimited1Mbps2; Unlimited0.128Mbps3; Unlimited0.384Mbps4; Unlimited0.384Mbps5; Unlimited0.128Mbps6; Unlimited0.128Mbps7
 
 ## Countries
 
