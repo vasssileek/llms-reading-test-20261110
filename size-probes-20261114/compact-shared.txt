@@ -72608,7 +72608,8 @@ Days=USD total:
 ### inflight (inflight)
 
 Product|Data|Days|USD|Link
----|---|Inflight|100MB|1|9.99|https://esim.dog/special?category=inflight&data=0.1&validity=1
+---|---|---:|---:|---
+Inflight|100MB|1|9.99|https://esim.dog/special?category=inflight&data=0.1&validity=1
 Inflight|100MB|7|10.49|https://esim.dog/special?category=inflight&data=0.1&validity=7
 Inflight|100MB|30|10.99|https://esim.dog/special?category=inflight&data=0.1&validity=30
 Inflight|100MB|180|11.99|https://esim.dog/special?category=inflight&data=0.1&validity=180
@@ -72637,7 +72638,8 @@ Inflight|3GB|365|246.99|https://esim.dog/special?category=inflight&data=3&validi
 ### cruise (cruise)
 
 Product|Data|Days|USD|Link
----|---|Cruise|100MB|5|14.49|https://esim.dog/special?category=cruise&data=0.1&validity=5
+---|---|---:|---:|---
+Cruise|100MB|5|14.49|https://esim.dog/special?category=cruise&data=0.1&validity=5
 Cruise|100MB|7|15.49|https://esim.dog/special?category=cruise&data=0.1&validity=7
 Cruise|100MB|10|16.49|https://esim.dog/special?category=cruise&data=0.1&validity=10
 Cruise|100MB|14|16.49|https://esim.dog/special?category=cruise&data=0.1&validity=14
