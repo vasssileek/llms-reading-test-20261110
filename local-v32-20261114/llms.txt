@@ -1,0 +1,12 @@
+# eSIM.dog
+
+> Prepaid travel eSIMs and related products.
+
+## Product and price catalogue
+
+- [Complete product and price catalogue](https://raw.githubusercontent.com/vasssileek/llms-reading-test-20261110/524261adce8c5490fe82f43135d4d2298b0565ba/local-v32-20261114/llms-full.txt): Prices in USD, data allowances, durations, speeds, coverage, product information and purchase links.
+
+## Website
+
+- [Shop](https://esim.dog/)
+- [Installation and usage help](https://esim.dog/help)
