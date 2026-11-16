@@ -1,0 +1,229 @@
+# eSIM.dog
+
+> Prepaid travel eSIMs and related products.
+
+## Product and price catalogue
+
+- [Complete product and price catalogue](https://raw.githubusercontent.com/vasssileek/llms-reading-test-20261110/50bd54aba31b38ff4156dab20a1dd5954c6c4c80/local-v58-20261116/llms-full.txt): Prices in USD, data allowances, durations, speeds, coverage, product information and purchase links.
+
+## Regional fixed eSIMs by destination
+
+Regional category names are shop labels. Each listed category has at least one fixed eSIM that covers the destination. Coverage, data sizes, durations and prices vary by offer.
+
+- Afghanistan (AF) — Global
+- Aland Islands (AX) — Europe, Global
+- Albania (AL) — Balkans, Europe, Global
+- Algeria (DZ) — Africa, Global
+- Andorra (AD) — Europe, Global
+- Angola (AO) — No regional fixed eSIMs listed
+- Anguilla (AI) — Caribbean, Global
+- Antigua and Barbuda (AG) — Caribbean, Global
+- Argentina (AR) — Caribbean, Global, Latin America, South America
+- Armenia (AM) — Asia, Global, Middle East
+- Aruba (AW) — Caribbean, Global
+- Australia (AU) — Asia, Global, Oceania, Regional (3 countries)
+- Austria (AT) — Europe, Global
+- Azerbaijan (AZ) — Global, Middle East
+- Bahamas (BS) — Caribbean, Global
+- Bahrain (BH) — Asia, Global, Middle East
+- Bangladesh (BD) — Asia, Global, South Asia
+- Barbados (BB) — Caribbean, Global
+- Belarus (BY) — Europe, Global
+- Belgium (BE) — Europe, Global
+- Belize (BZ) — Global
+- Benin (BJ) — Africa, Global
+- Bermuda (BM) — Caribbean, Global
+- Bhutan (BT) — South Asia
+- Bolivia (BO) — Caribbean, Global, Latin America
+- Bonaire (BQ) — Caribbean, Global
+- Bosnia and Herzegovina (BA) — Balkans, Europe, Global
+- Botswana (BW) — Africa, Global
+- Brazil (BR) — Caribbean, Global, Latin America, South America
+- British Virgin Islands (VG) — Caribbean, Global
+- Brunei Darussalam (BN) — Global
+- Bulgaria (BG) — Balkans, Europe, Global
+- Burkina Faso (BF) — Africa, Global
+- Burundi (BI) — No regional fixed eSIMs listed
+- Cambodia (KH) — Asia, Global, Southeast Asia
+- Cameroon (CM) — Africa, Global
+- Canada (CA) — Global, Latin America, North America
+- Cape Verde (CV) — Africa, Global
+- Cayman Islands (KY) — Caribbean, Global
+- Central African Rep (CF) — Africa, Global
+- Chad (TD) — Africa, Global
+- Chile (CL) — Global, Latin America, South America
+- China (CN) — Asia, East Asia, Global
+- Colombia (CO) — Caribbean, Global, Latin America
+- Congo Dem. Rep (CD) — Africa, Global
+- Congo Republic (CG) — Africa, Global
+- Costa Rica (CR) — Global, Latin America
+- Croatia (HR) — Balkans, Europe, Global
+- Cuba (CU) — No regional fixed eSIMs listed
+- Curaçao (CW) — Caribbean, Global, Netherlands Antilles
+- Cyprus (CY) — Europe, Global, Middle East
+- Czech Republic (CZ) — Europe, Global
+- Denmark (DK) — Europe, Global
+- Dominica (DM) — Caribbean, Global
+- Dominican Republic (DO) — Caribbean, Global
+- Ecuador (EC) — Global, Latin America, South America
+- Egypt (EG) — Africa, Asia, Europe, Global, Middle East
+- El Salvador (SV) — Global, Latin America
+- Estonia (EE) — Baltic, Europe, Global
+- Eswatini (SZ) — Africa, Global
+- Ethiopia (ET) — Global
+- Faroe Islands (FO) — Europe, Global
+- Fiji (FJ) — Global, Oceania
+- Finland (FI) — Europe, Global, Nordic
+- France (FR) — Europe, Global
+- French Guiana (GF) — Caribbean, Europe, Global, Latin America
+- French Polynesia (PF) — Global
+- French Saint Martin (MF) — Caribbean, Europe, Global, Latin America
+- Gabon (GA) — Africa, Global
+- Gambia (GM) — Africa, Global
+- Georgia (GE) — Asia, Europe, Global
+- Germany (DE) — Europe, Global
+- Ghana (GH) — Africa, Global
+- Gibraltar (GI) — Europe, Global
+- Greece (GR) — Balkans, Europe, Global
+- Greenland (GL) — Global
+- Grenada (GD) — Caribbean, Global
+- Guadeloupe (GP) — Caribbean, Global, Latin America, North America
+- Guam (GU) — Global, Oceania
+- Guatemala (GT) — Global, Latin America
+- Guernsey (GG) — Europe, Global
+- Guinea (GN) — Africa, Global
+- Guinea-Bissau (GW) — Africa, Global
+- Guyana (GY) — Caribbean, Global
+- Haiti (HT) — Caribbean, Global
+- Honduras (HN) — Global, Latin America
+- Hong Kong (HK) — Asia, East Asia, Global, Southeast Asia
+- Hungary (HU) — Europe, Global
+- Iceland (IS) — Europe, Global
+- India (IN) — Asia, Global, South Asia
+- Indonesia (ID) — Asia, Global, Southeast Asia
+- Iran (IR) — Global
+- Iraq (IQ) — Europe, Global, Middle East
+- Ireland (IE) — Europe, Global
+- Isle of Man (IM) — Europe, Global
+- Israel (IL) — Asia, Europe, Global, Middle East
+- Italy (IT) — Europe, Global
+- Ivory Coast (CI) — Africa, Global
+- Jamaica (JM) — Caribbean, Global
+- Japan (JP) — Asia, East Asia, Global
+- Jersey (JE) — Europe, Global
+- Jordan (JO) — Europe, Global, Middle East
+- Kazakhstan (KZ) — Asia, Central Asia, Europe, Global
+- Kenya (KE) — Africa, Global
+- Kosovo (XK) — Global
+- Kuwait (KW) — Asia, Europe, Global, Middle East
+- Kyrgyzstan (KG) — Asia, Central Asia, Europe, Global
+- Laos (LA) — Asia, Global, Southeast Asia
+- Latvia (LV) — Baltic, Europe, Global
+- Lebanon (LB) — Global
+- Lesotho (LS) — No regional fixed eSIMs listed
+- Liberia (LR) — Africa, Global
+- Libya (LY) — No regional fixed eSIMs listed
+- Liechtenstein (LI) — Europe, Global
+- Lithuania (LT) — Baltic, Europe, Global
+- Luxembourg (LU) — Europe, Global
+- Macao (China) (MO) — Asia, East Asia, Global, Southeast Asia
+- Madagascar (MG) — Africa, Global
+- Malawi (MW) — Africa, Global
+- Malaysia (MY) — Asia, Global, Southeast Asia
+- Maldives (MV) — No regional fixed eSIMs listed
+- Mali (ML) — Africa, Global
+- Malta (MT) — Europe, Global
+- Martinique (MQ) — Europe, Global, Latin America
+- Mauritania (MR) — Africa
+- Mauritius (MU) — Africa, Global
+- Mayotte (YT) — Europe, Global
+- Mexico (MX) — Global, Latin America, North America
+- Moldova (MD) — Europe, Global
+- Monaco (MC) — Global
+- Mongolia (MN) — Global
+- Montenegro (ME) — Balkans, Europe, Global
+- Montserrat (MS) — Caribbean, Global
+- Morocco (MA) — Africa, Europe, Global, Middle East
+- Mozambique (MZ) — Global
+- Myanmar (MM) — No regional fixed eSIMs listed
+- Nauru (NR) — Global, Oceania
+- Nepal (NP) — Global, South Asia
+- Netherlands (NL) — Europe, Global
+- New Caledonia (NC) — No regional fixed eSIMs listed
+- New Zealand (NZ) — Asia, Europe, Global, Oceania
+- Nicaragua (NI) — Global, Latin America
+- Niger (NE) — Africa, Global
+- Nigeria (NG) — Africa, Global
+- North Macedonia (MK) — Balkans, Europe, Global
+- Norway (NO) — Europe, Global, Nordic, Scandinavia
+- Oman (OM) — Asia, Europe, Global, Middle East
+- Pakistan (PK) — Asia, Europe, Global, South Asia
+- Palestine (PS) — Global, Middle East
+- Panama (PA) — Caribbean, Global, Latin America
+- Papua New Guinea (PG) — Global, Oceania
+- Paraguay (PY) — Caribbean, Global, Latin America
+- Peru (PE) — Caribbean, Global, Latin America, South America
+- Philippines (PH) — Asia, Global, Southeast Asia
+- Poland (PL) — Europe, Global
+- Portugal (PT) — Europe, Global
+- Puerto Rico (PR) — Caribbean, Global, Latin America
+- Qatar (QA) — Asia, Global, Middle East
+- Reunion (RE) — Africa, Europe, Global
+- Romania (RO) — Balkans, Europe, Global
+- Russia (RU) — Asia, Global
+- Rwanda (RW) — Africa, Global
+- Saint Barthelemy (BL) — Caribbean, Europe, Global, Latin America
+- Saint Kitts and Nevis (KN) — Caribbean, Global
+- Saint Lucia (LC) — Caribbean, Global
+- Saint Vincent and Grenadines (VC) — Caribbean, Global
+- Samoa (WS) — Global, Oceania
+- San Marino (SM) — Europe, Global
+- Saudi Arabia (SA) — Asia, Global, Middle East
+- Senegal (SN) — Africa, Global
+- Serbia (RS) — Balkans, Europe, Global
+- Seychelles (SC) — Africa, Global
+- Sierra Leone (SL) — Africa, Global
+- Singapore (SG) — Asia, Global, Southeast Asia
+- Sint Maarten (Dutch Part) (SX) — Caribbean, Global
+- Slovakia (SK) — Europe, Global
+- Slovenia (SI) — Balkans, Europe, Global
+- South Africa (ZA) — Africa, Global
+- South Korea (KR) — Asia, East Asia, Global
+- South Sudan (SS) — No regional fixed eSIMs listed
+- Spain (ES) — Europe, Global
+- Sri Lanka (LK) — Asia, Global, South Asia
+- Sudan (SD) — Africa
+- Suriname (SR) — Global
+- Sweden (SE) — Europe, Global, Nordic, Scandinavia
+- Switzerland (CH) — Europe, Global
+- Taiwan (TW) — Asia, East Asia, Global
+- Tajikistan (TJ) — Central Asia, Global
+- Tanzania (TZ) — Africa, Global
+- Thailand (TH) — Asia, Global, Southeast Asia
+- Timor-Leste (TL) — Global, Southeast Asia
+- Togo (TG) — Africa, Global
+- Tonga (TO) — Global, Oceania
+- Trinidad and Tobago (TT) — Caribbean, Global
+- Tunisia (TN) — Africa, Global, Middle East
+- Turkey (TR) — Balkans, Europe, Global, Middle East
+- Turks and Caicos Islands (TC) — Caribbean, Global
+- Uganda (UG) — Africa, Global
+- Ukraine (UA) — Europe, Global
+- United Arab Emirates (AE) — Europe, Global, Middle East
+- United Kingdom (GB) — Europe, Global, Regional (3 countries)
+- United States (US) — Europe, Global, Latin America, North America, Oceania, Regional (3 countries)
+- United States Virgin Islands (VI) — No regional fixed eSIMs listed
+- Uruguay (UY) — Caribbean, Global, Latin America, South America
+- Uzbekistan (UZ) — Asia, Central Asia, Europe, Global
+- Vanuatu (VU) — Oceania
+- Vatican City (VA) — Europe, Global
+- Venezuela (VE) — Latin America
+- Vietnam (VN) — Asia, Global, Southeast Asia
+- Yemen (YE) — No regional fixed eSIMs listed
+- Zambia (ZM) — Africa, Global
+- Zimbabwe (ZW) — Africa, Global
+
+## Website
+
+- [Shop](https://esim.dog/)
+- [Installation and usage help](https://esim.dog/help)
